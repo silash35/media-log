@@ -1,5 +1,6 @@
 {
   "csv-edit.readOption_hasHeader": "true",
   "csv-edit.writeOption_hasHeader": "true",
-  "cSpell.words": ["Gadot", "imdb", "Zegler"]
+  "csv-edit.initialColumnWidth": 300,
+  "cSpell.words": ["fanfic", "Gadot", "imdb", "Zegler"]
 }
