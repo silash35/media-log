@@ -1,7 +1,6 @@
 # movie-ratings
 
-> ⚠️ **Note:** This repository is written entirely in **Portuguese (pt-BR)**.  
-> It contains my personal reviews and ratings of movies.
+> ⚠️ **Note:** This repository is written entirely in **Portuguese (pt-BR)**. It contains my personal reviews and ratings of movies.
 
 Este repositório contém uma **coleção pessoal de filmes que assisti**, organizados com alguns dados relevantes como título, ano e, quando possível, notas, data em que foi visto e uma breve review.
 
@@ -18,7 +17,7 @@ Cada entrada (linha) do arquivo CSV ou base de dados contém os seguintes campos
 | `Year`           | Ano de lançamento                                                                 |
 | `Rating10`       | Nota dada ao filme usando a escala de 0 a 10                                      |
 | `Review`         | Análise do filme                                                                  |
-| `WatchedDate`    | Data em que o filme foi assistido (`DD-MM-AAAA`)                                  |
+| `WatchedDate`    | Data em que o filme foi assistido (`DD-MM-AAAA` ou `AAAA`)                                  |
 | `SafeForParents` | `true` ou `false`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
 | `SafeForKids`    | `true`, `false`. Se é apropriado para crianças                                    |
 
