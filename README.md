@@ -17,9 +17,9 @@ Cada entrada (linha) do arquivo CSV ou base de dados contém os seguintes campos
 | `Year`           | Ano de lançamento                                                                 |
 | `Rating10`       | Nota dada ao filme usando a escala de 0 a 10                                      |
 | `Review`         | Análise do filme                                                                  |
-| `WatchedDate`    | Data em que o filme foi assistido (`DD-MM-AAAA` ou `AAAA`)                                  |
+| `WatchedDate`    | Data em que o filme foi assistido (`DD-MM-AAAA` ou `AAAA`)                        |
 | `SafeForParents` | `true` ou `false`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
-| `SafeForKids`    | `true`, `false`. Se é apropriado para crianças                                    |
+| `SafeForKids`    | `true`, `false`. Se é apropriado para crianças (plot voltado para crianças)       |
 
 ## 🌟 Sistema de Notas – **Rating10**
 
