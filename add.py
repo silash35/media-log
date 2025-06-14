@@ -35,4 +35,3 @@ print("Nova entrada adicionada com sucesso!")
 
 # Converte o JSON atualizado para CSV
 json_para_csv(json_path, "movies.csv")
-print("Arquivo CSV atualizado com sucesso!")

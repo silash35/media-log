@@ -8,7 +8,7 @@ Nem todos os filmes têm review ou notas. Muitos eu assisti há muito tempo e es
 
 ## 🗂️ Estrutura dos Dados
 
-Cada entrada (linha) do arquivo CSV (ou o json) contém os seguintes campos:
+Cada entrada do arquivo CSV (ou o json) contém os seguintes campos:
 
 | Campo            | Descrição                                                                         |
 | ---------------- | --------------------------------------------------------------------------------- |
@@ -38,3 +38,9 @@ A nota vai de 0 a 10 e representa não apenas a qualidade técnica do filme, mas
 | **8**  | 👏 **Muito bom** – Destaque claro. Tecnicamente ou emocionalmente marcante                                                                       |
 | **9**  | 🔥 **Excelente** – Um dos grandes. Fica na memória. Merece ser visto e revisto                                                                   |
 | **10** | 🧠❤️ **Absolute cinema** – Uma obra-prima, não apenas dentro do seu gênero, mas para todo o cinema. Marcante, criativo e emocionalmente poderoso |
+
+## ❗ Sobre as Notas e Avaliações
+
+As notas atribuídas aqui não devem ser usadas para comparar diretamente um filme com outro. Uma nota 8 não significa necessariamente que um filme é melhor do que outro que recebeu 7. O contexto, o momento em que assisti, meu envolvimento emocional e vários fatores subjetivos influenciam minha experiência.
+
+As avaliações contidas neste repositório representam minha opinião pessoal. Não pretendo impor juízo universal sobre nenhuma obra. Além disso, não avalio os filmes com base na ideologia que apresentam. Um filme pode conter ideias equivocadas, ofensivas ou ultrapassadas (como racismo, machismo ou discursos problemáticos) e ainda assim ter um grande valor cinematográfico ou simplesmente oferecer entretenimento de qualidade. Por isso, a nota se refere à minha experiência com o filme, e não a um endosso de valores.
