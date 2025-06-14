@@ -2,5 +2,10 @@
   "csv-edit.readOption_hasHeader": "true",
   "csv-edit.writeOption_hasHeader": "true",
   "csv-edit.initialColumnWidth": 300,
-  "cSpell.words": ["fanfic", "Gadot", "imdb", "Zegler"]
+  "cSpell.words": ["fanfic", "Gadot", "imdb", "Ryca", "Thammy", "Zegler"],
+  "editor.wordWrap": "on",
+  "files.exclude": {
+    "__pycache__": true,
+    "LICENSE": true
+  }
 }

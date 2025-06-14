@@ -1,24 +1,24 @@
 imdbID,Title,Year,Rating10,Review,WatchedDate,SafeForParents,SafeForKids
-tt6208148,Snow White,2025,3.5,"Muito ruim. A Gal Gadot tá horrível, canta mal. Poucas coisas me deixam tão bravo num musical do que estragar a música do vilão. E a Rachel Zegler é tão feia que o tempo todo me distrai do filme.",01/06/2025,true,true
-tt0050083,12 Angry Men,1957,10,"É simplesmente um dos melhores filmes que eu já vi na vida. Nunca achei que fosse gostar tanto de um filme em preto e branco. Como que em 1h e meia o diretor em apenas uma locação conseguiu desenvolver tantos personagens tão bem, e me manter tão entretido. Em nenhum momento o filme fica chato e ele é todo só dialogo. Simplesmente genial. Pra 12 Homens e uma Sentença, a nota é 10. Assistam!",2025,true,false
+tt6208148,Snow White,2025,3.5,"Muito ruim. A Gal Gadot tá horrível, canta mal. Poucas coisas me deixam tão bravo num musical do que estragar a música do vilão. E a Rachel Zegler é tão feia que o tempo todo me distrai do filme.",01/06/2025,True,True
+tt0050083,12 Angry Men,1957,10,"É simplesmente um dos melhores filmes que eu já vi na vida. Nunca achei que fosse gostar tanto de um filme em preto e branco. Como que em 1h e meia o diretor em apenas uma locação conseguiu desenvolver tantos personagens tão bem, e me manter tão entretido. Em nenhum momento o filme fica chato e ele é todo só dialogo. Simplesmente genial. Pra 12 Homens e uma Sentença, a nota é 10. Assistam!",2025,True,False
 tt0050986,Wild Strawberries,1957,6.5,"É um ensaio sobre a velhice. Eu fui ver esse filme com um pé atrás por ser bem antigo, mas ele é um bom filme. Não tem bem um enredo, é mais sobre um velho fazendo uma viagem e refletindo sobre o passado e suas memórias. Sinto que tanto amor pelo cinema é algo que não se vê mais hoje em dia, pq o filme é muito bem feito.
 
-Minha nota não foi tão alta, pois não me envolvi muito com o filme. Talvez eu ainda não tenha a bagagem necessária para absorver tudo que ele oferece. Acredito que, ao revê-lo no futuro, quando eu mesmo for mais velho, ele fale comigo de outro jeito.",2025,,false
-tt3566834,A Minecraft Movie,2025,6.0,"Na verdade ele nem é ruim. Tá valendo, é um bom filme.
+Minha nota não foi tão alta, pois não me envolvi muito com o filme. Talvez eu ainda não tenha a bagagem necessária para absorver tudo que ele oferece. Acredito que, ao revê-lo no futuro, quando eu mesmo for mais velho, ele fale comigo de outro jeito.",2025,,False
+tt3566834,A Minecraft Movie,2025,6,"Na verdade ele nem é ruim. Tá valendo, é um bom filme.
 
 Tipo, quando saiu que iria ter o filme do Minecraft eu não conseguia conceber essa ideia. Como bulhufas vão fazer um live action de Minecraft??? Então eu acho que esse filme merece muito só pelo trabalho criativo, por todo o esforço de design em fazer um live action que ficou surpreendentemente bom. O tom do filme está correto, as mecânicas do jogo ficaram muito legais de ver na tela.
 
 A história que poderia ser melhor, as piadas e os personagens tbm. Mas não consigo criticar esse filme sem pensar o quão PIOR ele poderia ser. Acho que se o Doutor Estranho olhasse todas as 14 milhões de realidades possíveis, acho que estamos na melhor.
 
-Incomoda um pouco que o filme acaba limitando, até pra produções futuras, o infinito potencial que Minecraft tem. Mas tbm não é o fim do mundo.",2025,true,true
+Incomoda um pouco que o filme acaba limitando, até pra produções futuras, o infinito potencial que Minecraft tem. Mas tbm não é o fim do mundo.",2025,True,True
 tt2194499,About Time,2013,8.2,"(Leia junto com a review de **The Time Traveler's Wife (2009)**)
 
 Flerte.
 
 O título original de Questão de tempo é **About Time**. A tradução poderia ser ""sobre o tempo"" ou ""Finalmente, ein?"", mas melhor deixar como tá mesmo.
 
-Sobre o filme, ele me enganou um pouco, esperava um romance leve como **500 Dias com Ela (2009)**, mas, ao mesmo tempo, recebi tbm outro filme de brinde. Um filme sobre a vida, sobre a morte, sobre felicidade, sobre valorizar os momentos mais simples. Recomendo conferir.",2025,false,false
-tt0452694,The Time Traveler's Wife,2009,6.0,"(Leia junto com a review de **About Time (2013)**)
+Sobre o filme, ele me enganou um pouco, esperava um romance leve como **500 Dias com Ela (2009)**, mas, ao mesmo tempo, recebi tbm outro filme de brinde. Um filme sobre a vida, sobre a morte, sobre felicidade, sobre valorizar os momentos mais simples. Recomendo conferir.",2025,False,False
+tt0452694,The Time Traveler's Wife,2009,6,"(Leia junto com a review de **About Time (2013)**)
 
 Assédio.
 
@@ -26,7 +26,7 @@ O título original de **Te Amarei para Sempre** é **The Time Traveler's Wife**.
 
 Mas bem, esse filme é mais fanfic. Sem ofensas. O filme não é ruim não, mas tipo, dá pra perceber que ele foi escrito por uma mulher.
 
-Curiosamente (inclusive só percebi agora escrevendo isso) a mulher que faz par com o personagem principal é interpretada pela mesma atriz de **About Time (2013)**: Rachel McAdams. Foi uma franja de diferença de um filme pro outro e eu nem reconheci",2025,false,false
+Curiosamente (inclusive só percebi agora escrevendo isso) a mulher que faz par com o personagem principal é interpretada pela mesma atriz de **About Time (2013)**: Rachel McAdams. Foi uma franja de diferença de um filme pro outro e eu nem reconheci",2025,False,False
 tt20969586,Thunderbolts*,2025,7.8,"É o melhor filme da Marvel desde Ultimato.
 
 Que filme bom. É engraçado, a história é muito boa. Tá, a solução foi meio Steven Universo. Mas eu achei muito bem colocada e fez todo o sentido.
@@ -35,4 +35,13 @@ Entretanto agora a Marvel tem um problema, que não posso falar sem falar de spo
 
 Esse filme o tempo todo tem alguma piadinha. Isso não é um problema nesse filme, mas estou começando a entender quando alguém reclama da Marvel sobre isso.
 
-Esse também é o filme da Marvel que vc precisa assistir 30 coisas antes pra entender.",02/05/2025,true,false
+Esse também é o filme da Marvel que vc precisa assistir 30 coisas antes pra entender.",02/05/2025,True,False
+tt3666526,Copa de Elite,2014,7.0,"Durante a copa de 2014, Marcos Veras precisa salvar o Papa de uma tentativa de assassinato que ele vai sofrer por não ter aprovado o casamento gay (ou não ter permitido mudar a cara do cristo redentor para a cara do Rafinha Bastos, ficou em aberto isso).
+
+É claro que estou falando de Copa De Elite (2014) aquela comédia nacional dos mesmos criadores de **Tô Ryca (2016)** e **Tô Ryca 2 (2022)**. E véi, o filme é ruim, mas é tão ruim, mas é tão ruim, que dá a volta e fica bom.
+
+Me diverti pacas com esse troço. Só tem piada ruim, mas é tanta piada por minuto que não dá nem tempo de processar até pq algumas nem fazem mais sentido pq se perderam desdo longínquo ano de 2014.
+
+O elenco do filme é basicamente todos os brasileiros atores ou não. Não vou falar os nomes aqui pq parte da graça do filme é a aleatoriedade de aparecer gente aleatória, mas posso adiantar aqui o Babu (o ex BBB que na época não tinha ido pro BBB ainda), o Thammy Miranda e a Anita.
+
+Esse filme passa uma energia muito **Internet - O Filme (2017)** inclusive se vc ainda não viu """"Internet - O filme"""" vc está perdendo uma das piores coisas que a humanidade já teve o desprazer de produzir, mas tipo obrigação ver ele forma caráter",2025,False,False

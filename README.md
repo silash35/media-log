@@ -8,7 +8,7 @@ Nem todos os filmes têm review ou notas. Muitos eu assisti há muito tempo e es
 
 ## 🗂️ Estrutura dos Dados
 
-Cada entrada (linha) do arquivo CSV ou base de dados contém os seguintes campos:
+Cada entrada (linha) do arquivo CSV (ou o json) contém os seguintes campos:
 
 | Campo            | Descrição                                                                         |
 | ---------------- | --------------------------------------------------------------------------------- |
@@ -18,8 +18,8 @@ Cada entrada (linha) do arquivo CSV ou base de dados contém os seguintes campos
 | `Rating10`       | Nota dada ao filme usando a escala de 0 a 10                                      |
 | `Review`         | Análise do filme                                                                  |
 | `WatchedDate`    | Data em que o filme foi assistido (`DD-MM-AAAA` ou `AAAA`)                        |
-| `SafeForParents` | `true` ou `false`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
-| `SafeForKids`    | `true`, `false`. Se é apropriado para crianças (plot voltado para crianças)       |
+| `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
+| `SafeForKids`    | `True`, `False`. Se é apropriado para crianças (plot voltado para crianças)       |
 
 ## 🌟 Sistema de Notas – **Rating10**
 
