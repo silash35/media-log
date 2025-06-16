@@ -318,5 +318,35 @@
     "WatchedDate": "2025",
     "SafeForParents": false,
     "SafeForKids": false
+  },
+  {
+    "imdbID": "tt10621032",
+    "Title": "Lupin III: The First",
+    "Year": 2019,
+    "Rating10": 8.0,
+    "Review": "Que filme divertido! Trilha sonora impecável, animação muito bem feita com um estilo anime só que 3D. Não pensa muito, só vai na onda do filme e se divirta. Pode colocar a família toda pra assistir tbm.\n\nUma pena que tenha só um filme pq assistiria de boas uma continuação.",
+    "WatchedDate": "13/06/2025",
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0250494",
+    "Title": "Legally Blonde",
+    "Year": 2001,
+    "Rating10": 8.1,
+    "Review": "Finalmente um filme que fala de preconceito e todo o estigma associado a essa classe tão sofrida. Estou falando de **Legalmente Loira (2001)**!\n\nEsse filme não tinha direito de ser tão bom. Uma comédia muito bem feita, com umas sacadas ótimas. É um verdadeiro marco do seu gênero.",
+    "WatchedDate": "2025",
+    "SafeForParents": false,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0333780",
+    "Title": "Legally Blonde 2: Red, White & Blonde",
+    "Year": 2003,
+    "Rating10": 6.0,
+    "Review": "Uma pena que a continuação **Legalmente Loira 2 (2003)** não mantêm a qualidade. Aqui o roteiro é bem mais pobre, e a personagem principal ficou bem mais estereotipada sofrendo de um caso leve de flanderização. Mas o filme não é uma porcaria completa não, dá para se divertir.",
+    "WatchedDate": "2025",
+    "SafeForParents": false,
+    "SafeForKids": false
   }
 ]

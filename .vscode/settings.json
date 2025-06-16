@@ -1,13 +1,20 @@
 {
+  "files.autoSave": "onFocusChange",
   "csv-edit.readOption_hasHeader": "true",
   "csv-edit.writeOption_hasHeader": "true",
   "csv-edit.initialColumnWidth": 300,
+  "editor.wordWrap": "on",
+  "files.exclude": {
+    "__pycache__": true,
+    "LICENSE": true
+  },
   "cSpell.words": [
     "Brokeback",
     "Carell",
     "Coraline",
     "Cunk",
     "fanfic",
+    "flanderização",
     "Gadot",
     "imdb",
     "Joon",
@@ -18,10 +25,5 @@
     "Thammy",
     "Thunderdome",
     "Zegler"
-  ],
-  "editor.wordWrap": "on",
-  "files.exclude": {
-    "__pycache__": true,
-    "LICENSE": true
-  }
+  ]
 }

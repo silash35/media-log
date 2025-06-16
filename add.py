@@ -7,10 +7,10 @@ json_path = "movies.json"
 
 # Preencha os campos da nova entrada aqui
 nova_linha = {
-    "imdbID": "tt3666526",
-    "Title": "Copa",
-    "Year": 2014,
-    "Rating10": 7.0,
+    "imdbID": "tt0000000",
+    "Title": "Legally",
+    "Year": 2025,
+    "Rating10": 6.0,
     "Review": """Teste""",
     "WatchedDate": "2025",
     "SafeForParents": False,
@@ -31,7 +31,7 @@ dados.append(nova_linha)
 with open(json_path, "w", encoding="utf-8") as f:
     json.dump(dados, f, indent=2, ensure_ascii=False)
 
-print("Nova entrada adicionada com sucesso!")
+print(f"Entrada \"{nova_linha["Title"]}\" adicionada com sucesso!")
 
 # Converte o JSON atualizado para CSV
 json_para_csv(json_path, "movies.csv")
