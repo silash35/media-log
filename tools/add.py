@@ -1,49 +1,43 @@
 from config import movies_csv_path, movies_json_path, MovieEntry
 import json
-import os
-from sync import json_para_csv
-from validate import validar_e_ordenar
+from sync import json_to_csv
+from validate import validate
+from utils import order
 
-# Preencha os campos da nova entrada aqui
-nova_linha: MovieEntry = MovieEntry(
-    {
-        "imdbID": "tt6208148",
-        "Title": "Legally",
-        "Year": 2025,
-        "Rating10": 6.0,
-        "Review": """Teste""",
-        "FirstWatched": 2025,
-        "LastWatched": 2025,
-        "SafeForParents": False,
-        "SafeForKids": False,
-    }
-)
 
-# Verifica se o arquivo existe e carrega os dados existentes
-if os.path.exists(movies_json_path):
-    with open(movies_json_path, "r", encoding="utf-8") as f:
-        dados = json.load(f)
-else:
-    dados = []
+def add_movie_entry(new_entry: MovieEntry, json_file_path: str):
+    # Load existing data
+    with open(json_file_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-# Verifica se já existe imdbID igual
-if any(filme.get("imdbID") == nova_linha["imdbID"] for filme in dados):
-    raise ValueError(
-        f'Já existe um filme com imdbID "{nova_linha["imdbID"]}". Não foi possível adicionar.'
+    # Add the new entry
+    data.append(new_entry)
+
+    # Order the entries
+    data = [order(line, MovieEntry.__annotations__.keys()) for line in data]
+
+    # Save back to JSON
+    with open(json_file_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+    print(f'Entry "{new_entry["Title"]}" added successfully!')
+
+
+if __name__ == "__main__":
+    new_movie: MovieEntry = MovieEntry(
+        {
+            "imdbID": "tt0000000",
+            "Title": "Legally",
+            "Year": 2025,
+            "Rating10": 6.0,
+            "Review": """Teste""",
+            "FirstWatched": 2025,
+            "LastWatched": 2025,
+            "SafeForParents": False,
+            "SafeForKids": False,
+        }
     )
 
-
-# Adiciona a nova linha
-dados.append(nova_linha)
-
-# Valida e ordena os dados
-dados = [validar_e_ordenar(linha) for linha in dados]
-
-# Salva de volta no JSON
-with open(movies_json_path, "w", encoding="utf-8") as f:
-    json.dump(dados, f, indent=2, ensure_ascii=False)
-
-print(f'Entrada "{nova_linha["Title"]}" adicionada com sucesso!')
-
-# Converte o JSON atualizado para CSV
-json_para_csv(movies_json_path, movies_csv_path)
+    add_movie_entry(new_movie, movies_json_path)
+    validate(movies_json_path)
+    json_to_csv(movies_json_path, movies_csv_path)
