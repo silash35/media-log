@@ -392,5 +392,205 @@
     "LastWatched": "2025-06-20",
     "SafeForParents": true,
     "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0114709",
+    "Title": "Toy Story",
+    "Year": 1995,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0120623",
+    "Title": "A Bug's Life",
+    "Year": 1998,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0120363",
+    "Title": "Toy Story 2",
+    "Year": 1999,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0198781",
+    "Title": "Monsters, Inc.",
+    "Year": 2001,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0266543",
+    "Title": "Finding Nemo",
+    "Year": 2003,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0317705",
+    "Title": "The Incredibles",
+    "Year": 2004,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0317219",
+    "Title": "Cars",
+    "Year": 2006,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0382932",
+    "Title": "Ratatouille",
+    "Year": 2007,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0910970",
+    "Title": "WALL·E",
+    "Year": 2008,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt1049413",
+    "Title": "Up",
+    "Year": 2009,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0435761",
+    "Title": "Toy Story 3",
+    "Year": 2010,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt1216475",
+    "Title": "Cars 2",
+    "Year": 2011,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt1217209",
+    "Title": "Brave",
+    "Year": 2012,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt1453405",
+    "Title": "Monsters University",
+    "Year": 2013,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt2096673",
+    "Title": "Inside Out",
+    "Year": 2015,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt1979388",
+    "Title": "The Good Dinosaur",
+    "Year": 2015,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt2277860",
+    "Title": "Finding Dory",
+    "Year": 2016,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt3606752",
+    "Title": "Cars 3",
+    "Year": 2017,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt2380307",
+    "Title": "Coco",
+    "Year": 2017,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt3606756",
+    "Title": "Incredibles 2",
+    "Year": 2018,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt1979376",
+    "Title": "Toy Story 4",
+    "Year": 2019,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt2948372",
+    "Title": "Onward",
+    "Year": 2020,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt2948372",
+    "Title": "Soul",
+    "Year": 2020,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt12801262",
+    "Title": "Luca",
+    "Year": 2021,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt8097030",
+    "Title": "Turning Red",
+    "Year": 2022,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt10298810",
+    "Title": "Lightyear",
+    "Year": 2022,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt15789038",
+    "Title": "Elemental",
+    "Year": 2023,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt22022452",
+    "Title": "Inside Out 2",
+    "Year": 2024,
+    "Rating10": 8.0,
+    "Review": "É muito bom, talvez até melhor que o original.\n\nA Disney tem que parar de ficar fazendo continuações e me doeu ir no cinema incentivar esse comportamento, mas aqui eles acertaram muito. Inclusive tem a melhor representação de uma crise de ansiedade que eu já vi (a última tinha sido em gato de botas 2).",
+    "FirstWatched": 2024,
+    "LastWatched": 2024,
+    "SafeForParents": true,
+    "SafeForKids": true
   }
 ]
