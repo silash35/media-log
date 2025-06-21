@@ -381,5 +381,16 @@
     "LastWatched": 2025,
     "SafeForParents": false,
     "SafeForKids": false
+  },
+  {
+    "imdbID": "tt28443655",
+    "Title": "Death of a Unicorn",
+    "Year": 2025,
+    "Rating10": 5.2,
+    "Review": "Tem um conceito interessante, o trailer me convenceu a assistir e fui com grandes expectativas. Mas o filme é, infelizmente, previsível e que não surpreende. Uma pena, até pelo grande elenco",
+    "FirstWatched": "2025-06-20",
+    "LastWatched": "2025-06-20",
+    "SafeForParents": true,
+    "SafeForKids": false
   }
 ]
