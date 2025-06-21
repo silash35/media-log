@@ -17,7 +17,8 @@ Cada entrada do arquivo CSV (ou o json) contém os seguintes campos:
 | `Year`           | Ano de lançamento                                                                 |
 | `Rating10`       | Nota dada ao filme usando a escala de 0 a 10                                      |
 | `Review`         | Análise do filme                                                                  |
-| `WatchedDate`    | Data em que o filme foi assistido (`DD-MM-AAAA` ou `AAAA`)                        |
+| `FirstWatched`   | Data em que o filme foi assistido pela primeira vez (`YYYY-MM-DD` ou `YYYY`)      |
+| `LastWatched`    | Data mais recente em que o filme foi assistido(`YYYY-MM-DD` ou `YYYY`)            |
 | `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
 | `SafeForKids`    | `True`, `False`. Se é apropriado para crianças (plot voltado para crianças)       |
 

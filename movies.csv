@@ -1,24 +1,24 @@
-imdbID,Title,Year,Rating10,Review,WatchedDate,SafeForParents,SafeForKids
-tt6208148,Snow White,2025,3.5,"Muito ruim. A Gal Gadot tá horrível, canta mal. Poucas coisas me deixam tão bravo num musical do que estragar a música do vilão. E a Rachel Zegler é tão feia que o tempo todo me distrai do filme.",01/06/2025,True,True
-tt0050083,12 Angry Men,1957,10,"É simplesmente um dos melhores filmes que eu já vi na vida. Nunca achei que fosse gostar tanto de um filme em preto e branco. Como que em 1h e meia o diretor em apenas uma locação conseguiu desenvolver tantos personagens tão bem, e me manter tão entretido. Em nenhum momento o filme fica chato e ele é todo só dialogo. Simplesmente genial. Pra 12 Homens e uma Sentença, a nota é 10. Assistam!",2025,True,False
+imdbID,Title,Year,Rating10,Review,FirstWatched,LastWatched,SafeForParents,SafeForKids
+tt6208148,Snow White,2025,3.5,"Muito ruim. A Gal Gadot tá horrível, canta mal. Poucas coisas me deixam tão bravo num musical do que estragar a música do vilão. E a Rachel Zegler é tão feia que o tempo todo me distrai do filme.",2025-06-01,2025-06-01,True,True
+tt0050083,12 Angry Men,1957,10.0,"É simplesmente um dos melhores filmes que eu já vi na vida. Nunca achei que fosse gostar tanto de um filme em preto e branco. Como que em 1h e meia o diretor em apenas uma locação conseguiu desenvolver tantos personagens tão bem, e me manter tão entretido. Em nenhum momento o filme fica chato e ele é todo só dialogo. Simplesmente genial. Pra 12 Homens e uma Sentença, a nota é 10. Assistam!",2025,2025,True,False
 tt0050986,Wild Strawberries,1957,6.5,"É um ensaio sobre a velhice. Eu fui ver esse filme com um pé atrás por ser bem antigo, mas ele é um bom filme. Não tem bem um enredo, é mais sobre um velho fazendo uma viagem e refletindo sobre o passado e suas memórias. Sinto que tanto amor pelo cinema é algo que não se vê mais hoje em dia, pq o filme é muito bem feito.
 
-Minha nota não foi tão alta, pois não me envolvi muito com o filme. Talvez eu ainda não tenha a bagagem necessária para absorver tudo que ele oferece. Acredito que, ao revê-lo no futuro, quando eu mesmo for mais velho, ele fale comigo de outro jeito.",2025,,False
-tt3566834,A Minecraft Movie,2025,6,"Na verdade ele nem é ruim. Tá valendo, é um bom filme.
+Minha nota não foi tão alta, pois não me envolvi muito com o filme. Talvez eu ainda não tenha a bagagem necessária para absorver tudo que ele oferece. Acredito que, ao revê-lo no futuro, quando eu mesmo for mais velho, ele fale comigo de outro jeito.",2025,2025,,False
+tt3566834,A Minecraft Movie,2025,6.0,"Na verdade ele nem é ruim. Tá valendo, é um bom filme.
 
 Tipo, quando saiu que iria ter o filme do Minecraft eu não conseguia conceber essa ideia. Como bulhufas vão fazer um live action de Minecraft??? Então eu acho que esse filme merece muito só pelo trabalho criativo, por todo o esforço de design em fazer um live action que ficou surpreendentemente bom. O tom do filme está correto, as mecânicas do jogo ficaram muito legais de ver na tela.
 
 A história que poderia ser melhor, as piadas e os personagens tbm. Mas não consigo criticar esse filme sem pensar o quão PIOR ele poderia ser. Acho que se o Doutor Estranho olhasse todas as 14 milhões de realidades possíveis, acho que estamos na melhor.
 
-Incomoda um pouco que o filme acaba limitando, até pra produções futuras, o infinito potencial que Minecraft tem. Mas tbm não é o fim do mundo.",2025,True,True
+Incomoda um pouco que o filme acaba limitando, até pra produções futuras, o infinito potencial que Minecraft tem. Mas tbm não é o fim do mundo.",2025,2025,True,True
 tt2194499,About Time,2013,8.2,"(Leia junto com a review de **The Time Traveler's Wife (2009)**)
 
 Flerte.
 
 O título original de Questão de tempo é **About Time**. A tradução poderia ser ""sobre o tempo"" ou ""Finalmente, ein?"", mas melhor deixar como tá mesmo.
 
-Sobre o filme, ele me enganou um pouco, esperava um romance leve como **500 Dias com Ela (2009)**, mas, ao mesmo tempo, recebi tbm outro filme de brinde. Um filme sobre a vida, sobre a morte, sobre felicidade, sobre valorizar os momentos mais simples. Recomendo conferir.",2025,False,False
-tt0452694,The Time Traveler's Wife,2009,6,"(Leia junto com a review de **About Time (2013)**)
+Sobre o filme, ele me enganou um pouco, esperava um romance leve como **500 Dias com Ela (2009)**, mas, ao mesmo tempo, recebi tbm outro filme de brinde. Um filme sobre a vida, sobre a morte, sobre felicidade, sobre valorizar os momentos mais simples. Recomendo conferir.",2025,2025,False,False
+tt0452694,The Time Traveler's Wife,2009,6.0,"(Leia junto com a review de **About Time (2013)**)
 
 Assédio.
 
@@ -26,7 +26,7 @@ O título original de **Te Amarei para Sempre** é **The Time Traveler's Wife**.
 
 Mas bem, esse filme é mais fanfic. Sem ofensas. O filme não é ruim não, mas tipo, dá pra perceber que ele foi escrito por uma mulher.
 
-Curiosamente (inclusive só percebi agora escrevendo isso) a mulher que faz par com o personagem principal é interpretada pela mesma atriz de **About Time (2013)**: Rachel McAdams. Foi uma franja de diferença de um filme pro outro e eu nem reconheci",2025,False,False
+Curiosamente (inclusive só percebi agora escrevendo isso) a mulher que faz par com o personagem principal é interpretada pela mesma atriz de **About Time (2013)**: Rachel McAdams. Foi uma franja de diferença de um filme pro outro e eu nem reconheci",2025,2025,False,False
 tt20969586,Thunderbolts*,2025,7.5,"É o melhor filme da Marvel desde Ultimato.
 
 Que filme bom. É engraçado, a história é muito boa. Tá, a solução foi meio Steven Universo. Mas eu achei muito bem colocada e fez todo o sentido.
@@ -35,7 +35,7 @@ Entretanto agora a Marvel tem um problema, que não posso falar sem falar de spo
 
 Esse filme o tempo todo tem alguma piadinha. Isso não é um problema nesse filme, mas estou começando a entender quando alguém reclama da Marvel sobre isso.
 
-Esse também é o filme da Marvel que vc precisa assistir 30 coisas antes pra entender.",02/05/2025,True,False
+Esse também é o filme da Marvel que vc precisa assistir 30 coisas antes pra entender.",2025-05-02,2025-05-02,True,False
 tt3666526,Copa de Elite,2014,7.0,"Durante a copa de 2014, Marcos Veras precisa salvar o Papa de uma tentativa de assassinato que ele vai sofrer por não ter aprovado o casamento gay (ou não ter permitido mudar a cara do cristo redentor para a cara do Rafinha Bastos, ficou em aberto isso).
 
 É claro que estou falando de Copa De Elite (2014) aquela comédia nacional dos mesmos criadores de **Tô Ryca (2016)** e **Tô Ryca 2 (2022)**. E véi, o filme é ruim, mas é tão ruim, mas é tão ruim, que dá a volta e fica bom.
@@ -44,20 +44,20 @@ Me diverti pacas com esse troço. Só tem piada ruim, mas é tanta piada por min
 
 O elenco do filme é basicamente todos os brasileiros atores ou não. Não vou falar os nomes aqui pq parte da graça do filme é a aleatoriedade de aparecer gente aleatória, mas posso adiantar aqui o Babu (o ex BBB que na época não tinha ido pro BBB ainda), o Thammy Miranda e a Anita.
 
-Esse filme passa uma energia muito **Internet - O Filme (2017)** inclusive se vc ainda não viu """"Internet - O filme"""" vc está perdendo uma das piores coisas que a humanidade já teve o desprazer de produzir, mas tipo obrigação ver ele forma caráter",2025,False,False
-tt23561236,American Fiction,2023,7.7,"É melhor do que eu esperava. O final tem uma piada muito boa, mas eu queria uma conclusão da história mesmo. Mas meio que isso tbm era a piada do final então sentimentos mistos.",2024,False,False
-tt1623288,ParaNorman,2012,6.0,"É uma animação bem simples pra criança. Estava esperando mais, até pelo estilo de animação de stop motion e por ser do mesmo estúdio de **Coraline e o Mundo Secreto (2009)**.",2025,True,True
-tt0388795,Brokeback Mountain,2005,8.0,"Mostra o quão hétero pode ser um romance gay. Pô, não é clássico cinema à toa. Tipo, todas as nuances do filme, toda a complexidade dos sentimentos e das situações. O filme é um pouco lento, mas entendo que é um ritmo necessário para contar a história.",2024,False,False
-tt1570728,"Crazy, Stupid, Love.",2011,8.8,"comédia romântica com Emma Stone, Steve Carell e literalmente eu. Pô, muito divertido. Tem um ritmo muito legal e é um filme de fácil digestão, além de ter uma das melhores cenas já feitas de todos os tempos, se vc assistiu ao filme você sabe qual cena é essa.",2024,False,False
-tt5052448,Get Out,2017,8.5,"olha, eu geralmente não gosto de filmes de terror. Mas esse aqui é muito bom. Filmaço.",2024,False,False
+Esse filme passa uma energia muito **Internet - O Filme (2017)** inclusive se vc ainda não viu """"Internet - O filme"""" vc está perdendo uma das piores coisas que a humanidade já teve o desprazer de produzir, mas tipo obrigação ver ele forma caráter",2025,2025,False,False
+tt23561236,American Fiction,2023,7.7,"É melhor do que eu esperava. O final tem uma piada muito boa, mas eu queria uma conclusão da história mesmo. Mas meio que isso tbm era a piada do final então sentimentos mistos.",2024,2024,False,False
+tt1623288,ParaNorman,2012,6.0,"É uma animação bem simples pra criança. Estava esperando mais, até pelo estilo de animação de stop motion e por ser do mesmo estúdio de **Coraline e o Mundo Secreto (2009)**.",2025,2025,True,True
+tt0388795,Brokeback Mountain,2005,8.0,"Mostra o quão hétero pode ser um romance gay. Pô, não é clássico cinema à toa. Tipo, todas as nuances do filme, toda a complexidade dos sentimentos e das situações. O filme é um pouco lento, mas entendo que é um ritmo necessário para contar a história.",2024,2024,False,False
+tt1570728,"Crazy, Stupid, Love.",2011,8.8,"comédia romântica com Emma Stone, Steve Carell e literalmente eu. Pô, muito divertido. Tem um ritmo muito legal e é um filme de fácil digestão, além de ter uma das melhores cenas já feitas de todos os tempos, se vc assistiu ao filme você sabe qual cena é essa.",2024,2024,False,False
+tt5052448,Get Out,2017,8.5,"olha, eu geralmente não gosto de filmes de terror. Mas esse aqui é muito bom. Filmaço.",2024,2024,False,False
 tt0211915,Amélie,2001,8.0,"É um filme francês, bem cult. E o filme é muito criativo e com muita personalidade. Tive um pouco de dificuldade de me conectar pq o filme tem uma estrutura diferente e ele é todo colorido por uma paleta de cores bem específica, mas dá pra entender pq esse filme é o preferido de muita gente.
 
-Inclusive dá vontade de ir a frança depois de assistir esse filme, mas é só ver uma foto real do lugar que a vontade vai embora.",2024,False,False
+Inclusive dá vontade de ir a frança depois de assistir esse filme, mas é só ver uma foto real do lugar que a vontade vai embora.",2024,2024,False,False
 tt14513804,Captain America: Brave New World,2025,4.5,"Também conhecido como capitão America sem capitão América, não é tão ruim quanto eu esperava. Dá pra se divertir até.
 
 Mas tipo, vilão ruim, o cara fazendo mil coisas sobre-humanas sem ter tomado o soro de super soldado, o Hulk vermelho sendo derrotado com uma solução muito ruim. Enfim, um monte de coisas que me incomodaram.
 
-Já teve filmes piores da Marvel. Consigo perdoar esse até. Mas o que eu não perdoo é a cena pós créditos minha nossa que coisa ruim não faz o menor sentido.",2025,True,False
+Já teve filmes piores da Marvel. Consigo perdoar esse até. Mas o que eu não perdoo é a cena pós créditos minha nossa que coisa ruim não faz o menor sentido.",2025,2025,True,False
 tt20215234,Conclave,2024,7.0,"Depois desse marketing todo, tive que ver.
 
 Em Conclave (2024) nós acompanhamos o Decano Lawrence em sua missão de organizar o Conclave após o Papa morrer. Mas como diria a Selena Gomez: nem tudo é o que parece ser.
@@ -66,25 +66,25 @@ O filme deixa muito claro que existe uma ala progressista e uma ala conservadora
 
 Bom, com essa premissa, fui me deixando levar pelo filme. É muito interessante ver o jogo dos votos, as estratégias sendo feitas quando novas informações chegam a publico.
 
-O filme é muito bem dirigido. Uma fotografia muito linda, tudo muito bem feito. Eu geralmente relevo a ideologia do filme, mesmo que eu discorde. Então tava até gostando, mas o final já achei paia. Não estrega totalmente o filme, mas é decepcionante. Pra um filme que foi construindo tudo tão devagar, um candidato vencendo meio do nada foi bem chato. E depois de escolhido o Papa, não dá tempo de fazer uma discussão mais profunda e nem ao menos ver a reação das pessoas. Não foi um bom final.",2025,True,False
-tt34874258,Cunk on Life,2024,7.5,,2025,False,False
+O filme é muito bem dirigido. Uma fotografia muito linda, tudo muito bem feito. Eu geralmente relevo a ideologia do filme, mesmo que eu discorde. Então tava até gostando, mas o final já achei paia. Não estrega totalmente o filme, mas é decepcionante. Pra um filme que foi construindo tudo tão devagar, um candidato vencendo meio do nada foi bem chato. E depois de escolhido o Papa, não dá tempo de fazer uma discussão mais profunda e nem ao menos ver a reação das pessoas. Não foi um bom final.",2025,2025,True,False
+tt34874258,Cunk on Life,2024,7.5,,2025,2025,False,False
 tt12299608,Mickey 17,2024,7.5,"É bom. Acho que o mundo não tava preparado para uma ficção científica assim, mas pra um fã de Doctor Who é um passeio na praça. Inclusive algumas vezes o filme me pareceu um prequel de “Dot and Bubble”, um ep da 1° temporada da Disney.
 
 Acredito que o filme se sustente sozinho mesmo sem considerar as críticas sociais. Mas agora focando nelas, dessa vez ficaram muito mais escrachadas, acho que podiam ter feito de maneira mais inteligente. As críticas me lembraram muito mais **Não Olhe para Cima (2021)** do que **Parasita (2019)**, o outro filme do Bong Joon-ho que fez ele conseguir tanta verba pra fazer esse aqui.
 
-obs: Não precisa ver os outros 16 filmes do Mickey pra entender esse.",2025,False,False
+obs: Não precisa ver os outros 16 filmes do Mickey pra entender esse.",2025,2025,False,False
 tt0079501,Mad Max,1979,5.0,"Do mesmo diretor de **Babe - O Porquinho Atrapalhado (1995)** e **Babe - O Porquinho Atrapalhado na Cidade (1998)**, aqui inicia uma das maiores sagas de todos os tempos: Mad Max!
 
-Mas esse inicio aqui é bem chato. Tá eu entendo, filme antigo e tals. Mas tirando o ritmo lento, o filme não é ruim. E é interessante ver o começo de tudo.",2025,False,False
-tt0082694,Mad Max 2,1981,6.1,"Agora a gente começa a ver o Mad Max que todo mundo conhece. Mundo pós-apocalíptico, muito deserto e gente doida. Esse aqui é o melhor da trilogia original.",2025,False,False
-tt0089530,Mad Max Beyond Thunderdome,1985,4.5,"É ruim. Começa bem até, a gente vai relevando algumas coisas mas depois fica só ruim mesmo.",2025,False,False
-tt1392190,Mad Max: Fury Road,2015,9.2,"Ah finalmente os refrescos. Esse aqui é a estrela da franquia! De longe, o melhor! Inclusive considerado por muitos o melhor filme de ação de todos os tempos. Não faço a menor ideia de como que fizeram esse filme sem ter matado ninguém no processo, pq que espetáculo de explosões, corridas, acrobacias e tudo que tem direito.",2025,False,False
-tt12037194,Furiosa: A Mad Max Saga,2024,8.0,"É bom! Claro, não é um estrada da fúria, mas é um prequel que não faz vergonha nenhuma. Tem historia, tem ação e ainda me fez entender melhor o estrada da fúria, explorando melhor o universo de uma maneira muito legal.",2025,False,False
+Mas esse inicio aqui é bem chato. Tá eu entendo, filme antigo e tals. Mas tirando o ritmo lento, o filme não é ruim. E é interessante ver o começo de tudo.",2025,2025,False,False
+tt0082694,Mad Max 2,1981,6.1,"Agora a gente começa a ver o Mad Max que todo mundo conhece. Mundo pós-apocalíptico, muito deserto e gente doida. Esse aqui é o melhor da trilogia original.",2025,2025,False,False
+tt0089530,Mad Max Beyond Thunderdome,1985,4.5,"É ruim. Começa bem até, a gente vai relevando algumas coisas mas depois fica só ruim mesmo.",2025,2025,False,False
+tt1392190,Mad Max: Fury Road,2015,9.2,"Ah finalmente os refrescos. Esse aqui é a estrela da franquia! De longe, o melhor! Inclusive considerado por muitos o melhor filme de ação de todos os tempos. Não faço a menor ideia de como que fizeram esse filme sem ter matado ninguém no processo, pq que espetáculo de explosões, corridas, acrobacias e tudo que tem direito.",2025,2025,False,False
+tt12037194,Furiosa: A Mad Max Saga,2024,8.0,"É bom! Claro, não é um estrada da fúria, mas é um prequel que não faz vergonha nenhuma. Tem historia, tem ação e ainda me fez entender melhor o estrada da fúria, explorando melhor o universo de uma maneira muito legal.",2025,2025,False,False
 tt0081505,The Shining,1980,9.0,"Simplesmente cinema. Stanley Kubrick tá de parabéns.
 
 Esse filme leva seu tempo para construir o terreno, mas é tudo feito de maneira impecável. Você fica realmente se importando com os personagens e entende o que leva as coisas acontecerem daquele jeito. Tudo isso sem ser chato e lento como **2001 - Uma Odisseia no Espaço (1968)**, que apesar de ser um grande filme não deixa ser cansativo em alguns momentos.
 
-E tudo perfeito. O cenário, o modo que as filmagens são feitas, a trilha sonora, as atuações. Tudo ajuda a contar a história e contribui para imersão.",14/09/2024,False,False
+E tudo perfeito. O cenário, o modo que as filmagens são feitas, a trilha sonora, as atuações. Tudo ajuda a contar a história e contribui para imersão.",2024-09-14,2024-09-14,False,False
 tt5606664,Doctor Sleep,2019,8.2,"é MUITO BOM VÉI! Imagina o desafio de fazer uma sequência pra O Iluminado. O filme do Stanley Kubrick. Mesmo assim aqui o diretor foi muito bem.
 
 Primeiro que atualizou o filme pra um ritmo moderno. Sem takes longos. Esse filme me entreteve bem mais que o outro. Não vou cometer o crime de dizer que ele é melhor que o anterior, tenham calma. Mas é sim bem mais palatável para audiências modernas (gente não cult) e posso recomendar com menos medo.
@@ -93,7 +93,7 @@ Só pra eu não ficar aqui só falando bem, uma coisa que me incomodou um pouco 
 
 Esse filme tbm tira um pouco do ar mistico, então medo mesmo eu senti menos nesse filme. Tipo, se antes os poderes eram algo inexplicável, mistico, tipo o garotinho do **O Sexto Sentido (1999)**, aqui tá mais pra uns X-men.
 
-Mas pô. A ideia toda dessa saga é muito boa todo o conceito é muito interessante. Acho que de terror, não consigo lembrar aqui algum filme que eu tenha assistido melhor que esses dois.",2024,False,False
+Mas pô. A ideia toda dessa saga é muito boa todo o conceito é muito interessante. Acho que de terror, não consigo lembrar aqui algum filme que eu tenha assistido melhor que esses dois.",2024,2024,False,False
 tt14961016,Ainda Estou Aqui,2024,8.3,"Que filme, que atuação, que qualidade.
 
 Eu entendo quem não gostou do filme pq ele é propaganda esquerdista e bem parcial. Não mostra o outro lado sobre os terroristas da época, terroristas estes que se tivessem ganhado fariam uma ditadura mil vezes pior. E tbm não deixa de ser hipócrita visto que as pessoas que fizeram o filme defendem a ditadura do STF que vivemos hoje e gritam ""sem anistia"".
@@ -102,29 +102,29 @@ Mas o filme não se propõe a isso. Ele conta brilhantemente a visão da Eunice 
 
 E tá, filme nacional com crítica social já saturou, mas aqui foi tão bem feito, e não deixa de ser importante relembrar que a ditadura foi um período sombrio da história do Brasil.
 
-Tbm preciso elogiar o quão bem o filme recriou o Rio de Janeiro de antigamente. Os carros as roupas tudo.",2025,False,False
+Tbm preciso elogiar o quão bem o filme recriou o Rio de Janeiro de antigamente. Os carros as roupas tudo.",2025,2025,False,False
 tt0762107,I Now Pronounce You Chuck & Larry,2007,6.5,"Eu já tô acostumado com o Adam Sandler no final de todos os filmes ficando com a mulher gostosa. Mas em Eu os Declaro Marido e… Larry (2007) o filme olha para minha cara e jura que ele é o grande pegador aponto das mulheres comprarem um CALENDÁRIO com a foto dele. Aí faltou timidez, faltou autorreconhecimento da parte dele né.
 
-Mas tirando isso é um bom filme do Adam Sandler. Ele tbm levanta uma pauta social importante de uma forma inteligente, então ficou legal.",2025,False,False
+Mas tirando isso é um bom filme do Adam Sandler. Ele tbm levanta uma pauta social importante de uma forma inteligente, então ficou legal.",2025,2025,False,False
 tt8999762,The Brutalist,2024,6.0,"É um filme Brutalista mesmo. É um filme bastante longo, com 3 horas e 20 minutos de duração. E que na minha opinião, não foram necessários. Eu entendo, brutalismo tem que ser algo grande. Mas o filme não tinha tanta história assim pra 3 horas.
 
 Agora se **Eu os Declaro Marido e… Larry (2007)** quer me convencer que o Adam Sandler é bonito, esse aqui tenta me convencer que brutalismo é bonito. O personagem principal constrói um prédio todo mundo bate palma, ai vc vai ver o prédio é horroroso.
 
-Eu terminei o filme com a sensação de que não peguei o filme todo. Que é um filme pra ver mais de uma vez. Entretanto, 3h de duração não vou ver não desculpe.",2025,False,False
-tt1609486,Harold and the Purple Crayon,2024,5.5,É um bom filme infantil. Cumpre o que promete.,2025,True,True
-tt0172495,Gladiator,2000,9.2,"É realmente um clássico do cinema. Trilha sonora espetacular, muita ação de qualidade, efeitos especiais incríveis e uma história genuinamente boa. É disso que o cinema precisa. Se eu tenho algo pra falar mal é que durante as batalhas o diretor exagerou nos cortes rápidos e as cenas ficaram confusas, mas tbm não é o fim do mundo. Máximus Décimus pra mim já tá nos top melhores protagonistas de todos os tempos.",2025,True,False
+Eu terminei o filme com a sensação de que não peguei o filme todo. Que é um filme pra ver mais de uma vez. Entretanto, 3h de duração não vou ver não desculpe.",2025,2025,False,False
+tt1609486,Harold and the Purple Crayon,2024,5.5,É um bom filme infantil. Cumpre o que promete.,2025,2025,True,True
+tt0172495,Gladiator,2000,9.2,"É realmente um clássico do cinema. Trilha sonora espetacular, muita ação de qualidade, efeitos especiais incríveis e uma história genuinamente boa. É disso que o cinema precisa. Se eu tenho algo pra falar mal é que durante as batalhas o diretor exagerou nos cortes rápidos e as cenas ficaram confusas, mas tbm não é o fim do mundo. Máximus Décimus pra mim já tá nos top melhores protagonistas de todos os tempos.",2025,2025,True,False
 tt9218128,Gladiator II,2024,7.8,"O primeiro foi tão bom que eu já fui ver esse aqui com um pé atrás. 24 anos depois querer fazer uma continuação de um filme que simplesmente não precisava. Mas Gladiador 2 não é ruim não. Me entreteve é divertido. Não é tão bom quanto o primeiro filme, mas valeria de boa uma ida ao cinema.
 
-Tudo aqui tá mais grandioso, o que é natural, por agora temos mais tecnologia. Mas, ao mesmo tempo, as motivações, a história, os personagens não estão tão bem construídos, fechadinhos… Isso me incomodou mas as outras coisas fazem o filme valer a pena. Outra coisa que não gostei foi uns macacos deformados que aparecem, meio macaco meio cachorro ficou um CGI bem ruim e tirou minha imersão um pouco, ainda bem que depois passou não teve mais.",2025,True,False
+Tudo aqui tá mais grandioso, o que é natural, por agora temos mais tecnologia. Mas, ao mesmo tempo, as motivações, a história, os personagens não estão tão bem construídos, fechadinhos… Isso me incomodou mas as outras coisas fazem o filme valer a pena. Outra coisa que não gostei foi uns macacos deformados que aparecem, meio macaco meio cachorro ficou um CGI bem ruim e tirou minha imersão um pouco, ainda bem que depois passou não teve mais.",2025,2025,True,False
 tt28607951,Anora,2024,8.0,"É divertidíssimo. O começo eu fiquei tipo, mas gente é filme pornô isso aqui é? aí depois tem a melhor sequência de eventos possível e o final bem blé. Montanha-russa de emoções (nossa fiz uma piada sem querer aqui).
 
 A atriz principal aqui tá ótima. Ainda acho que a Fernanda Torres deveria ter ganho o Oscar de melhor atriz, mas a Mikey não fez feio não.
 
-Já o ator que faz o twink lá me convenceu totalmente que ele é um adolescente crianção irresponsável, se eu ver na rua chuto quero nem saber.",2025,False,False
+Já o ator que faz o twink lá me convenceu totalmente que ele é um adolescente crianção irresponsável, se eu ver na rua chuto quero nem saber.",2025,2025,False,False
 tt10621032,Lupin III: The First,2019,8.0,"Que filme divertido! Trilha sonora impecável, animação muito bem feita com um estilo anime só que 3D. Não pensa muito, só vai na onda do filme e se divirta. Pode colocar a família toda pra assistir tbm.
 
-Uma pena que tenha só um filme pq assistiria de boas uma continuação.",13/06/2025,True,True
+Uma pena que tenha só um filme pq assistiria de boas uma continuação.",2025-06-13,2025-06-13,True,True
 tt0250494,Legally Blonde,2001,8.1,"Finalmente um filme que fala de preconceito e todo o estigma associado a essa classe tão sofrida. Estou falando de **Legalmente Loira (2001)**!
 
-Esse filme não tinha direito de ser tão bom. Uma comédia muito bem feita, com umas sacadas ótimas. É um verdadeiro marco do seu gênero.",2025,False,False
-tt0333780,"Legally Blonde 2: Red, White & Blonde",2003,6.0,"Uma pena que a continuação **Legalmente Loira 2 (2003)** não mantêm a qualidade. Aqui o roteiro é bem mais pobre, e a personagem principal ficou bem mais estereotipada sofrendo de um caso leve de flanderização. Mas o filme não é uma porcaria completa não, dá para se divertir.",2025,False,False
+Esse filme não tinha direito de ser tão bom. Uma comédia muito bem feita, com umas sacadas ótimas. É um verdadeiro marco do seu gênero.",2025,2025,False,False
+tt0333780,"Legally Blonde 2: Red, White & Blonde",2003,6.0,"Uma pena que a continuação **Legalmente Loira 2 (2003)** não mantêm a qualidade. Aqui o roteiro é bem mais pobre, e a personagem principal ficou bem mais estereotipada sofrendo de um caso leve de flanderização. Mas o filme não é uma porcaria completa não, dá para se divertir.",2025,2025,False,False
