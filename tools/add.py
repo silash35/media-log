@@ -38,6 +38,6 @@ if __name__ == "__main__":
         }
     )
 
-    add_movie_entry(new_movie, movies_json_path)
+    # add_movie_entry(new_movie, movies_json_path)
     validate(movies_json_path)
     json_to_csv(movies_json_path, movies_csv_path)

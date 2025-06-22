@@ -592,5 +592,247 @@
     "LastWatched": 2024,
     "SafeForParents": true,
     "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0371746",
+    "Title": "Iron Man",
+    "Year": 2008,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0800080",
+    "Title": "The Incredible Hulk",
+    "Year": 2008,
+    "SafeForParents": false,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt1228705",
+    "Title": "Iron Man 2",
+    "Year": 2010,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0800369",
+    "Title": "Thor",
+    "Year": 2011,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0458339",
+    "Title": "Captain America: The First Avenger",
+    "Year": 2011,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0848228",
+    "Title": "The Avengers",
+    "Year": 2012,
+    "Rating10": 9.0,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt1300854",
+    "Title": "Iron Man 3",
+    "Year": 2013,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt1981115",
+    "Title": "Thor: The Dark World",
+    "Year": 2013,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt1843866",
+    "Title": "Captain America: The Winter Soldier",
+    "Year": 2014,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt2015381",
+    "Title": "Guardians of the Galaxy",
+    "Year": 2014,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt2395427",
+    "Title": "Avengers: Age of Ultron",
+    "Year": 2015,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0478970",
+    "Title": "Ant-Man",
+    "Year": 2015,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt3498820",
+    "Title": "Captain America: Civil War",
+    "Year": 2016,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt1211837",
+    "Title": "Doctor Strange",
+    "Year": 2016,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt3896198",
+    "Title": "Guardians of the Galaxy Vol. 2",
+    "Year": 2017,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt2250912",
+    "Title": "Spider-Man: Homecoming",
+    "Year": 2017,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt3501632",
+    "Title": "Thor: Ragnarok",
+    "Year": 2017,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt1825683",
+    "Title": "Black Panther",
+    "Year": 2018,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt4154756",
+    "Title": "Avengers: Infinity War",
+    "Year": 2018,
+    "Rating10": 9.2,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt5095030",
+    "Title": "Ant-Man and the Wasp",
+    "Year": 2018,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt4154664",
+    "Title": "Captain Marvel",
+    "Year": 2019,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt4154796",
+    "Title": "Avengers: Endgame",
+    "Year": 2019,
+    "Rating10": 10.0,
+    "Review": "Vão me crucificar por essa nota 10? Óbvio. Sempre tem aquele crítico chato que vai vomitar um “ah, mas tem um furo” ou “ah, mas tem um erro naquela cena”. Eu até concordo que **Vingadores: Guerra Infinita (2018)** pode ser mais “redondinho” tecnicamente, mas Endgame? Endgame é sentimento puro.\n\nNenhum outro filme me proporcionou tanto impacto emocional quanto esse. Nenhum outro filme chegou (ou vai chegar) perto do espetáculo que foi esse aqui. Foram mais de 10 anos de construção para esse momento. É o ápice do cinema, é êxtase puro, é a tão esperada catarse com o fechamento épico que todos estavam esperando. Nota 10 com todo o merecimento do mundo.",
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt6320628",
+    "Title": "Spider-Man: Far From Home",
+    "Year": 2019,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt3480822",
+    "Title": "Black Widow",
+    "Year": 2021,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt9376612",
+    "Title": "Shang-Chi and the Legend of the Ten Rings",
+    "Year": 2021,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt9032400",
+    "Title": "Eternals",
+    "Year": 2021,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt10872600",
+    "Title": "Spider-Man: No Way Home",
+    "Year": 2021,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt9419884",
+    "Title": "Doctor Strange in the Multiverse of Madness",
+    "Year": 2022,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt10648342",
+    "Title": "Thor: Love and Thunder",
+    "Year": 2022,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt9114286",
+    "Title": "Black Panther: Wakanda Forever",
+    "Year": 2022,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt10954600",
+    "Title": "Ant-Man and the Wasp: Quantumania",
+    "Year": 2023,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt6791350",
+    "Title": "Guardians of the Galaxy Vol. 3",
+    "Year": 2023,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt10676052",
+    "Title": "The Marvels",
+    "Year": 2023,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt6263850",
+    "Title": "Deadpool & Wolverine",
+    "Year": 2024,
+    "SafeForParents": false,
+    "SafeForKids": false
   }
 ]
