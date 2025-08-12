@@ -900,5 +900,27 @@
     "LastWatched": "2025-06-28",
     "SafeForParents": false,
     "SafeForKids": false
+  },
+  {
+    "imdbID": "tt5950044",
+    "Title": "Superman",
+    "Year": 2025,
+    "Rating10": 7.4,
+    "Review": "Eu não considero o trabalho do Zack Snyder ruim. Mas esse filme trouxe de volta o super-homem de verdade: Aquele cara que é realmente bom, que vc quer ser amigo dele, que é um exemplo de bondade e altruísmo.\n\nFoi simplesmente revigorante ver esse filme, tanto pelo David Corenswet ser extremamente carismático, quanto pelo tom do filme que é leve e divertido.",
+    "FirstWatched": "2025-08-05",
+    "LastWatched": "2025-08-05",
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt26743210",
+    "Title": "How to Train Your Dragon",
+    "Year": 2025,
+    "Rating10": 7.5,
+    "Review": "Finalmente um filme que mostra que é, sim, possível fazer um live action bom. Se o filme original já é uma obra-prima, pra que inventar moda? Fizeram um filme bastante fiel à animação, bom CGI e atores parecidos (a maioria).\n\nEspero que tenha continuação.",
+    "FirstWatched": "2025-08-08",
+    "LastWatched": "2025-08-08",
+    "SafeForParents": true,
+    "SafeForKids": true
   }
 ]
