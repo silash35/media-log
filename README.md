@@ -1,30 +1,22 @@
-# movie-ratings
+# media-log
 
-> ⚠️ **Note:** This repository is written entirely in **Portuguese (pt-BR)**. It contains my personal reviews and ratings of movies.
+> ⚠️ **Note:** This repository is written entirely in **Portuguese (pt-BR)**. It contains my personal records of movies, series, and games I have watched.
 
-Este repositório contém uma **coleção pessoal de filmes que assisti**, organizados com alguns dados relevantes como título, ano e, quando possível, notas, data em que foi visto e uma breve review.
+Este repositório é uma coleção pessoal de mídias consumidas (filmes, séries e jogo) organizadas com informações como título, ano e, quando possível, outras informações como data em que assisti, notas e uma breve review. Você pode conferir o banco de dados completo na pasta `database`, com cada tipo de mídia armazenado em um arquivo separado. Todos os registros estão disponíveis em dois formatos: `JSON` e `CSV`, para facilitar o uso e a visualização.
 
-Nem todos os filmes têm review ou notas. Muitos eu assisti há muito tempo e estou apenas registrando.
+> ℹ️ **Dica:** O arquivo CSV é bom para vizualizar usando um editor de planilhas como o Microsoft Excel.
 
-## 🗂️ Estrutura dos Dados
+Sobre as séries, elas são cadastradas apenas quando eu terminar de assistir. Isso significa que apenas serão cadastradas séries que já terminaram, seja por que foram finalizadas ou canceladas. Isso evita registros inconsistentes de séries que ainda estão em andamento.
 
-Cada entrada do arquivo CSV (ou o json) contém os seguintes campos:
+Já os jogos, eu irei cadastrar após “zerar”, ou seja, completar sua história principal. Aqui, o foco é em títulos baseados em narrativa. Jogos sandbox ou abertos (como Minecraft, The Sims ou Stardew Valley), embora eu goste bastante, normalmente não serão cadastrados. Mas podem haver exceções.
 
-| Campo            | Descrição                                                                         |
-| ---------------- | --------------------------------------------------------------------------------- |
-| `imdbID`         | Código único do filme no IMDb (ex: `tt0111161`)                                   |
-| `Title`          | Título do filme                                                                   |
-| `Year`           | Ano de lançamento                                                                 |
-| `Rating10`       | Nota dada ao filme usando a escala de 0 a 10                                      |
-| `Review`         | Análise do filme                                                                  |
-| `FirstWatched`   | Data em que o filme foi assistido pela primeira vez (`YYYY-MM-DD` ou `YYYY`)      |
-| `LastWatched`    | Data mais recente em que o filme foi assistido(`YYYY-MM-DD` ou `YYYY`)            |
-| `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
-| `SafeForKids`    | `True`, `False`. Se é apropriado para crianças (plot voltado para crianças)       |
+## Sobre as Notas e Avaliações
 
-## 🌟 Sistema de Notas – **Rating10**
+As avaliações contidas neste repositório representam minha opinião pessoal. Não pretendo impor juízo universal sobre nenhuma obra. Além disso, não avalio filmes/séries/jogos com base na ideologia que apresentam. Um filme pode conter ideias equivocadas, ofensivas ou ultrapassadas (como racismo, machismo ou discursos problemáticos) e ainda assim ter um grande valor cinematográfico ou simplesmente oferecer entretenimento de qualidade. Por isso, a nota se refere à minha experiência com a mídia, e não a um endosso de valores.
 
-A nota vai de 0 a 10 e representa não apenas a qualidade técnica do filme, mas principalmente o **impacto emocional e artístico** que ele teve em mim.
+### Sistema de Notas
+
+Os registros que contêm uma nota seguem o sistema descrito abaixo. Ele foi originalmente criado para filmes, mas aqui também é aplicado a séries e jogos. As notas vão de 0 a 10 e representa não apenas a qualidade técnica da obra, mas principalmente o **impacto emocional e artístico** que ela teve em mim.
 
 | Nota   | Descrição                                                                                                                                        |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -40,8 +32,46 @@ A nota vai de 0 a 10 e representa não apenas a qualidade técnica do filme, mas
 | **9**  | 🔥 **Excelente** – Um dos grandes. Fica na memória. Merece ser visto e revisto                                                                   |
 | **10** | 🧠❤️ **Absolute cinema** – Uma obra-prima, não apenas dentro do seu gênero, mas para todo o cinema. Marcante, criativo e emocionalmente poderoso |
 
-## ❗ Sobre as Notas e Avaliações
+As notas atribuídas aqui não devem ser usadas para comparar diretamente uma obra com outra. Uma nota 8 não significa necessariamente que, por exemplo, um filme é melhor do que outro que recebeu 7. O contexto, o momento em que assisti, meu envolvimento emocional e vários fatores subjetivos influenciam minha experiência.
 
-As notas atribuídas aqui não devem ser usadas para comparar diretamente um filme com outro. Uma nota 8 não significa necessariamente que um filme é melhor do que outro que recebeu 7. O contexto, o momento em que assisti, meu envolvimento emocional e vários fatores subjetivos influenciam minha experiência.
+## 🗂️ Estrutura dos Dados
 
-As avaliações contidas neste repositório representam minha opinião pessoal. Não pretendo impor juízo universal sobre nenhuma obra. Além disso, não avalio os filmes com base na ideologia que apresentam. Um filme pode conter ideias equivocadas, ofensivas ou ultrapassadas (como racismo, machismo ou discursos problemáticos) e ainda assim ter um grande valor cinematográfico ou simplesmente oferecer entretenimento de qualidade. Por isso, a nota se refere à minha experiência com o filme, e não a um endosso de valores.
+Cada entrada do arquivo CSV (ou o json) representa um filme, série ou jogo. Os campos variam de acordo com o tipo de mídia, conforme descrito abaixo.
+
+### Filmes
+
+| Campo            | Descrição                                                                         |
+| ---------------- | --------------------------------------------------------------------------------- |
+| `imdbID`         | Código único do filme no IMDb (ex: `tt4154796`)                                   |
+| `Title`          | Título do filme                                                                   |
+| `Year`           | Ano de lançamento                                                                 |
+| `Rating10`       | Nota dada ao filme usando a escala de 0 a 10                                      |
+| `Review`         | Análise do filme                                                                  |
+| `FirstWatched`   | Data em que o filme foi assistido pela primeira vez (`YYYY-MM-DD` ou `YYYY`)      |
+| `LastWatched`    | Data mais recente em que o filme foi assistido(`YYYY-MM-DD` ou `YYYY`)            |
+| `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
+| `SafeForKids`    | `True`, `False`. Se é apropriado para crianças (plot voltado para crianças)       |
+
+### Séries
+
+| Campo            | Descrição                                                                         |
+| ---------------- | --------------------------------------------------------------------------------- |
+| `imdbID`         | Código único da série no IMDb (ex: `tt0436992`)                                   |
+| `Title`          | Título da série                                                                   |
+| `Year`           | Ano de lançamento                                                                 |
+| `Rating10`       | Nota dada a série usando a escala de 0 a 10                                       |
+| `Review`         | Análise da série                                                                  |
+| `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
+| `SafeForKids`    | `True`, `False`. Se é apropriado para crianças (plot voltado para crianças)       |
+
+### Jogos
+
+| Campo            | Descrição                                                                         |
+| ---------------- | --------------------------------------------------------------------------------- |
+| `imdbID`         | Código único do jogo no IMDb (ex: `tt5838588`)                                    |
+| `Title`          | Título do jogo                                                                    |
+| `Year`           | Ano de lançamento                                                                 |
+| `Rating10`       | Nota dada ao jogo usando a escala de 0 a 10                                       |
+| `Review`         | Análise do jogo                                                                   |
+| `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
+| `SafeForKids`    | `True`, `False`. Se é apropriado para crianças (plot voltado para crianças)       |
