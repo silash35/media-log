@@ -1,5 +1,4 @@
-from typing import Final, Union, TypedDict
-
+from typing import Final, TypedDict, Union
 
 movies_json_path: Final[str] = "database/movies.json"
 movies_csv_path: Final[str] = "database/movies.csv"

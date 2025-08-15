@@ -1,20 +1,21 @@
+import json
+from typing import Type
+
 from config import (
+    EntryBase,
     GameEntry,
+    MovieEntry,
     ShowEntry,
     games_csv_path,
     games_json_path,
     movies_csv_path,
     movies_json_path,
-    MovieEntry,
-    EntryBase,
     shows_csv_path,
     shows_json_path,
 )
-import json
-from typing import Type
 from sync import json_to_csv
-from validate import validate
 from utils import order
+from validate import validate
 
 
 def add_entry(new_entry: EntryBase, json_path: str, EntryType: Type[EntryBase]):

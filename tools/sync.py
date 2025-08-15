@@ -1,18 +1,19 @@
+import csv
+import json
+from typing import Type, get_type_hints
+
 from config import (
+    EntryBase,
+    GameEntry,
+    MovieEntry,
+    ShowEntry,
+    games_csv_path,
+    games_json_path,
     movies_csv_path,
     movies_json_path,
     shows_csv_path,
     shows_json_path,
-    games_csv_path,
-    games_json_path,
-    EntryBase,
-    MovieEntry,
-    ShowEntry,
-    GameEntry,
 )
-from typing import Type, get_type_hints
-import json
-import csv
 
 
 def json_to_csv(json_file: str, csv_file: str, EntryType: Type[EntryBase]) -> None:

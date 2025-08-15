@@ -1,13 +1,14 @@
-from typing import get_type_hints, Union, Type
 import json
+from typing import Type, Union, get_type_hints
+
 from config import (
     EntryBase,
-    MovieEntry,
-    movies_json_path,
-    ShowEntry,
-    shows_json_path,
     GameEntry,
+    MovieEntry,
+    ShowEntry,
     games_json_path,
+    movies_json_path,
+    shows_json_path,
 )
 from utils import warn
 

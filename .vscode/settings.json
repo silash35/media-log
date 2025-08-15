@@ -1,4 +1,7 @@
 {
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  },
   "files.autoSave": "onFocusChange",
   "csv-edit.readOption_hasHeader": "true",
   "csv-edit.writeOption_hasHeader": "true",
