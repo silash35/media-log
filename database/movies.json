@@ -1026,7 +1026,7 @@
     "imdbID": "tt13622970",
     "Title": "Moana 2",
     "Year": 2024,
-    "Rating10": 5.0,
+    "Rating10": 4.0,
     "Review": "Ela não tem música marcante, ela não tem vilão que preste, ela não tem personagens sendo desenvolvidos, mas por algum motivo ela tem o povo pq bateu mais de 1 bilhão de bilheteria.\n\nEsse filme era pra ser uma série, mas aí decidiram fazer um filme. E não ficou bom não. E ainda termina com gancho pra mais uma continuação que ninguém pediu. É que pra mim tirou bastante da magia da coisa, sabe? O primeiro filme tinha muito mais alma.\n\nMas sei lá, pelo menos é engraçadinho",
     "FirstWatched": 2025,
     "LastWatched": 2025,
@@ -1281,5 +1281,227 @@
     "Rating10": 7.7,
     "SafeForParents": true,
     "SafeForKids": true
+  },
+  {
+    "imdbID": "tt3794354",
+    "Title": "Sonic the Hedgehog",
+    "Year": 2020,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt12412888",
+    "Title": "Sonic the Hedgehog 2",
+    "Year": 2022,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt18259086",
+    "Title": "Sonic the Hedgehog 3",
+    "Year": 2024,
+    "Rating10": 8.6,
+    "Review": "Que filme bom! O melhor dos filmes do Sonic até agora. Piadas boas e muita ação. Um super acerto!\n\nNunca duvidei!!!\n\nUm fato engraçado é que quando o filme estava acabando eu olhei pro lado e minha prima de 15 anos estava em lagrimas e eu me poquei de rir no cinema. Pelo jeito esse filme consegue ser de drama também.",
+    "FirstWatched": "2025-01-18",
+    "LastWatched": "2025-01-18",
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0241527",
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Year": 2001,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0295297",
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Year": 2002,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0304141",
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Year": 2004,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0330373",
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Year": 2005,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0373889",
+    "Title": "Harry Potter and the Order of the Phoenix",
+    "Year": 2007,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0417741",
+    "Title": "Harry Potter and the Half-Blood Prince",
+    "Year": 2009,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0926084",
+    "Title": "Harry Potter and the Deathly Hallows: Part 1",
+    "Year": 2010,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt1201607",
+    "Title": "Harry Potter and the Deathly Hallows: Part 2",
+    "Year": 2011,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt3183660",
+    "Title": "Fantastic Beasts and Where to Find Them",
+    "Year": 2016,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt4123430",
+    "Title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "Year": 2018,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt4123432",
+    "Title": "Fantastic Beasts: The Secrets of Dumbledore",
+    "Year": 2022,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0120737",
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Year": 2001,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0167261c",
+    "Title": "The Lord of the Rings: The Two Towers",
+    "Year": 2002,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0167260",
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": 2003,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0903624",
+    "Title": "The Hobbit: An Unexpected Journey",
+    "Year": 2012,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt1170358",
+    "Title": "The Hobbit: The Desolation of Smaug",
+    "Year": 2013,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt2310332",
+    "Title": "The Hobbit: The Battle of the Five Armies",
+    "Year": 2014,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0076759",
+    "Title": "Star Wars: Episode IV - A New Hope",
+    "Year": 1977,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0080684",
+    "Title": "Star Wars: Episode V - The Empire Strikes Back",
+    "Year": 1980,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0086190",
+    "Title": "Star Wars: Episode VI - Return of the Jedi",
+    "Year": 1983,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0120915",
+    "Title": "Star Wars: Episode I - The Phantom Menacec",
+    "Year": 1999,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0121765",
+    "Title": "Star Wars: Episode II - Attack of the Clones",
+    "Year": 2002,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0121766",
+    "Title": "Star Wars: Episode III - Revenge of the Sith",
+    "Year": 2005,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt2488496",
+    "Title": "Star Wars: Episode VII - The Force Awakens",
+    "Year": 2015,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt3748528",
+    "Title": "Rogue One: A Star Wars Story",
+    "Year": 2016,
+    "Rating10": 10.0,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt2527336",
+    "Title": "Star Wars: Episode VIII - The Last Jedi",
+    "Year": 2017,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt3778644",
+    "Title": "Solo: A Star Wars Story",
+    "Year": 2018,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt2527338",
+    "Title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "Year": 2019,
+    "SafeForParents": true,
+    "SafeForKids": false
   }
 ]
