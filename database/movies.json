@@ -1503,5 +1503,38 @@
     "Year": 2019,
     "SafeForParents": true,
     "SafeForKids": false
+  },
+  {
+    "imdbID": "tt1921043",
+    "Title": "O Palhaço",
+    "Year": 2011,
+    "Rating10": 5.5,
+    "Review": "Será que o problema sou eu? Filme chato pra caramba. Tem seus momentos legais, mas não me conectei muito com esse filme não.",
+    "FirstWatched": "2025-07-25",
+    "LastWatched": "2025-07-25",
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt13718120",
+    "Title": "Gilda, Lúcia e o Bode",
+    "Year": 2020,
+    "Rating10": 6.2,
+    "Review": "Esse filme me fez assistir uma série da Globo antes. Mas ainda bem que foi só o primeiro episódio, porque **Amor e Sorte (2020)** tem uma história diferente a cada episódio.\n\nMas bem, acabou que o episódio da série é melhor que o filme. Mas o filme também é divertido e é bom ver as personagens novamente.",
+    "FirstWatched": 2025,
+    "LastWatched": 2025,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt14205554",
+    "Title": "KPop Demon Hunters",
+    "Year": 2025,
+    "Rating10": 8.0,
+    "Review": "Véi que filme bom. Pegaram uma ideia doida, fizeram e deu certo.",
+    "FirstWatched": 2025,
+    "LastWatched": 2025,
+    "SafeForParents": true,
+    "SafeForKids": true
   }
 ]
