@@ -1490,7 +1490,7 @@
     "imdbID": "tt3748528",
     "Title": "Rogue One: A Star Wars Story",
     "Year": 2016,
-    "Rating10": 10.0,
+    "Rating10": 9.0,
     "SafeForParents": true,
     "SafeForKids": false
   },
@@ -1612,6 +1612,150 @@
     "FirstWatched": "2025-09-12",
     "LastWatched": "2025-09-12",
     "SafeForParents": false,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0266697",
+    "Title": "Kill Bill: Vol. 1",
+    "Year": 2003,
+    "Rating10": 9.4,
+    "Review": "**Kill Bill: Vol. 1 (2003)** e **Kill Bill: Vol. 2 (2004)** são, na verdade, um único filme dividido em duas partes. Por isso, para não repetir, deixei minha review completa na Parte 2.",
+    "FirstWatched": "2025-09-14",
+    "LastWatched": "2025-09-14",
+    "SafeForParents": false,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0378194",
+    "Title": "Kill Bill: Vol. 2",
+    "Year": 2004,
+    "Rating10": 9.5,
+    "Review": "Trata-se de uma verdadeira obra-prima, com um impacto imensurável na cultura pop.\n\nA ação é de altíssima qualidade, repleta da violência estilizada característica de Tarantino, misturada com aquela “loucura” dos filmes asiáticos que eu adoro. O resultado é uma experiência única, intensa e visualmente marcante. Além de uma belíssima trilha sonora.\n\nCom certeza um dos melhores filmes de ação da história. Finalmente um concorrente digno de **O Exterminador do Futuro 2 (1991)**. Dei uma nota levemente maior para o Volume 2 porque a experiência acabou sendo ainda mais envolvente e satisfatória do que no primeiro. Fazer finais bons é difícil e essa historia foi muito bem finalizada (espero que nunca tenha continuação para não estragar).",
+    "FirstWatched": "2025-09-14",
+    "LastWatched": "2025-09-14",
+    "SafeForParents": false,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0770828",
+    "Title": "Man of Steel",
+    "Year": 2013,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt2975590",
+    "Title": "Batman v Superman: Dawn of Justice",
+    "Year": 2016,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt1386697",
+    "Title": "Suicide Squad",
+    "Year": 2016,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0451279",
+    "Title": "Wonder Woman",
+    "Year": 2017,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0974015",
+    "Title": "Justice League",
+    "Year": 2017,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt1477834",
+    "Title": "Aquaman",
+    "Year": 2018,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt0448115",
+    "Title": "Shazam!",
+    "Year": 2019,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt7713068",
+    "Title": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+    "Year": 2020,
+    "SafeForParents": false,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt7126948",
+    "Title": "Wonder Woman 1984",
+    "Year": 2020,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt12361974",
+    "Title": "Zack Snyder's Justice League",
+    "Year": 2021,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt6334354",
+    "Title": "The Suicide Squad",
+    "Year": 2021,
+    "SafeForParents": false,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt6443346",
+    "Title": "Black Adam",
+    "Year": 2022,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt10151854",
+    "Title": "Shazam! Fury of the Gods",
+    "Year": 2023,
+    "SafeForParents": true,
+    "SafeForKids": true
+  },
+  {
+    "imdbID": "tt0439572c",
+    "Title": "The Flash",
+    "Year": 2023,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt9362930",
+    "Title": "Blue Beetle",
+    "Year": 2023,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt9663764",
+    "Title": "Aquaman and the Lost Kingdom",
+    "Year": 2023,
+    "Review": "É rapaz, teve filme novo do Aquaman e ninguém nem viu. Tbm nasceu morto, o DCU acabou, quem vai ver um filme de um universo que foi cancelado.\n\nMas ó, pior que o filme é bom. Acima da média dos filmes de super-herói. Um defeito que eu achei é que a bobagem ambientalista (que tbm tava no primeiro filme) aqui eu achei mais forçada. Mas pô, filme familia, bonito que nem o primeiro filme. Tá ótimo.",
+    "FirstWatched": 2024,
+    "LastWatched": 2024,
+    "SafeForParents": true,
+    "SafeForKids": false
+  },
+  {
+    "imdbID": "tt14371060",
+    "Title": "Os Salafrários",
+    "Year": 2021,
+    "SafeForParents": true,
     "SafeForKids": false
   }
 ]
