@@ -4,7 +4,7 @@
     "Title": "Doctor Who",
     "Year": 1963,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0436992",
@@ -12,6 +12,6 @@
     "Year": 2005,
     "Rating10": 10.0,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   }
 ]

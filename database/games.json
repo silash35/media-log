@@ -4,28 +4,28 @@
     "Title": "Super Mario World",
     "Year": 1990,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0222407",
     "Title": "Super Mario World 2: Yoshi's Island",
     "Year": 1995,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0204798",
     "Title": "Aladdin",
     "Year": 1993,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0184666",
     "Title": "The Legend of Zelda: Ocarina of Time",
     "Year": 1998,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt5238848",
@@ -33,49 +33,49 @@
     "Year": 2015,
     "Rating10": 10.0,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt4375662",
     "Title": "Life Is Strange",
     "Year": 2015,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt6905446",
     "Title": "Life Is Strange: Before the Storm",
     "Year": 2017,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt8613872",
     "Title": "The Awesome Adventures of Captain Spirit",
     "Year": 2018,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt8364760",
     "Title": "Life Is Strange 2",
     "Year": 2018,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt14278238",
     "Title": "Life Is Strange: True Colors",
     "Year": 2021,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt15675682",
     "Title": "Life is Strange: Wavelengths",
     "Year": 2021,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt32580150",
@@ -84,42 +84,42 @@
     "Rating10": 3.0,
     "Review": "My disappointment is immeasurable and my day is ruined.\n\nTudo errado. A começar pelo jogo ser bastante pesado. Streamer com o super mega PC gamer reclamando disso, passou do aceitável.\n\nO jogo tbm tem muitos bugs. E aqui, mais do que em outros jogos, quebra muito sua experiência. Life is Strange não é que nem um Minecraft da vida que quando buga é engraçado. Aqui te tira da imersão. Te lembra que você tá jogando um jogo.\n\nO preço disso aqui tbm é de lascar. É um pouco mais barato que o true colors pelo menos. **Life is Strange: Double Exposure** completo está R$ 297,78 na Steam, enquanto o **Life is Strange: True Colors** agora está com o absurdo preço de R$ 332,82 (Valores conferidos em 19/02/2025).\n\nTbm tiveram a pachorra de cobrar R$ 89,60 numa DLC de gato que vc ganha umas roupas novas e no meio do jogo aparece um gato na sua casa. Só isso mesmo, não é um capítulo novo nem nada é só um gato.\n\nAgora eles acertaram muito, como sempre, na trilha sonora e na fotografia. Que jogo bonito. Óbvio que não vai superar o True Colors pq aquilo ali é uma das coisas mais lindas que na vi na vida, inclusive queria me mudar pra aquela cidade do jogo.\n\nMas finalmente falando da história. Olha, me diverti, o mistério me envolveu achei interessante e tudo. O ápice do jogo tbm é muito massa. Entretanto quando o jogo acaba e a gente pensa um pouco fica meio. Pô...\n\nEsse jogo não era pra ter escolhas? Não é tipo a ideia toda da franquia? Não tem NADA que você faça que altera a história. Nenhuma escolha sua aqui importa. Frustrante no mínimo.\n\nOs primeiros capítulos tbm são muito lentos, a história demora pra ficar interessante.\n\nE no final eu fiquei tipo: A menina tá se achando o Nick Fury é? É a marvelização de Life is Strange? Achei paia, muito paia. Ainda mais terminando com cena pós crédito e que vai ter continuação.\n\nSimplesmente revoltante o que fizeram com essa franquia.",
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt2140553",
     "Title": "The Last of Us",
     "Year": 2013,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt3468818",
     "Title": "The Last of Us: Left Behind",
     "Year": 2014,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt6298000",
     "Title": "The Last of Us Part II",
     "Year": 2020,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt4785654",
     "Title": "Firewatch",
     "Year": 2016,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt12497220",
     "Title": "Stray",
     "Year": 2022,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt3980364",
@@ -127,42 +127,42 @@
     "Year": 2016,
     "Review": "Tendi foi nada",
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1647472",
     "Title": "Doctor Who: The Adventure Games - City of the Daleks",
     "Year": 2010,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1683871",
     "Title": "Doctor Who: The Adventure Games - Blood of the Cybermenc",
     "Year": 2010,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1720088",
     "Title": "Doctor Who: The Adventure Games - TARDIS",
     "Year": 2010,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1912373",
     "Title": "Doctor Who: The Adventure Games - Shadows of the Vashta Nerada",
     "Year": 2010,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt7467056",
     "Title": "Untitled Goose Game",
     "Year": 2019,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt32591698",
@@ -171,6 +171,6 @@
     "Rating10": 10.0,
     "Review": "**Game of the Year 2025**\n\nPreciso falar de qual jogo eu tô falando? Não existe outra opção, não tem como.\n\nEssa trilha sonora maravilhosa, essa gameplay com batalhas extremamente épicas num estilo RPG, mas que não é só RPG, esse estilo de arte que é meio pintura e ainda essa historia arrasadora que só de saber a premissa já te prende totalmente.\n\nTamo em agosto ainda, mas não quero nem saber. Se **Clair Obscur: Expedição 33 (2025)** não ganhar então nada faz sentido, pq é um dos melhores jogos que já vi na vida.",
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   }
 ]

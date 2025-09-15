@@ -1,4 +1,4 @@
-imdbID,Title,Year,Rating10,Review,SafeForParents,SafeForKids
+imdbID,Title,Year,Rating10,Review,SafeForParents,ForKids
 tt0221606,Super Mario World,1990,,,True,True
 tt0222407,Super Mario World 2: Yoshi's Island,1995,,,True,True
 tt0204798,Aladdin,1993,,,True,True

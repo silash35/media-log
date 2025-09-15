@@ -36,7 +36,7 @@ As notas atribuídas aqui não devem ser usadas para comparar diretamente uma ob
 
 ## 🗂️ Estrutura dos Dados
 
-Cada entrada do arquivo CSV (ou o json) representa um filme, série ou jogo. Os campos variam de acordo com o tipo de mídia, conforme descrito abaixo.
+Cada entrada do arquivo CSV (ou o json) representa um filme, série ou jogo. Os campos variam de acordo com o tipo de mídia, conforme descrito abaixo.SafeF
 
 ### Filmes
 
@@ -50,7 +50,7 @@ Cada entrada do arquivo CSV (ou o json) representa um filme, série ou jogo. Os 
 | `FirstWatched`   | Data em que o filme foi assistido pela primeira vez (`YYYY-MM-DD` ou `YYYY`)      |
 | `LastWatched`    | Data mais recente em que o filme foi assistido(`YYYY-MM-DD` ou `YYYY`)            |
 | `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
-| `SafeForKids`    | `True`, `False`. Se é apropriado para crianças (plot voltado para crianças)       |
+| `ForKids`        | `True`, `False`. Se é uma obra feita e apropriada para crianças                   |
 
 ### Séries
 
@@ -62,7 +62,7 @@ Cada entrada do arquivo CSV (ou o json) representa um filme, série ou jogo. Os 
 | `Rating10`       | Nota dada a série usando a escala de 0 a 10                                       |
 | `Review`         | Análise da série                                                                  |
 | `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
-| `SafeForKids`    | `True`, `False`. Se é apropriado para crianças (plot voltado para crianças)       |
+| `ForKids`        | `True`, `False`. Se é uma obra feita e apropriada para crianças                   |
 
 ### Jogos
 
@@ -74,4 +74,4 @@ Cada entrada do arquivo CSV (ou o json) representa um filme, série ou jogo. Os 
 | `Rating10`       | Nota dada ao jogo usando a escala de 0 a 10                                       |
 | `Review`         | Análise do jogo                                                                   |
 | `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
-| `SafeForKids`    | `True`, `False`. Se é apropriado para crianças (plot voltado para crianças)       |
+| `ForKids`        | `True`, `False`. Se é uma obra feita e apropriada para crianças                   |

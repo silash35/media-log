@@ -8,7 +8,7 @@
     "FirstWatched": "2025-06-01",
     "LastWatched": "2025-06-01",
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0050083",
@@ -19,7 +19,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0050986",
@@ -29,7 +29,7 @@
     "Review": "É um ensaio sobre a velhice. Eu fui ver esse filme com um pé atrás por ser bem antigo, mas ele é um bom filme. Não tem bem um enredo, é mais sobre um velho fazendo uma viagem e refletindo sobre o passado e suas memórias. Sinto que tanto amor pelo cinema é algo que não se vê mais hoje em dia, pq o filme é muito bem feito.\n\nMinha nota não foi tão alta, pois não me envolvi muito com o filme. Talvez eu ainda não tenha a bagagem necessária para absorver tudo que ele oferece. Acredito que, ao revê-lo no futuro, quando eu mesmo for mais velho, ele fale comigo de outro jeito.",
     "FirstWatched": 2025,
     "LastWatched": 2025,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt3566834",
@@ -40,7 +40,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt2194499",
@@ -51,7 +51,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0452694",
@@ -62,7 +62,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0110148",
@@ -73,7 +73,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt20969586",
@@ -84,7 +84,7 @@
     "FirstWatched": "2025-05-02",
     "LastWatched": "2025-05-02",
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt3666526",
@@ -95,7 +95,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt23561236",
@@ -106,7 +106,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1623288",
@@ -117,7 +117,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0388795",
@@ -128,7 +128,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt13238346",
@@ -139,7 +139,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1570728",
@@ -150,7 +150,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt5052448",
@@ -161,7 +161,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0211915",
@@ -172,7 +172,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt14513804",
@@ -183,7 +183,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt20215234",
@@ -194,7 +194,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt34874258",
@@ -204,7 +204,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt12299608",
@@ -215,7 +215,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0079501",
@@ -226,7 +226,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0082694",
@@ -237,7 +237,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0089530",
@@ -248,7 +248,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1392190",
@@ -259,7 +259,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt12037194",
@@ -270,7 +270,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0081505",
@@ -281,7 +281,7 @@
     "FirstWatched": "2024-09-14",
     "LastWatched": "2024-09-14",
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt5606664",
@@ -292,7 +292,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt14961016",
@@ -303,7 +303,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0762107",
@@ -314,7 +314,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt8999762",
@@ -325,7 +325,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1609486",
@@ -336,7 +336,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0172495",
@@ -347,7 +347,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt9218128",
@@ -358,7 +358,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt28607951",
@@ -369,7 +369,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt10621032",
@@ -380,7 +380,7 @@
     "FirstWatched": "2025-06-13",
     "LastWatched": "2025-06-13",
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0250494",
@@ -391,7 +391,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0333780",
@@ -402,7 +402,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt28443655",
@@ -413,196 +413,196 @@
     "FirstWatched": "2025-06-20",
     "LastWatched": "2025-06-20",
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0114709",
     "Title": "Toy Story",
     "Year": 1995,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0120623",
     "Title": "A Bug's Life",
     "Year": 1998,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0120363",
     "Title": "Toy Story 2",
     "Year": 1999,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0198781",
     "Title": "Monsters, Inc.",
     "Year": 2001,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0266543",
     "Title": "Finding Nemo",
     "Year": 2003,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0317705",
     "Title": "The Incredibles",
     "Year": 2004,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0317219",
     "Title": "Cars",
     "Year": 2006,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0382932",
     "Title": "Ratatouille",
     "Year": 2007,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0910970",
     "Title": "WALL·E",
     "Year": 2008,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1049413",
     "Title": "Up",
     "Year": 2009,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0435761",
     "Title": "Toy Story 3",
     "Year": 2010,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1216475",
     "Title": "Cars 2",
     "Year": 2011,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1217209",
     "Title": "Brave",
     "Year": 2012,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1453405",
     "Title": "Monsters University",
     "Year": 2013,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt2096673",
     "Title": "Inside Out",
     "Year": 2015,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1979388",
     "Title": "The Good Dinosaur",
     "Year": 2015,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt2277860",
     "Title": "Finding Dory",
     "Year": 2016,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt3606752",
     "Title": "Cars 3",
     "Year": 2017,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt2380307",
     "Title": "Coco",
     "Year": 2017,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt3606756",
     "Title": "Incredibles 2",
     "Year": 2018,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1979376",
     "Title": "Toy Story 4",
     "Year": 2019,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt7146812",
     "Title": "Onward",
     "Year": 2020,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt2948372",
     "Title": "Soul",
     "Year": 2020,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt12801262",
     "Title": "Luca",
     "Year": 2021,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt8097030",
     "Title": "Turning Red",
     "Year": 2022,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt10298810",
     "Title": "Lightyear",
     "Year": 2022,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt15789038",
     "Title": "Elemental",
     "Year": 2023,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt22022452",
@@ -613,42 +613,42 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0371746",
     "Title": "Iron Man",
     "Year": 2008,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0800080",
     "Title": "The Incredible Hulk",
     "Year": 2008,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1228705",
     "Title": "Iron Man 2",
     "Year": 2010,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0800369",
     "Title": "Thor",
     "Year": 2011,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0458339",
     "Title": "Captain America: The First Avenger",
     "Year": 2011,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0848228",
@@ -656,91 +656,91 @@
     "Year": 2012,
     "Rating10": 9.0,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1300854",
     "Title": "Iron Man 3",
     "Year": 2013,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1981115",
     "Title": "Thor: The Dark World",
     "Year": 2013,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1843866",
     "Title": "Captain America: The Winter Soldier",
     "Year": 2014,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt2015381",
     "Title": "Guardians of the Galaxy",
     "Year": 2014,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt2395427",
     "Title": "Avengers: Age of Ultron",
     "Year": 2015,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0478970",
     "Title": "Ant-Man",
     "Year": 2015,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt3498820",
     "Title": "Captain America: Civil War",
     "Year": 2016,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1211837",
     "Title": "Doctor Strange",
     "Year": 2016,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt3896198",
     "Title": "Guardians of the Galaxy Vol. 2",
     "Year": 2017,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt2250912",
     "Title": "Spider-Man: Homecoming",
     "Year": 2017,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt3501632",
     "Title": "Thor: Ragnarok",
     "Year": 2017,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1825683",
     "Title": "Black Panther",
     "Year": 2018,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt4154756",
@@ -748,21 +748,21 @@
     "Year": 2018,
     "Rating10": 9.2,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt5095030",
     "Title": "Ant-Man and the Wasp",
     "Year": 2018,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt4154664",
     "Title": "Captain Marvel",
     "Year": 2019,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt4154796",
@@ -771,91 +771,91 @@
     "Rating10": 10.0,
     "Review": "Vão me crucificar por essa nota 10? Óbvio. Sempre tem aquele crítico chato que vai vomitar um “ah, mas tem um furo” ou “ah, mas tem um erro naquela cena”. Eu até concordo que **Vingadores: Guerra Infinita (2018)** pode ser mais “redondinho” tecnicamente, mas Endgame? Endgame é sentimento puro.\n\nNenhum outro filme me proporcionou tanto impacto emocional quanto esse. Nenhum outro filme chegou (ou vai chegar) perto do espetáculo que foi esse aqui. Foram mais de 10 anos de construção para esse momento. É o ápice do cinema, é êxtase puro, é a tão esperada catarse com o fechamento épico que todos estavam esperando. Nota 10 com todo o merecimento do mundo.",
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt6320628",
     "Title": "Spider-Man: Far From Home",
     "Year": 2019,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt3480822",
     "Title": "Black Widow",
     "Year": 2021,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt9376612",
     "Title": "Shang-Chi and the Legend of the Ten Rings",
     "Year": 2021,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt9032400",
     "Title": "Eternals",
     "Year": 2021,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt10872600",
     "Title": "Spider-Man: No Way Home",
     "Year": 2021,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt9419884",
     "Title": "Doctor Strange in the Multiverse of Madness",
     "Year": 2022,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt10648342",
     "Title": "Thor: Love and Thunder",
     "Year": 2022,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt9114286",
     "Title": "Black Panther: Wakanda Forever",
     "Year": 2022,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt10954600",
     "Title": "Ant-Man and the Wasp: Quantumania",
     "Year": 2023,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt6791350",
     "Title": "Guardians of the Galaxy Vol. 3",
     "Year": 2023,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt10676052",
     "Title": "The Marvels",
     "Year": 2023,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt6263850",
     "Title": "Deadpool & Wolverine",
     "Year": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt31193180",
@@ -866,7 +866,7 @@
     "FirstWatched": "2025-06-22",
     "LastWatched": "2025-06-22",
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0356150",
@@ -877,7 +877,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0095705",
@@ -888,7 +888,7 @@
     "FirstWatched": "2025-06-24",
     "LastWatched": "2025-06-24",
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0102510",
@@ -899,7 +899,7 @@
     "FirstWatched": "2025-06-26",
     "LastWatched": "2025-06-26",
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0110622",
@@ -910,7 +910,7 @@
     "FirstWatched": "2025-06-28",
     "LastWatched": "2025-06-28",
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt5950044",
@@ -921,7 +921,7 @@
     "FirstWatched": "2025-08-05",
     "LastWatched": "2025-08-05",
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt26743210",
@@ -932,7 +932,7 @@
     "FirstWatched": "2025-08-08",
     "LastWatched": "2025-08-08",
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0795421",
@@ -943,7 +943,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt6911608",
@@ -954,7 +954,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0811080",
@@ -965,7 +965,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt1645170",
@@ -976,7 +976,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0196229",
@@ -987,7 +987,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1608290",
@@ -998,7 +998,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0942385",
@@ -1009,7 +1009,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt9914192",
@@ -1020,7 +1020,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt17526714",
@@ -1031,7 +1031,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt13622970",
@@ -1042,7 +1042,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt13186482",
@@ -1053,7 +1053,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt7888964",
@@ -1064,7 +1064,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt28696532",
@@ -1075,7 +1075,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0449059",
@@ -1086,7 +1086,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt28150132",
@@ -1097,7 +1097,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt2049403",
@@ -1108,7 +1108,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt8864596",
@@ -1119,7 +1119,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt6341832",
@@ -1130,7 +1130,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt5822536",
@@ -1141,7 +1141,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt8076344",
@@ -1152,7 +1152,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt5779228",
@@ -1163,7 +1163,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt2005151",
@@ -1174,7 +1174,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1119646",
@@ -1185,7 +1185,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1411697",
@@ -1196,7 +1196,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1951261",
@@ -1207,7 +1207,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt29623480",
@@ -1218,7 +1218,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt3792960",
@@ -1229,7 +1229,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt15352542",
@@ -1240,7 +1240,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt18161082",
@@ -1251,7 +1251,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt16366836",
@@ -1262,7 +1262,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt10954718",
@@ -1273,7 +1273,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0073629",
@@ -1283,7 +1283,7 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1262426",
@@ -1291,21 +1291,21 @@
     "Year": 2024,
     "Rating10": 7.7,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt3794354",
     "Title": "Sonic the Hedgehog",
     "Year": 2020,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt12412888",
     "Title": "Sonic the Hedgehog 2",
     "Year": 2022,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt18259086",
@@ -1316,175 +1316,175 @@
     "FirstWatched": "2025-01-18",
     "LastWatched": "2025-01-18",
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0241527",
     "Title": "Harry Potter and the Sorcerer's Stone",
     "Year": 2001,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0295297",
     "Title": "Harry Potter and the Chamber of Secrets",
     "Year": 2002,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0304141",
     "Title": "Harry Potter and the Prisoner of Azkaban",
     "Year": 2004,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0330373",
     "Title": "Harry Potter and the Goblet of Fire",
     "Year": 2005,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0373889",
     "Title": "Harry Potter and the Order of the Phoenix",
     "Year": 2007,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0417741",
     "Title": "Harry Potter and the Half-Blood Prince",
     "Year": 2009,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0926084",
     "Title": "Harry Potter and the Deathly Hallows: Part 1",
     "Year": 2010,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1201607",
     "Title": "Harry Potter and the Deathly Hallows: Part 2",
     "Year": 2011,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt3183660",
     "Title": "Fantastic Beasts and Where to Find Them",
     "Year": 2016,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt4123430",
     "Title": "Fantastic Beasts: The Crimes of Grindelwald",
     "Year": 2018,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt4123432",
     "Title": "Fantastic Beasts: The Secrets of Dumbledore",
     "Year": 2022,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0120737",
     "Title": "The Lord of the Rings: The Fellowship of the Ring",
     "Year": 2001,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0167261c",
     "Title": "The Lord of the Rings: The Two Towers",
     "Year": 2002,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0167260",
     "Title": "The Lord of the Rings: The Return of the King",
     "Year": 2003,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0903624",
     "Title": "The Hobbit: An Unexpected Journey",
     "Year": 2012,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1170358",
     "Title": "The Hobbit: The Desolation of Smaug",
     "Year": 2013,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt2310332",
     "Title": "The Hobbit: The Battle of the Five Armies",
     "Year": 2014,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0076759",
     "Title": "Star Wars: Episode IV - A New Hope",
     "Year": 1977,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0080684",
     "Title": "Star Wars: Episode V - The Empire Strikes Back",
     "Year": 1980,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0086190",
     "Title": "Star Wars: Episode VI - Return of the Jedi",
     "Year": 1983,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0120915",
     "Title": "Star Wars: Episode I - The Phantom Menacec",
     "Year": 1999,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0121765",
     "Title": "Star Wars: Episode II - Attack of the Clones",
     "Year": 2002,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0121766",
     "Title": "Star Wars: Episode III - Revenge of the Sith",
     "Year": 2005,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt2488496",
     "Title": "Star Wars: Episode VII - The Force Awakens",
     "Year": 2015,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt3748528",
@@ -1492,28 +1492,28 @@
     "Year": 2016,
     "Rating10": 9.0,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt2527336",
     "Title": "Star Wars: Episode VIII - The Last Jedi",
     "Year": 2017,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt3778644",
     "Title": "Solo: A Star Wars Story",
     "Year": 2018,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt2527338",
     "Title": "Star Wars: Episode IX - The Rise of Skywalker",
     "Year": 2019,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1921043",
@@ -1524,7 +1524,7 @@
     "FirstWatched": "2025-07-25",
     "LastWatched": "2025-07-25",
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt13718120",
@@ -1535,7 +1535,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt14205554",
@@ -1546,7 +1546,7 @@
     "FirstWatched": 2025,
     "LastWatched": 2025,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt4900148",
@@ -1557,7 +1557,7 @@
     "FirstWatched": "2025-09-02",
     "LastWatched": "2025-09-02",
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt30017619",
@@ -1568,7 +1568,7 @@
     "FirstWatched": "2025-09-02",
     "LastWatched": "2025-09-02",
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt30253473",
@@ -1579,7 +1579,7 @@
     "FirstWatched": "2025-09-02",
     "LastWatched": "2025-09-02",
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt31036941",
@@ -1590,7 +1590,7 @@
     "FirstWatched": "2025-09-03",
     "LastWatched": "2025-09-03",
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt18069420",
@@ -1601,7 +1601,7 @@
     "FirstWatched": "2025-09-03",
     "LastWatched": "2025-09-03",
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt3402138",
@@ -1612,7 +1612,7 @@
     "FirstWatched": "2025-09-12",
     "LastWatched": "2025-09-12",
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0266697",
@@ -1623,7 +1623,7 @@
     "FirstWatched": "2025-09-14",
     "LastWatched": "2025-09-14",
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0378194",
@@ -1634,112 +1634,112 @@
     "FirstWatched": "2025-09-14",
     "LastWatched": "2025-09-14",
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0770828",
     "Title": "Man of Steel",
     "Year": 2013,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt2975590",
     "Title": "Batman v Superman: Dawn of Justice",
     "Year": 2016,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1386697",
     "Title": "Suicide Squad",
     "Year": 2016,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0451279",
     "Title": "Wonder Woman",
     "Year": 2017,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0974015",
     "Title": "Justice League",
     "Year": 2017,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt1477834",
     "Title": "Aquaman",
     "Year": 2018,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt0448115",
     "Title": "Shazam!",
     "Year": 2019,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt7713068",
     "Title": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
     "Year": 2020,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt7126948",
     "Title": "Wonder Woman 1984",
     "Year": 2020,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt12361974",
     "Title": "Zack Snyder's Justice League",
     "Year": 2021,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt6334354",
     "Title": "The Suicide Squad",
     "Year": 2021,
     "SafeForParents": false,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt6443346",
     "Title": "Black Adam",
     "Year": 2022,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt10151854",
     "Title": "Shazam! Fury of the Gods",
     "Year": 2023,
     "SafeForParents": true,
-    "SafeForKids": true
+    "ForKids": true
   },
   {
     "imdbID": "tt0439572c",
     "Title": "The Flash",
     "Year": 2023,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt9362930",
     "Title": "Blue Beetle",
     "Year": 2023,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt9663764",
@@ -1749,13 +1749,13 @@
     "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   },
   {
     "imdbID": "tt14371060",
     "Title": "Os Salafrários",
     "Year": 2021,
     "SafeForParents": true,
-    "SafeForKids": false
+    "ForKids": false
   }
 ]
