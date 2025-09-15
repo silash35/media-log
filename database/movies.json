@@ -1460,7 +1460,7 @@
   },
   {
     "imdbID": "tt0120915",
-    "Title": "Star Wars: Episode I - The Phantom Menacec",
+    "Title": "Star Wars: Episode I - The Phantom Menace",
     "Year": 1999,
     "SafeForParents": true,
     "ForKids": false
@@ -1756,6 +1756,28 @@
     "Title": "Os Salafrários",
     "Year": 2021,
     "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0050976",
+    "Title": "The Seventh Seal",
+    "Year": 1957,
+    "Rating10": 3.6,
+    "Review": "É ruim e chato. Mais um daqueles filmes cults superestimados que não tem nada de mais.\n\nNão adianta querer trazer um questionamento sobre a vida e a morte. Não adianta tudo mundo atuar de forma estranha como se estivesse em uma peça de teatro. Não adianta meter um monte de diálogo querendo pagar de profundo. Não adianta fazer tudo isso e o filme não entreter, não ter uma história interessante. Ser apenas uma coletânea de personagens (que a gente não se apega a nenhum deles) fazendo coisas insossas.\n\nMas bem, falei o que muitos críticos não falam porque aparentemente falar mal desse tipo de filme é não “entender” de cinema. Apois o rei está nu e eu tenho coragem de apontar isso.",
+    "FirstWatched": "2025-09-06",
+    "LastWatched": "2025-09-06",
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt7853804",
+    "Title": "O Amor Dá Trabalho",
+    "Year": 2019,
+    "Rating10": 5.0,
+    "Review": "Filme ok do Leandro Hassum. Esperava mais.",
+    "FirstWatched": "2025-09-02",
+    "LastWatched": "2025-09-02",
+    "SafeForParents": false,
     "ForKids": false
   }
 ]
