@@ -46,8 +46,8 @@ if __name__ == "__main__":
             "Year": 2025,
             "Rating10": 6.0,
             "Review": """Teste""",
-            "FirstWatched": "2025-09-14",
-            "LastWatched": "2025-09-14",
+            "FirstWatched": "2025-12-06",
+            "LastWatched": "2025-12-06",
             "SafeForParents": False,
             "ForKids": False,
         }

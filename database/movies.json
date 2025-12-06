@@ -1779,5 +1779,27 @@
     "LastWatched": "2025-09-02",
     "SafeForParents": false,
     "ForKids": false
+  },
+  {
+    "imdbID": "tt33096983",
+    "Title": "Zuzubalândia: O Filme",
+    "Year": 2024,
+    "Rating10": 4.0,
+    "Review": "Tenho muito carinho pela Mariana Caltabiano e sei o quanto deu trabalho fazer este filme. Ele é divertido e claramente voltado ao público infantil. Há boas piadas e referências, mas faltou mais conteúdo. A animação merecia um roteiro mais elaborado e uma ideia mais criativa. Do jeito que está, parece apenas um episódio estendido e não sustenta o formato de longa.",
+    "FirstWatched": "2025-12-06",
+    "LastWatched": "2025-12-06",
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt10676052",
+    "Title": "The Fantastic Four: First Steps",
+    "Year": 2025,
+    "Rating10": 7.3,
+    "Review": "A estética do filme e todo o universo são muito legais. É uma pena que a Marvel vá integrar isso à bagunça atual do MCU. A história funciona bem. Dá pra dizer que o Galactus está nerfado, mas não me incomoda. O problema é que faltou tempo de tela e uma jornada mais bem desenvolvida para cada personagem.",
+    "FirstWatched": "2025-12-06",
+    "LastWatched": "2025-12-06",
+    "SafeForParents": true,
+    "ForKids": true
   }
 ]
