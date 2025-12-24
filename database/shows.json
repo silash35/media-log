@@ -13,5 +13,138 @@
     "Rating10": 10.0,
     "SafeForParents": true,
     "ForKids": true
+  },
+  {
+    "imdbID": "tt4834206",
+    "Title": "A Series of Unfortunate Events",
+    "Year": 2017,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt1843230",
+    "Title": "Once Upon a Time",
+    "Year": 2011,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt0108778",
+    "Title": "Friends",
+    "Year": 1994,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0460649",
+    "Title": "How I Met Your Mother",
+    "Year": 2005,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0279600",
+    "Title": "Smallville",
+    "Year": 2001,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt1305826",
+    "Title": "Adventure Time",
+    "Year": 2010,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt6048644",
+    "Title": "White Rabbit Project",
+    "Year": 2016,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt0903747",
+    "Title": "Breaking Bad",
+    "Year": 2008,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0386676",
+    "Title": "The Office (US)",
+    "Year": 2005,
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0417299",
+    "Title": "Avatar: The Last Airbender",
+    "Year": 2005,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt1695360",
+    "Title": "The Legend of Korra",
+    "Year": 2012,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt0944947",
+    "Title": "Game of Thrones",
+    "Year": 2011,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0898266",
+    "Title": "The Big Bang Theory",
+    "Year": 2007,
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0411008",
+    "Title": "Lost",
+    "Year": 2004,
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt7366338",
+    "Title": "Chernobyl",
+    "Year": 2019,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt1865718",
+    "Title": "Gravity Falls",
+    "Year": 2012,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt0197139",
+    "Title": "O Auto da Compadecida",
+    "Year": 1999,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt0877057",
+    "Title": "Death Note",
+    "Year": 2006,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt1830617",
+    "Title": "Grimm",
+    "Year": 2011,
+    "SafeForParents": true,
+    "ForKids": false
   }
 ]
