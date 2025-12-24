@@ -844,7 +844,7 @@
     "ForKids": true
   },
   {
-    "imdbID": "tt10676052",
+    "imdbID": "tt10676048",
     "Title": "The Marvels",
     "Year": 2023,
     "SafeForParents": true,
@@ -1799,6 +1799,27 @@
     "Review": "A estética do filme e todo o universo são muito legais. É uma pena que a Marvel vá integrar isso à bagunça atual do MCU. A história funciona bem. Dá pra dizer que o Galactus está nerfado, mas não me incomoda. O problema é que faltou tempo de tela e uma jornada mais bem desenvolvida para cada personagem.",
     "FirstWatched": "2025-12-06",
     "LastWatched": "2025-12-06",
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt0339291",
+    "Title": "A Series of Unfortunate Events",
+    "Year": 2004,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt0116118",
+    "Title": "Doctor Who: The Movie",
+    "Year": 1996,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt0271383",
+    "Title": "O Auto da Compadecida",
+    "Year": 2000,
     "SafeForParents": true,
     "ForKids": true
   }
