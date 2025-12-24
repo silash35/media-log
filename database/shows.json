@@ -293,5 +293,138 @@
     "Year": 2017,
     "SafeForParents": false,
     "ForKids": false
+  },
+  {
+    "imdbID": "tt4955642",
+    "Title": "The Good Place",
+    "Year": 2016,
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt3358020",
+    "Title": "Parasyte: The Maxim",
+    "Year": 2014,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt1710308",
+    "Title": "Regular Show",
+    "Year": 2010,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt2249364",
+    "Title": "Broadchurch",
+    "Year": 2013,
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt10857164",
+    "Title": "Ms. Marvel",
+    "Year": 2022,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt10160804",
+    "Title": "Hawkeye",
+    "Year": 2021,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt3398228",
+    "Title": "BoJack Horseman",
+    "Year": 2014,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt2496120",
+    "Title": "Space Battleship Yamato 2199",
+    "Year": 2012,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt7049682",
+    "Title": "Watchmen",
+    "Year": 2019,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0976192",
+    "Title": "The Spectacular Spider-Man",
+    "Year": 2008,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt8466564",
+    "Title": "Obi-Wan Kenobi",
+    "Year": 2022,
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt3032476",
+    "Title": "Better Call Saul",
+    "Year": 2015,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt6354518",
+    "Title": "Saiki Kusuo no Psi Nan",
+    "Year": 2016,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt11163352",
+    "Title": "The Disastrous Life of Saiki K.: Reawakened",
+    "Year": 2019,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt10857160",
+    "Title": "She-Hulk: Attorney at Law",
+    "Year": 2022,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt13622956",
+    "Title": "Zootopia+",
+    "Year": 2022,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt5687612",
+    "Title": "Fleabag",
+    "Year": 2016,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt5071412",
+    "Title": "Ozark",
+    "Year": 2017,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt9140554",
+    "Title": "Loki",
+    "Year": 2021,
+    "SafeForParents": true,
+    "ForKids": false
   }
 ]

@@ -1871,5 +1871,82 @@
     "Year": 2021,
     "SafeForParents": false,
     "ForKids": false
+  },
+  {
+    "imdbID": "tt3345472",
+    "Title": "Parasyte: Part 1",
+    "Year": 2014,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt3345474",
+    "Title": "Parasyte: Part 2",
+    "Year": 2015,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt1241317",
+    "Title": "Death Note",
+    "Year": 2017,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0758742",
+    "Title": "Death Note",
+    "Year": 2006,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0810827",
+    "Title": "Death Note: The Last Name",
+    "Year": 2006,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0912597",
+    "Title": "Death Note: L Change the World",
+    "Year": 2008,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt5058340",
+    "Title": "Death Note: Light Up the New World",
+    "Year": 2016,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt5607028",
+    "Title": "Fullmetal Alchemist",
+    "Year": 2017,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0409459",
+    "Title": "Watchmen",
+    "Year": 2009,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt6751668",
+    "Title": "Parasite",
+    "Year": 2019,
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt4773438",
+    "Title": "Psychic Kusuo",
+    "Year": 2017,
+    "SafeForParents": false,
+    "ForKids": false
   }
 ]
