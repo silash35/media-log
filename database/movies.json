@@ -1822,5 +1822,54 @@
     "Year": 2000,
     "SafeForParents": true,
     "ForKids": true
+  },
+  {
+    "imdbID": "tt1776196",
+    "Title": "Fullmetal Alchemist: The Sacred Star of Milos",
+    "Year": 2011,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0318850",
+    "Title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+    "Year": 2005,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0169858",
+    "Title": "Neon Genesis Evangelion: The End of Evangelion",
+    "Year": 1997,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0923811",
+    "Title": "Evangelion: 1.0 You Are (Not) Alone",
+    "Year": 2007,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0860906",
+    "Title": "Evangelion: 2.0 You Can (Not) Advance",
+    "Year": 2009,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0860907",
+    "Title": "Evangelion: 3.0 You Can (Not) Redo",
+    "Year": 2012,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt2458948",
+    "Title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "Year": 2021,
+    "SafeForParents": false,
+    "ForKids": false
   }
 ]

@@ -146,5 +146,152 @@
     "Year": 2011,
     "SafeForParents": true,
     "ForKids": false
+  },
+  {
+    "imdbID": "tt1355642",
+    "Title": "Fullmetal Alchemist: Brotherhood",
+    "Year": 2009,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0421357",
+    "Title": "Fullmetal Alchemist",
+    "Year": 2003,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt2431438",
+    "Title": "Sense8",
+    "Year": 2015,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt9139220",
+    "Title": "Dracula",
+    "Year": 2020,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt1837492",
+    "Title": "13 Reasons Why",
+    "Year": 2017,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0112159",
+    "Title": "Neon Genesis Evangelion",
+    "Year": 1995,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0760437",
+    "Title": "Ben 10",
+    "Year": 2005,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt1033241",
+    "Title": "Ben 10: Alien Force",
+    "Year": 2008,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt1327701",
+    "Title": "Ben 10: Ultimate Alien",
+    "Year": 2010,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt2293002",
+    "Title": "Ben 10: Omniverse",
+    "Year": 2012,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt0294196",
+    "Title": "Sítio do Picapau Amarelo",
+    "Year": 2001,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt3718778",
+    "Title": "Over the Garden Wall",
+    "Year": 2014,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt0138972",
+    "Title": "K9 and Company",
+    "Year": 1981,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0862620",
+    "Title": "The Sarah Jane Adventures",
+    "Year": 2007,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt9140560",
+    "Title": "WandaVision",
+    "Year": 2021,
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0458290",
+    "Title": "Star Wars: The Clone Wars",
+    "Year": 2008,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt5079788",
+    "Title": "Class",
+    "Year": 2016,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt9140342",
+    "Title": "It's a Sin",
+    "Year": 2021,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt2930604",
+    "Title": "Star Wars Rebels",
+    "Year": 2014,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt0485301",
+    "Title": "Torchwood",
+    "Year": 2006,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt5753856",
+    "Title": "Dark",
+    "Year": 2017,
+    "SafeForParents": false,
+    "ForKids": false
   }
 ]
