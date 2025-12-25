@@ -1953,7 +1953,42 @@
     "imdbID": "tt10515852",
     "Title": "Steven Universe: The Movie",
     "Year": 2019,
+    "Rating10": 3.9,
+    "Review": "É bem ruim. Praticamente um filler. Claro, é muito legal saber como ficou a situação depois. Mas a história simplesmente não é boa.",
     "SafeForParents": false,
     "ForKids": true
+  },
+  {
+    "imdbID": "tt2101473",
+    "Title": "The Physician",
+    "Year": 2013,
+    "Rating10": 8.7,
+    "Review": "Filmaço, super recomendado. Ainda assim, é o tipo de filme que muita gente vai assistir reclamando o tempo todo por não ser historicamente acurado.",
+    "FirstWatched": 2024,
+    "LastWatched": 2024,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt22090684",
+    "Title": "The Invisible Raptor",
+    "Year": 2023,
+    "Rating10": 3.5,
+    "Review": "Pô, esse filme eu esperava mais pela ideia maluca que ele se propos. Mas acabou sendo um filme bem ruim. Se vc desligar o celebro completamente até consegue se divertir, na verdade. Mas não vá esperando grandes coisas.",
+    "FirstWatched": 2024,
+    "LastWatched": 2024,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0485947",
+    "Title": "Mr. Nobody",
+    "Year": 2009,
+    "Rating10": 3.3,
+    "Review": "Tem uma boa ideia, mas o filme é muito confuso, não gostei.",
+    "FirstWatched": 2024,
+    "LastWatched": 2024,
+    "SafeForParents": false,
+    "ForKids": false
   }
 ]

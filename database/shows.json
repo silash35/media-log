@@ -452,8 +452,10 @@
     "imdbID": "tt6226232",
     "Title": "Young Sheldon",
     "Year": 2017,
+    "Rating10": 8.2,
+    "Review": "Nenhum outro filme ou série tinha me feito chorar tanto. Passei os últimos 2 episódios inteiros em lágrimas.",
     "SafeForParents": true,
-    "ForKids": true
+    "ForKids": false
   },
   {
     "imdbID": "tt1231602",
@@ -480,6 +482,8 @@
     "imdbID": "tt15571732",
     "Title": "Agatha All Along",
     "Year": 2024,
+    "Rating10": 6.5,
+    "Review": "Não é tão legal quanto WandaVision. Meio mé na verdade, mas me entreteve.",
     "SafeForParents": true,
     "ForKids": false
   },
@@ -494,8 +498,10 @@
     "imdbID": "tt9174578",
     "Title": "Around the World in 80 Days",
     "Year": 2021,
+    "Rating10": 7.5,
+    "Review": "Não tem jeito, o que o David Tennant faz eu vou tá lá assistindo\n\nE pô super recomendo. É uma mini série curtinha e vale muito a pena. É a clássica história do Júlio Verne onde um britânico viaja o mundo passando por lugares como reino Unido, colônia britânica 1, colônia britânica 2, colônia britânica 3 e ex colônia britânica.",
     "SafeForParents": true,
-    "ForKids": true
+    "ForKids": false
   },
   {
     "imdbID": "tt4230076",
@@ -508,6 +514,8 @@
     "imdbID": "tt31193703",
     "Title": "Douglas Is Cancelled",
     "Year": 2024,
+    "Rating10": 9.0,
+    "Review": "Não tem jeito, o que o Moffat faz eu vou tá assistindo.\n\nEssa mini série conta história de um jornalista que contou uma piada machista e agora precisa fazer de tudo pra essa piada não vazar. E o pior: ele não lembra qual foi a piada.\n\nMas deixa eu falar viu, quem realmente brilha nessa série é a Karen Gillan. QUE MULHER!\n\nE quando a Alex Kingston entra em cena então...",
     "SafeForParents": true,
     "ForKids": false
   },
@@ -529,6 +537,8 @@
     "imdbID": "tt3061046",
     "Title": "Steven Universo",
     "Year": 2013,
+    "Rating10": 8.0,
+    "Review": "Um menino que chora por tudo tem aventuras com suas tias sapatonas. Mas gente acho que consigo contar nos dedos de uma mão quantos héteros tem nesse desenho.\n\nAgora de alguma forma o desenho é MUITO BOM. A primeira temporada tem mais fillers, mas eu acho justificável, porque ela introduz os elementos da série aos poucos, e faz com que a gente conheça cada personagem melhor. E isso é super importante até pq essa série inteira é sobre sentimentos.\n\nTem episódios falando sobre temas bem difíceis, mas do jeito que apenas essa série sabe fazer. Eps sobre relacionamentos saudáveis, tóxicos, traumas, pais...\n\nO que me incomodou são os fillers no meio da ação. Uma crise acontecendo e a gente tendo que acompanhar um drama menor. Mas de resto gostei bastante. O final tbm é muito bom.\n\nAgora, é um desenho bem diferente de hora de aventura, por exemplo. Claro, hora de aventura é muito melhor que Steven Universo, mas acho legal ver as diferenças entre as séries.\n\nUma das minhas maiores (e talvez única) critica minha a Hora de Aventura é que eles não cansam de ficar deixando pontas soltas. A série terminou com um bilhão de mistérios, aí fazem outra série respondendo que responde, mas, ao mesmo tempo, cria um monte de outras dúvidas.\n\nAgora Steven Universo encerra corretamente. É muito mais redondinho. Mas tbm o universo aqui é ordens de grandeza menor, o que facilita as coisas.\n\nOutra diferença é como os conflitos são resolvidos. Em hora de aventura é um desenho feito por um menino, então tem lutinhas batalhas e etc. Já o Steven não consegue matar um besouro (tem essa cena), e todos os conflitos são resolvidos na base da conversa. Jeitos diferentes, e estou grato de existir os dois desenhos, cada um do seu jeito.",
     "SafeForParents": false,
     "ForKids": true
   },
@@ -536,6 +546,8 @@
     "imdbID": "tt10574340",
     "Title": "Steven Universe Future",
     "Year": 2019,
+    "Rating10": 8.0,
+    "Review": "É muito ruim. Dava pra ter feito algo muito melhor, mas aí encheu de filler, de coisa ruim. Aqui bastava fazer eps sobre os personagens menores, o que aconteceu com eles. Mas resolveram fazer uma história lá muito mal executada e o final tbm é bem ruim.",
     "SafeForParents": false,
     "ForKids": true
   },
