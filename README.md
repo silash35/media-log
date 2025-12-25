@@ -2,7 +2,7 @@
 
 > ⚠️ **Note:** This repository is written entirely in **Portuguese (pt-BR)**. It contains my personal records of movies, series, and games I have watched.
 
-Este repositório é uma coleção pessoal de mídias consumidas (filmes, séries e jogo) organizadas com informações como título, ano e, quando possível, outras informações como data em que assisti, notas e uma breve review. Você pode conferir o banco de dados completo na pasta `database`, com cada tipo de mídia armazenado em um arquivo separado. Todos os registros estão disponíveis em dois formatos: `JSON` e `CSV`, para facilitar o uso e a visualização.
+Este repositório é uma coleção pessoal de mídias consumidas (filmes, séries e jogos) organizadas com informações como título, ano e, quando possível, outras informações como data em que assisti, notas e uma breve review. Você pode conferir o banco de dados completo na pasta `database`, com cada tipo de mídia armazenado em um arquivo separado. Todos os registros estão disponíveis em dois formatos: `JSON` e `CSV`, para facilitar o uso e a visualização.
 
 > ℹ️ **Dica:** O arquivo CSV é bom para vizualizar usando um editor de planilhas como o Microsoft Excel.
 
