@@ -426,5 +426,154 @@
     "Year": 2021,
     "SafeForParents": true,
     "ForKids": false
+  },
+  {
+    "imdbID": "tt0088509",
+    "Title": "Dragon Ball",
+    "Year": 1986,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0121220",
+    "Title": "Dragon Ball Z",
+    "Year": 1989,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt0406429",
+    "Title": "Blackpool",
+    "Year": 2004,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt6226232",
+    "Title": "Young Sheldon",
+    "Year": 2017,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt1231602",
+    "Title": "Green Porno",
+    "Year": 2008,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt2125294",
+    "Title": "Seduce Me",
+    "Year": 2010,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt2731456",
+    "Title": "Mammas",
+    "Year": 2013,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt15571732",
+    "Title": "Agatha All Along",
+    "Year": 2024,
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt30496489",
+    "Title": "Turma da Mônica - Origens",
+    "Year": 2024,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt9174578",
+    "Title": "Around the World in 80 Days",
+    "Year": 2021,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt4230076",
+    "Title": "The Defenders",
+    "Year": 2017,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt31193703",
+    "Title": "Douglas Is Cancelled",
+    "Year": 2024,
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt33088401",
+    "Title": "Dream Productions",
+    "Year": 2024,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt10168312",
+    "Title": "What If...?",
+    "Year": 2021,
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt3061046",
+    "Title": "Steven Universo",
+    "Year": 2013,
+    "SafeForParents": false,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt10574340",
+    "Title": "Steven Universe Future",
+    "Year": 2019,
+    "SafeForParents": false,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt9253284",
+    "Title": "Andor",
+    "Year": 2022,
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt20723374",
+    "Title": "Star Wars: Tales of the Jedi",
+    "Year": 2022,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt32019314",
+    "Title": "Star Wars: Tales of the Empire",
+    "Year": 2024,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt36414431",
+    "Title": "Star Wars: Tales of the Underworld",
+    "Year": 2025,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt30645193",
+    "Title": "The War Between the Land and the Sea",
+    "Year": 2025,
+    "Rating10": 7.1,
+    "Review": "Toda a construção da série ao longo dos episódios é muito boa e te envolve bastante na trama. Os episódios funcionam bem individualmente, e os cliffhangers ajudam a manter o interesse alto.\n\nInfelizmente, como tem parecido comum em produções recentes do Russell T Davies, o problema está no final, que acaba sendo morno. A solução é amarga e até faz sentido, mas faltou uma execução mais cuidadosa e melhor desenvolvimento dessa parte.\n\nA última cena, em especial, é bem fraca. O que mais pesa contra ela é o hype criado pelo próprio RTD. Ainda assim, se as implicações desse desfecho forem exploradas no futuro, há potencial para algo realmente interessante.",
+    "SafeForParents": false,
+    "ForKids": false
   }
 ]

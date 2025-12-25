@@ -1948,5 +1948,12 @@
     "Year": 2017,
     "SafeForParents": false,
     "ForKids": false
+  },
+  {
+    "imdbID": "tt10515852",
+    "Title": "Steven Universe: The Movie",
+    "Year": 2019,
+    "SafeForParents": false,
+    "ForKids": true
   }
 ]
