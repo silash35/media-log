@@ -2000,5 +2000,16 @@
     "LastWatched": "2025-12-25",
     "SafeForParents": false,
     "ForKids": false
+  },
+  {
+    "imdbID": "tt11655566",
+    "Title": "Lilo & Stitch",
+    "Year": 2025,
+    "Rating10": 5.0,
+    "Review": "Adaptação decente, mas não tão boa quanto o original animado. Falta cor e as modificações na trama não ficaram boas.",
+    "FirstWatched": "2025-12-27",
+    "LastWatched": "2025-12-27",
+    "SafeForParents": true,
+    "ForKids": true
   }
 ]
