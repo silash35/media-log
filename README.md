@@ -36,7 +36,7 @@ As notas atribuídas aqui não devem ser usadas para comparar diretamente uma ob
 
 ## 🗂️ Estrutura dos Dados
 
-Cada entrada do arquivo CSV (ou o json) representa um filme, série ou jogo. Os campos variam de acordo com o tipo de mídia, conforme descrito abaixo.SafeF
+Cada entrada do arquivo CSV (ou o json) representa um filme, série ou jogo. Os campos variam de acordo com o tipo de mídia, conforme descrito abaixo.
 
 ### Filmes
 
