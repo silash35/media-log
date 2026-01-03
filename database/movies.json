@@ -2042,5 +2042,37 @@
     "LastWatched": "2025-12-31",
     "SafeForParents": true,
     "ForKids": true
+  },
+  {
+    "imdbID": "tt1666186",
+    "Title": "Vampires Suck",
+    "Year": 2010,
+    "Rating10": 2.0,
+    "Review": "Acidentalmente, acabou que o primeiro filme que eu vi esse ano foi **Os Vampiros que Se Mordam (2010)**. É uma paródia de crepúsculo. Já vi filmes de paródia melhores, aqui poucas piadas que se salvam, e nem são tão boas.",
+    "FirstWatched": "2026-01-02",
+    "LastWatched": "2026-01-02",
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt8721424",
+    "Title": "tick, tick... BOOM!",
+    "Year": 2021,
+    "Rating10": 8.8,
+    "Review": "Quando vi esse filme pela primeira vez, eu não entendi. Não achei graça, não conectou comigo. Mas isso é uma das coisas mais legais de rever filmes. Antes, eu não gostava de música, não entendia a urgência, não entendia as complexidades da vida (não que eu entenda hoje, e talvez ninguém entenda). O filme não mudou de lá para cá, quem mudou fui eu, e isso é legal.\n\nO filme conta a história de alguém de quem eu nunca tinha ouvido falar: Jonathan Larson, compositor e escritor de musicais da Broadway. Inclusive, o filme é uma adaptação de um musical dele, com o mesmo nome.\n\nTudo aqui é muito bem feito. As músicas são excelentes, extremamente difíceis de executar, mas entregues com perfeição pelo elenco. O destaque vai para Andrew Garfield, que entrega o papel da vida dele.\n\nNo fim, fico pensando em quantos filmes eu já considerei ruins, mas que hoje, em outro momento da minha vida, talvez ganhassem uma nota muito melhor. Só sei que agora eu preciso muito ver um musical em um teatro.",
+    "LastWatched": "2026-01-02",
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt28996126",
+    "Title": "Nobody 2",
+    "Year": 2025,
+    "Rating10": 6.0,
+    "Review": "Eles não têm roteiro, eles não têm desenvolvimento, mas eles têm ação (e muitos cortes). Segue a mesma fórmula do primeiro, mas não é tão bom. É uma diversão ok.",
+    "FirstWatched": "2026-01-03",
+    "LastWatched": "2026-01-03",
+    "SafeForParents": true,
+    "ForKids": false
   }
 ]
