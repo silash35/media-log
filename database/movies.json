@@ -2074,5 +2074,56 @@
     "LastWatched": "2026-01-03",
     "SafeForParents": true,
     "ForKids": false
+  },
+  {
+    "imdbID": "tt0768187",
+    "Title": "Eu e Meu Guarda-Chuva",
+    "Year": 2010,
+    "Rating10": 7.0,
+    "Review": "É um filme muito bem feito, muito bem escrito. Tem uns diálogos com umas tiradas engraçadas e muito criativas.\n\nClaro, é um filme infantil, mas é um ótimo filme infantil. Só a premissa de (spoilers a seguir, continue por sua conta de risco) ser um sonho, e essa ambiguidade que achei batida e desinteressante.",
+    "FirstWatched": "2026-01-04",
+    "LastWatched": "2026-01-04",
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt17076046",
+    "Title": "Weird: The Al Yankovic Story",
+    "Year": 2022,
+    "Review": "Esse filme conta a historia do famoso cantor Weird Al, mas ele não é muito famoso por aqui no Brasil.\n\nA grande questão é que ele é famoso suficiente para conseguir fazer um filme sobre a vida dele, estrelado pelo Daniel Radcliffe (O ator do Harry Potter). O filme é bom? nem tanto mas deu pra dar umas boas risadas.\n\n(SPOILERS A SEGUIR)\n\nAgora o legal é que a vilã do filme é a Madona. Tipo, o filme começa crível. Parece que tá contando a vida dele mesmo, mas termina com a Madona tomando controle do tráfico colombiano no lugar de Pablo Escobar e fazendo um atentado contra o protagonista, matando ele (mas na vida real ele tá vivo).",
+    "FirstWatched": 2024,
+    "LastWatched": 2024,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt27503384",
+    "Title": "Perfect Days",
+    "Year": 2023,
+    "Review": "**Perfect Days (2023)** foi indicado ao Oscar de melhor filme. Ainda bem que perdeu.\n\nÔ filme chato. Deveria se chamar ASMR de velho lavando banheiro (2023). Outro Slice of life, chega não tem ideia de filme não faz filme pô.",
+    "FirstWatched": 2024,
+    "LastWatched": 2024,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt8178634",
+    "Title": "RRR",
+    "Year": 2022,
+    "Rating10": 10.0,
+    "Review": "Não creio que um musical acabou de entrar no meu top 5 melhores filmes.\n\n**RRR (2022)** é tudo num filme só. É drama, é galhofa, é ação. Estou boquiaberto! Hollywood foi derrotada por Bollywood (ou Tollywood? não me pergunte.).\n\nUm filme tem mais história que uns 10 filmes da Marvel. Era reviravolta atrás de reviravolta. Foi tipo dar um orçamento de Vingadores pra um escritor de novela mexicana e aí ele deu tudo de si.\n\nE ainda bem que esse filme foi feito na Índia, pq qualquer outra indústria de cinema iria ser catastrófico. Apenas eles conseguem fazer aquelas cenas de ação. Pôs no chinelo qualquer filme de Super Herói.",
+    "FirstWatched": 2022,
+    "LastWatched": 2024,
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt6710474",
+    "Title": "Everything Everywhere All at Once",
+    "Year": 2022,
+    "Rating10": 10.0,
+    "FirstWatched": 2022,
+    "SafeForParents": false,
+    "ForKids": false
   }
 ]
