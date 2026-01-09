@@ -2125,5 +2125,62 @@
     "FirstWatched": 2022,
     "SafeForParents": false,
     "ForKids": false
+  },
+  {
+    "imdbID": "tt17163970",
+    "Title": "Wallace & Gromit: Vengeance Most Fowl",
+    "Year": 2024,
+    "Rating10": 6.8,
+    "Review": "Wallace & Gromit VOLTARAM! E com eles um dos mais temidos vilões de todos os tempos: Feathers McGraw.\n\nE o filme é bem legal. Tem umas piadas muito boas e é uma ótima diversão para a tarde. Claro, não chega perto de **Wallace & Gromit - A Batalha dos Vegetais (2005)** mas vale a pena ver.",
+    "FirstWatched": 2024,
+    "LastWatched": 2024,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt30868610",
+    "Title": "Chico Bento e a Goiabeira Maraviósa",
+    "Year": 2024,
+    "Rating10": 7.6,
+    "Review": "QUE FILME BOM! O humor funciona muito bem, o filme é muito engraçado. A história é bem simples mas muito bem executada.\n\nDiversão para toda família.",
+    "FirstWatched": "2025-01-10",
+    "LastWatched": "2025-01-10",
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt38755615",
+    "Title": "Mauricio de Sousa: O Filme",
+    "Year": 2025,
+    "Rating10": 6.2,
+    "Review": "Acabei de ver o filme do Maurício de Souza. Acho que é a primeira vez que eu li o livro antes de ver o filme.\n\nSim, eu li a biografia dele. Sempre fui muito fã de turma da Mônica. Tinha até uma coleção de revistas e teve uma época que eu tinha assinatura.\n\nSobre o filme, acho que foi uma boa adaptação. O livro na verdade vai bem mais além na vida dele, o filme para mais ou menos quando fecha o contrato com a editora abril (mas estranhamente não cita o nome da editora).\n\nO Mauro Sousa (o filho que inspirou o Nimbus) tá ótimo como Maurício. Agora ele tem o buraquinho do brinco que ele usa. Existe maquiagem pra isso? É meio besta, mas tirou um pouco da imersão.\n\nNão acho que foi uma decisão acertada colocar o ator dele criança pra narrar o começo. Pq ele narra como se soubesse o futuro aí ficou estranho. O certo mesmo era o Maurício de verdade narrar o filme todo, mas ele está velhinho já então eu entendo, mas era para o Mauro narrar então.\n\nOu o narrador não souber o que vêm pela frente, talvez? Fazer uma biografia assim seria mais difícil mas tá aí uma possibilidade.",
+    "FirstWatched": "2026-01-06",
+    "LastWatched": "2026-01-06",
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt8169552",
+    "Title": "Turma da Mônica: Laços",
+    "Year": 2019,
+    "Rating10": 4.5,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt11674072",
+    "Title": "Turma da Mônica: Lições",
+    "Year": 2021,
+    "Rating10": 7.0,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt7368304",
+    "Title": "Turma da Mônica Jovem: Reflexos do Medo",
+    "Year": 2024,
+    "Rating10": 0.0,
+    "SafeForParents": true,
+    "ForKids": true
   }
 ]
