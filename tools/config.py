@@ -19,6 +19,7 @@ class MovieEntry(EntryBase, total=False):
     Review: str
     FirstWatched: Union[int, str]
     LastWatched: Union[int, str]
+    Tags: list
     SafeForParents: bool
     ForKids: bool
 
@@ -26,6 +27,7 @@ class MovieEntry(EntryBase, total=False):
 class ShowEntry(EntryBase, total=False):
     Rating10: float
     Review: str
+    Tags: list
     SafeForParents: bool
     ForKids: bool
 
@@ -33,5 +35,6 @@ class ShowEntry(EntryBase, total=False):
 class GameEntry(EntryBase, total=False):
     Rating10: float
     Review: str
+    Tags: list
     SafeForParents: bool
     ForKids: bool

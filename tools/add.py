@@ -27,7 +27,16 @@ def add_entry(new_entry: EntryBase, json_path: str, EntryType: Type[EntryBase]):
     data.append(new_entry)
 
     # Order the entries
-    data = [order(line, EntryType.__annotations__.keys()) for line in data]
+    ordered_data = []
+    for line in data:
+        ordered_line = order(line, EntryType.__annotations__.keys())
+
+        if "Tags" in ordered_line and isinstance(ordered_line["Tags"], list):
+            ordered_line["Tags"] = sorted(ordered_line["Tags"], key=str.lower)
+
+        ordered_data.append(ordered_line)
+
+    data = ordered_data
 
     # Save back to JSON
     with open(json_path, "w", encoding="utf-8") as f:
@@ -43,11 +52,12 @@ if __name__ == "__main__":
         {
             "imdbID": "tt0000000",
             "Title": "Legally",
-            "Year": 2025,
-            "Rating10": 6.0,
+            "Year": 2026,
+            "Rating10": 7.0,
             "Review": """Teste""",
-            "FirstWatched": "2025-12-06",
-            "LastWatched": "2025-12-06",
+            "FirstWatched": "2026-01-15",
+            "LastWatched": "2026-01-15",
+            "Tags": ["Vi no Cinema"],
             "SafeForParents": False,
             "ForKids": False,
         }

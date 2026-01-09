@@ -83,6 +83,10 @@
     "Review": "É o melhor filme da Marvel desde Ultimato.\n\nQue filme bom. É engraçado, a história é muito boa. Tá, a solução foi meio Steven Universo. Mas eu achei muito bem colocada e fez todo o sentido.\n\nEntretanto agora a Marvel tem um problema, que não posso falar sem falar de spoilers. A melhor coisa agora é simplesmente nunca mais tocar no assunto, pq se não vai ser um personagem muito difícil de se lidar (já basta aquela mulher do invasão secreta).\n\nEsse filme o tempo todo tem alguma piadinha. Isso não é um problema nesse filme, mas estou começando a entender quando alguém reclama da Marvel sobre isso.\n\nEsse também é o filme da Marvel que vc precisa assistir 30 coisas antes pra entender.",
     "FirstWatched": "2025-05-02",
     "LastWatched": "2025-05-02",
+    "Tags": [
+      "Marvel",
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -182,6 +186,9 @@
     "Review": "Também conhecido como capitão America sem capitão América, não é tão ruim quanto eu esperava. Dá pra se divertir até.\n\nMas tipo, vilão ruim, o cara fazendo mil coisas sobre-humanas sem ter tomado o soro de super soldado, o Hulk vermelho sendo derrotado com uma solução muito ruim. Enfim, um monte de coisas que me incomodaram.\n\nJá teve filmes piores da Marvel. Consigo perdoar esse até. Mas o que eu não perdoo é a cena pós créditos minha nossa que coisa ruim não faz o menor sentido.",
     "FirstWatched": 2025,
     "LastWatched": 2025,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -524,6 +531,9 @@
     "imdbID": "tt1979388",
     "Title": "The Good Dinosaur",
     "Year": 2015,
+    "Tags": [
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -559,6 +569,9 @@
     "imdbID": "tt1979376",
     "Title": "Toy Story 4",
     "Year": 2019,
+    "Tags": [
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -612,6 +625,9 @@
     "Review": "É muito bom, talvez até melhor que o original.\n\nA Disney tem que parar de ficar fazendo continuações e me doeu ir no cinema incentivar esse comportamento, mas aqui eles acertaram muito. Inclusive tem a melhor representação de uma crise de ansiedade que eu já vi (a última tinha sido em gato de botas 2).",
     "FirstWatched": 2024,
     "LastWatched": 2024,
+    "Tags": [
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -619,6 +635,9 @@
     "imdbID": "tt0371746",
     "Title": "Iron Man",
     "Year": 2008,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -626,6 +645,9 @@
     "imdbID": "tt0800080",
     "Title": "The Incredible Hulk",
     "Year": 2008,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": false,
     "ForKids": false
   },
@@ -633,6 +655,9 @@
     "imdbID": "tt1228705",
     "Title": "Iron Man 2",
     "Year": 2010,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -640,6 +665,9 @@
     "imdbID": "tt0800369",
     "Title": "Thor",
     "Year": 2011,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -647,6 +675,9 @@
     "imdbID": "tt0458339",
     "Title": "Captain America: The First Avenger",
     "Year": 2011,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -655,6 +686,9 @@
     "Title": "The Avengers",
     "Year": 2012,
     "Rating10": 9.0,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -662,6 +696,9 @@
     "imdbID": "tt1300854",
     "Title": "Iron Man 3",
     "Year": 2013,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -669,6 +706,9 @@
     "imdbID": "tt1981115",
     "Title": "Thor: The Dark World",
     "Year": 2013,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -676,6 +716,9 @@
     "imdbID": "tt1843866",
     "Title": "Captain America: The Winter Soldier",
     "Year": 2014,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -683,6 +726,9 @@
     "imdbID": "tt2015381",
     "Title": "Guardians of the Galaxy",
     "Year": 2014,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -690,6 +736,9 @@
     "imdbID": "tt2395427",
     "Title": "Avengers: Age of Ultron",
     "Year": 2015,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -697,6 +746,9 @@
     "imdbID": "tt0478970",
     "Title": "Ant-Man",
     "Year": 2015,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -704,6 +756,9 @@
     "imdbID": "tt3498820",
     "Title": "Captain America: Civil War",
     "Year": 2016,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -711,6 +766,9 @@
     "imdbID": "tt1211837",
     "Title": "Doctor Strange",
     "Year": 2016,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -718,6 +776,9 @@
     "imdbID": "tt3896198",
     "Title": "Guardians of the Galaxy Vol. 2",
     "Year": 2017,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -725,6 +786,9 @@
     "imdbID": "tt2250912",
     "Title": "Spider-Man: Homecoming",
     "Year": 2017,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -732,6 +796,9 @@
     "imdbID": "tt3501632",
     "Title": "Thor: Ragnarok",
     "Year": 2017,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -739,6 +806,9 @@
     "imdbID": "tt1825683",
     "Title": "Black Panther",
     "Year": 2018,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -747,6 +817,10 @@
     "Title": "Avengers: Infinity War",
     "Year": 2018,
     "Rating10": 9.2,
+    "Tags": [
+      "Marvel",
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -754,6 +828,9 @@
     "imdbID": "tt5095030",
     "Title": "Ant-Man and the Wasp",
     "Year": 2018,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -761,6 +838,9 @@
     "imdbID": "tt4154664",
     "Title": "Captain Marvel",
     "Year": 2019,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -770,6 +850,10 @@
     "Year": 2019,
     "Rating10": 10.0,
     "Review": "Vão me crucificar por essa nota 10? Óbvio. Sempre tem aquele crítico chato que vai vomitar um “ah, mas tem um furo” ou “ah, mas tem um erro naquela cena”. Eu até concordo que **Vingadores: Guerra Infinita (2018)** pode ser mais “redondinho” tecnicamente, mas Endgame? Endgame é sentimento puro.\n\nNenhum outro filme me proporcionou tanto impacto emocional quanto esse. Nenhum outro filme chegou (ou vai chegar) perto do espetáculo que foi esse aqui. Foram mais de 10 anos de construção para esse momento. É o ápice do cinema, é êxtase puro, é a tão esperada catarse com o fechamento épico que todos estavam esperando. Nota 10 com todo o merecimento do mundo.",
+    "Tags": [
+      "Marvel",
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -777,6 +861,9 @@
     "imdbID": "tt6320628",
     "Title": "Spider-Man: Far From Home",
     "Year": 2019,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -784,6 +871,9 @@
     "imdbID": "tt3480822",
     "Title": "Black Widow",
     "Year": 2021,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -791,6 +881,10 @@
     "imdbID": "tt9376612",
     "Title": "Shang-Chi and the Legend of the Ten Rings",
     "Year": 2021,
+    "Tags": [
+      "Marvel",
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -798,6 +892,9 @@
     "imdbID": "tt9032400",
     "Title": "Eternals",
     "Year": 2021,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -805,6 +902,9 @@
     "imdbID": "tt10872600",
     "Title": "Spider-Man: No Way Home",
     "Year": 2021,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -812,6 +912,10 @@
     "imdbID": "tt9419884",
     "Title": "Doctor Strange in the Multiverse of Madness",
     "Year": 2022,
+    "Tags": [
+      "Marvel",
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -819,6 +923,9 @@
     "imdbID": "tt10648342",
     "Title": "Thor: Love and Thunder",
     "Year": 2022,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -826,6 +933,9 @@
     "imdbID": "tt9114286",
     "Title": "Black Panther: Wakanda Forever",
     "Year": 2022,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -833,6 +943,9 @@
     "imdbID": "tt10954600",
     "Title": "Ant-Man and the Wasp: Quantumania",
     "Year": 2023,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -840,6 +953,9 @@
     "imdbID": "tt6791350",
     "Title": "Guardians of the Galaxy Vol. 3",
     "Year": 2023,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -847,6 +963,9 @@
     "imdbID": "tt10676048",
     "Title": "The Marvels",
     "Year": 2023,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -854,6 +973,9 @@
     "imdbID": "tt6263850",
     "Title": "Deadpool & Wolverine",
     "Year": 2024,
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": false,
     "ForKids": false
   },
@@ -1118,6 +1240,10 @@
     "Review": "Finalmente um filme de Transformers sem humanos. E é um filme feito para os fãs da franquia, inclusive acho que merece ganhar continuação.",
     "FirstWatched": 2024,
     "LastWatched": 2024,
+    "Tags": [
+      "Transformers",
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -1322,6 +1448,9 @@
     "imdbID": "tt0241527",
     "Title": "Harry Potter and the Sorcerer's Stone",
     "Year": 2001,
+    "Tags": [
+      "Harry Potter"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -1329,6 +1458,9 @@
     "imdbID": "tt0295297",
     "Title": "Harry Potter and the Chamber of Secrets",
     "Year": 2002,
+    "Tags": [
+      "Harry Potter"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -1336,6 +1468,9 @@
     "imdbID": "tt0304141",
     "Title": "Harry Potter and the Prisoner of Azkaban",
     "Year": 2004,
+    "Tags": [
+      "Harry Potter"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -1343,6 +1478,9 @@
     "imdbID": "tt0330373",
     "Title": "Harry Potter and the Goblet of Fire",
     "Year": 2005,
+    "Tags": [
+      "Harry Potter"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1350,6 +1488,9 @@
     "imdbID": "tt0373889",
     "Title": "Harry Potter and the Order of the Phoenix",
     "Year": 2007,
+    "Tags": [
+      "Harry Potter"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1357,6 +1498,9 @@
     "imdbID": "tt0417741",
     "Title": "Harry Potter and the Half-Blood Prince",
     "Year": 2009,
+    "Tags": [
+      "Harry Potter"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1364,6 +1508,9 @@
     "imdbID": "tt0926084",
     "Title": "Harry Potter and the Deathly Hallows: Part 1",
     "Year": 2010,
+    "Tags": [
+      "Harry Potter"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1371,6 +1518,9 @@
     "imdbID": "tt1201607",
     "Title": "Harry Potter and the Deathly Hallows: Part 2",
     "Year": 2011,
+    "Tags": [
+      "Harry Potter"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1378,6 +1528,10 @@
     "imdbID": "tt3183660",
     "Title": "Fantastic Beasts and Where to Find Them",
     "Year": 2016,
+    "Tags": [
+      "Harry Potter",
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -1385,6 +1539,10 @@
     "imdbID": "tt4123430",
     "Title": "Fantastic Beasts: The Crimes of Grindelwald",
     "Year": 2018,
+    "Tags": [
+      "Harry Potter",
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1392,6 +1550,9 @@
     "imdbID": "tt4123432",
     "Title": "Fantastic Beasts: The Secrets of Dumbledore",
     "Year": 2022,
+    "Tags": [
+      "Harry Potter"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1399,6 +1560,9 @@
     "imdbID": "tt0120737",
     "Title": "The Lord of the Rings: The Fellowship of the Ring",
     "Year": 2001,
+    "Tags": [
+      "Lord of the Rings"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1406,6 +1570,9 @@
     "imdbID": "tt0167261c",
     "Title": "The Lord of the Rings: The Two Towers",
     "Year": 2002,
+    "Tags": [
+      "Lord of the Rings"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1413,6 +1580,9 @@
     "imdbID": "tt0167260",
     "Title": "The Lord of the Rings: The Return of the King",
     "Year": 2003,
+    "Tags": [
+      "Lord of the Rings"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1420,6 +1590,9 @@
     "imdbID": "tt0903624",
     "Title": "The Hobbit: An Unexpected Journey",
     "Year": 2012,
+    "Tags": [
+      "Lord of the Rings"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1427,6 +1600,9 @@
     "imdbID": "tt1170358",
     "Title": "The Hobbit: The Desolation of Smaug",
     "Year": 2013,
+    "Tags": [
+      "Lord of the Rings"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1434,6 +1610,9 @@
     "imdbID": "tt2310332",
     "Title": "The Hobbit: The Battle of the Five Armies",
     "Year": 2014,
+    "Tags": [
+      "Lord of the Rings"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1441,6 +1620,9 @@
     "imdbID": "tt0076759",
     "Title": "Star Wars: Episode IV - A New Hope",
     "Year": 1977,
+    "Tags": [
+      "Star Wars"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1448,6 +1630,9 @@
     "imdbID": "tt0080684",
     "Title": "Star Wars: Episode V - The Empire Strikes Back",
     "Year": 1980,
+    "Tags": [
+      "Star Wars"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1455,6 +1640,9 @@
     "imdbID": "tt0086190",
     "Title": "Star Wars: Episode VI - Return of the Jedi",
     "Year": 1983,
+    "Tags": [
+      "Star Wars"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1462,6 +1650,9 @@
     "imdbID": "tt0120915",
     "Title": "Star Wars: Episode I - The Phantom Menace",
     "Year": 1999,
+    "Tags": [
+      "Star Wars"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1469,6 +1660,9 @@
     "imdbID": "tt0121765",
     "Title": "Star Wars: Episode II - Attack of the Clones",
     "Year": 2002,
+    "Tags": [
+      "Star Wars"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1476,6 +1670,9 @@
     "imdbID": "tt0121766",
     "Title": "Star Wars: Episode III - Revenge of the Sith",
     "Year": 2005,
+    "Tags": [
+      "Star Wars"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1483,6 +1680,10 @@
     "imdbID": "tt2488496",
     "Title": "Star Wars: Episode VII - The Force Awakens",
     "Year": 2015,
+    "Tags": [
+      "Star Wars",
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1491,6 +1692,10 @@
     "Title": "Rogue One: A Star Wars Story",
     "Year": 2016,
     "Rating10": 9.0,
+    "Tags": [
+      "Star Wars",
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1498,6 +1703,10 @@
     "imdbID": "tt2527336",
     "Title": "Star Wars: Episode VIII - The Last Jedi",
     "Year": 2017,
+    "Tags": [
+      "Star Wars",
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1505,6 +1714,9 @@
     "imdbID": "tt3778644",
     "Title": "Solo: A Star Wars Story",
     "Year": 2018,
+    "Tags": [
+      "Star Wars"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1512,6 +1724,10 @@
     "imdbID": "tt2527338",
     "Title": "Star Wars: Episode IX - The Rise of Skywalker",
     "Year": 2019,
+    "Tags": [
+      "Star Wars",
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1647,6 +1863,9 @@
     "imdbID": "tt2975590",
     "Title": "Batman v Superman: Dawn of Justice",
     "Year": 2016,
+    "Tags": [
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -1813,6 +2032,9 @@
     "imdbID": "tt0116118",
     "Title": "Doctor Who: The Movie",
     "Year": 1996,
+    "Tags": [
+      "Whoniverse"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -2145,6 +2367,10 @@
     "Review": "QUE FILME BOM! O humor funciona muito bem, o filme é muito engraçado. A história é bem simples mas muito bem executada.\n\nDiversão para toda família.",
     "FirstWatched": "2025-01-10",
     "LastWatched": "2025-01-10",
+    "Tags": [
+      "Turma da Mônica",
+      "Vi no Cinema"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -2156,6 +2382,9 @@
     "Review": "Acabei de ver o filme do Maurício de Souza. Acho que é a primeira vez que eu li o livro antes de ver o filme.\n\nSim, eu li a biografia dele. Sempre fui muito fã de turma da Mônica. Tinha até uma coleção de revistas e teve uma época que eu tinha assinatura.\n\nSobre o filme, acho que foi uma boa adaptação. O livro na verdade vai bem mais além na vida dele, o filme para mais ou menos quando fecha o contrato com a editora abril (mas estranhamente não cita o nome da editora).\n\nO Mauro Sousa (o filho que inspirou o Nimbus) tá ótimo como Maurício. Agora ele tem o buraquinho do brinco que ele usa. Existe maquiagem pra isso? É meio besta, mas tirou um pouco da imersão.\n\nNão acho que foi uma decisão acertada colocar o ator dele criança pra narrar o começo. Pq ele narra como se soubesse o futuro aí ficou estranho. O certo mesmo era o Maurício de verdade narrar o filme todo, mas ele está velhinho já então eu entendo, mas era para o Mauro narrar então.\n\nOu o narrador não souber o que vêm pela frente, talvez? Fazer uma biografia assim seria mais difícil mas tá aí uma possibilidade.",
     "FirstWatched": "2026-01-06",
     "LastWatched": "2026-01-06",
+    "Tags": [
+      "Turma da Mônica"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -2164,6 +2393,9 @@
     "Title": "Turma da Mônica: Laços",
     "Year": 2019,
     "Rating10": 4.5,
+    "Tags": [
+      "Turma da Mônica"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -2172,6 +2404,9 @@
     "Title": "Turma da Mônica: Lições",
     "Year": 2021,
     "Rating10": 7.0,
+    "Tags": [
+      "Turma da Mônica"
+    ],
     "SafeForParents": true,
     "ForKids": true
   },
@@ -2180,6 +2415,9 @@
     "Title": "Turma da Mônica Jovem: Reflexos do Medo",
     "Year": 2024,
     "Rating10": 0.0,
+    "Tags": [
+      "Turma da Mônica"
+    ],
     "SafeForParents": true,
     "ForKids": true
   }

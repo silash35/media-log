@@ -49,6 +49,7 @@ Cada entrada do arquivo CSV (ou o json) representa um filme, série ou jogo. Os 
 | `Review`         | Análise do filme                                                                  |
 | `FirstWatched`   | Data em que o filme foi assistido pela primeira vez (`YYYY-MM-DD` ou `YYYY`)      |
 | `LastWatched`    | Data mais recente em que o filme foi assistido(`YYYY-MM-DD` ou `YYYY`)            |
+| `Tags`           | Lista de tags livres para ajudar na organização                                   |
 | `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
 | `ForKids`        | `True`, `False`. Se é uma obra feita e apropriada para crianças                   |
 
@@ -61,6 +62,7 @@ Cada entrada do arquivo CSV (ou o json) representa um filme, série ou jogo. Os 
 | `Year`           | Ano de lançamento                                                                 |
 | `Rating10`       | Nota dada a série usando a escala de 0 a 10                                       |
 | `Review`         | Análise da série                                                                  |
+| `Tags`           | Lista de tags livres para ajudar na organização                                   |
 | `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
 | `ForKids`        | `True`, `False`. Se é uma obra feita e apropriada para crianças                   |
 
@@ -73,5 +75,6 @@ Cada entrada do arquivo CSV (ou o json) representa um filme, série ou jogo. Os 
 | `Year`           | Ano de lançamento                                                                 |
 | `Rating10`       | Nota dada ao jogo usando a escala de 0 a 10                                       |
 | `Review`         | Análise do jogo                                                                   |
+| `Tags`           | Lista de tags livres para ajudar na organização                                   |
 | `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
 | `ForKids`        | `True`, `False`. Se é uma obra feita e apropriada para crianças                   |
