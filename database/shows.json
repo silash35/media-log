@@ -181,6 +181,7 @@
     "imdbID": "tt9139220",
     "Title": "Dracula",
     "Year": 2020,
+    "Review": "Só tem 3 eps. O primeiro e o segundo episodio são perfeitos, o terceiro é bom tbm mas não tão bom quanto os primeiros.",
     "SafeForParents": false,
     "ForKids": false
   },
@@ -697,5 +698,12 @@
     ],
     "SafeForParents": true,
     "ForKids": false
+  },
+  {
+    "imdbID": "tt2307498",
+    "Title": "Acampamento de Férias",
+    "Year": 2009,
+    "SafeForParents": true,
+    "ForKids": true
   }
 ]
