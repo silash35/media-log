@@ -1808,6 +1808,9 @@
     "Review": "CGI ruim. Nenhum personagem importante morreu (ou seja, todas as mortes foram de figurantes e não tiveram nenhum peso). Roteiro fraco, forçado e clichê. Um monte de Product placement durante o filme. Nerfaram o T-Rex. E em vez de aproveitar os avanços da ciência sobre como são os dinossauros, ele resolve ir para um caminho de dinossauros menos realistas ainda, sem falar nos dinossauros mutantes. Eu não tô pedindo dinossauro com penas, mas pô pelo menos aproveita o filme para ensinar algo.\n\nUma pena, porque para um filme chamado renascimento esse aqui é só é mais do mesmo, só que piorado. Eu gostaria de comparar esse filme com o anterior, **Jurassic World Dominion (2022)**, mas a verdade é que eu nem ao menos lembro do anterior direito. Aconteceu alguma coisa com o personagem do Chris Pratt? Pra você ver como ele é memorável e o estado que está essa franquia.",
     "FirstWatched": "2025-09-03",
     "LastWatched": "2025-09-03",
+    "Tags": [
+      "Jurassic Park"
+    ],
     "SafeForParents": true,
     "ForKids": false
   },
@@ -2504,6 +2507,9 @@
     "Review": "Não gostei, achei chato.",
     "FirstWatched": "2020-11-10",
     "LastWatched": "2020-11-10",
+    "Tags": [
+      "Marvel"
+    ],
     "SafeForParents": false,
     "ForKids": false
   },
@@ -2526,5 +2532,216 @@
     "LastWatched": "2021-03-01",
     "SafeForParents": true,
     "ForKids": true
+  },
+  {
+    "imdbID": "tt0107290",
+    "Title": "Jurassic Park",
+    "Year": 1993,
+    "Tags": [
+      "Jurassic Park"
+    ],
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0119567",
+    "Title": "The Lost World: Jurassic Park",
+    "Year": 1997,
+    "Tags": [
+      "Jurassic Park"
+    ],
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0163025",
+    "Title": "Jurassic Park III",
+    "Year": 2001,
+    "Tags": [
+      "Jurassic Park"
+    ],
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0369610",
+    "Title": "Jurassic World",
+    "Year": 2015,
+    "Tags": [
+      "Jurassic Park"
+    ],
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt4881806",
+    "Title": "Jurassic World: Fallen Kingdom",
+    "Year": 2018,
+    "Tags": [
+      "Jurassic Park"
+    ],
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt8041270",
+    "Title": "Jurassic World Dominion",
+    "Year": 2022,
+    "Tags": [
+      "Jurassic Park"
+    ],
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0120903",
+    "Title": "X-Men",
+    "Year": 2000,
+    "Tags": [
+      "Marvel"
+    ],
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0290334",
+    "Title": "X2: X-Men United",
+    "Year": 2003,
+    "Tags": [
+      "Marvel"
+    ],
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0376994",
+    "Title": "X-Men: The Last Stand",
+    "Year": 2006,
+    "Tags": [
+      "Marvel"
+    ],
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0458525",
+    "Title": "X-Men Origins: Wolverine",
+    "Year": 2009,
+    "Tags": [
+      "Marvel"
+    ],
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt1270798",
+    "Title": "X-Men: First Class",
+    "Year": 2011,
+    "Tags": [
+      "Marvel"
+    ],
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt1430132",
+    "Title": "The Wolverine",
+    "Year": 2013,
+    "Tags": [
+      "Marvel"
+    ],
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt1877832",
+    "Title": "X-Men: Days of Future Past",
+    "Year": 2014,
+    "Tags": [
+      "Marvel"
+    ],
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt1431045",
+    "Title": "Deadpool",
+    "Year": 2016,
+    "Tags": [
+      "Marvel"
+    ],
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt3385516",
+    "Title": "X-Men: Apocalypse",
+    "Year": 2016,
+    "Rating10": 6.6,
+    "LastWatched": "2026-01-12",
+    "Tags": [
+      "Marvel"
+    ],
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt3315342",
+    "Title": "Logan",
+    "Year": 2017,
+    "Tags": [
+      "Marvel"
+    ],
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt5463162",
+    "Title": "Deadpool 2",
+    "Year": 2018,
+    "Tags": [
+      "Marvel"
+    ],
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt6565702",
+    "Title": "X-Men: Dark Phoenix",
+    "Year": 2019,
+    "Tags": [
+      "Marvel"
+    ],
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt1340108",
+    "Title": "Killer Bean Forever",
+    "Year": 2008,
+    "Rating10": 8.0,
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0104070",
+    "Title": "Death Becomes Her",
+    "Year": 1992,
+    "Rating10": 7.8,
+    "FirstWatched": "2026-01-12",
+    "LastWatched": "2026-01-12",
+    "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt14927880",
+    "Title": "Sublime",
+    "Year": 2022,
+    "Rating10": 5.8,
+    "Review": "Boa tentativa argentinos. Mas **Hoje Eu Quero Voltar Sozinho (2014)** é bem melhor.",
+    "FirstWatched": "2026-01-12",
+    "LastWatched": "2026-01-12",
+    "SafeForParents": false,
+    "ForKids": false
   }
 ]

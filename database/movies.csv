@@ -390,7 +390,7 @@ Mas bem, a verdade é que não é um filme de comédia e muito menos um filme co
 A sensação que ficou após assistir o filme é: homens e mulheres são seres horríveis, que tristeza esse mundo moderno viramos apenas números. Enfim, como diria Pabllo Vittar, são amores…",2025-09-02,2025-09-02,,False,False
 tt31036941,Jurassic World: Rebirth,2025,4.0,"CGI ruim. Nenhum personagem importante morreu (ou seja, todas as mortes foram de figurantes e não tiveram nenhum peso). Roteiro fraco, forçado e clichê. Um monte de Product placement durante o filme. Nerfaram o T-Rex. E em vez de aproveitar os avanços da ciência sobre como são os dinossauros, ele resolve ir para um caminho de dinossauros menos realistas ainda, sem falar nos dinossauros mutantes. Eu não tô pedindo dinossauro com penas, mas pô pelo menos aproveita o filme para ensinar algo.
 
-Uma pena, porque para um filme chamado renascimento esse aqui é só é mais do mesmo, só que piorado. Eu gostaria de comparar esse filme com o anterior, **Jurassic World Dominion (2022)**, mas a verdade é que eu nem ao menos lembro do anterior direito. Aconteceu alguma coisa com o personagem do Chris Pratt? Pra você ver como ele é memorável e o estado que está essa franquia.",2025-09-03,2025-09-03,,True,False
+Uma pena, porque para um filme chamado renascimento esse aqui é só é mais do mesmo, só que piorado. Eu gostaria de comparar esse filme com o anterior, **Jurassic World Dominion (2022)**, mas a verdade é que eu nem ao menos lembro do anterior direito. Aconteceu alguma coisa com o personagem do Chris Pratt? Pra você ver como ele é memorável e o estado que está essa franquia.",2025-09-03,2025-09-03,['Jurassic Park'],True,False
 tt18069420,Smurfs,2025,2.5,"Muito ruim. Historia sem graça, não consegui me apegar aos personagens (que são muitos) e tem poucas piadas boas. A dublagem de Rihanna não convence, e as músicas mais atrapalham do que ajudam sendo apenas interrupções no filme. E por algum motivo ficam tendo cenas live action sem que tenha nenhum personagem humano então só fica estranho mesmo.
 
 Aliás, a internet matou o Smurf influencer mesmo né. Tava no trailer e foi simplesmente deletado da existência.",2025-09-03,2025-09-03,,True,True
@@ -541,8 +541,29 @@ tt0312043,Xuxa e os Duendes 2: No Caminho das Fadas,2001,,"Nenhum dos dois filme
 
 Não chega nem aos pés de **Xuxa em O Mistério de Feiurinha (2009)**, muito melhor.",2020,2020,,True,False
 tt0182789,Bicentennial Man,1999,,Quase chorei. Que filme bonito.,2020-10-17,2020-10-17,,False,False
-tt4682266,The New Mutants,2020,,"Não gostei, achei chato.",2020-11-10,2020-11-10,,False,False
+tt4682266,The New Mutants,2020,,"Não gostei, achei chato.",2020-11-10,2020-11-10,['Marvel'],False,False
 tt10600398,We Can Be Heroes,2020,,"A continuação de Lavagirl e Sharkboy.
 
 O começo do filme é ruim. O meio e quase final é legalzinho. O final é ruim e a historia não combina com o filme passado",2020,2020,,True,True
 tt1361336,Tom & Jerry,2021,,"Filme bonzinho, bem legal. Muita porradaria que é o que se espera de um filme do Tom e Jerry. Recomendo pra quando vc quiser assistir um filme leve e divertido.",2021-03-01,2021-03-01,,True,True
+tt0107290,Jurassic Park,1993,,,,,['Jurassic Park'],True,False
+tt0119567,The Lost World: Jurassic Park,1997,,,,,['Jurassic Park'],True,False
+tt0163025,Jurassic Park III,2001,,,,,['Jurassic Park'],True,False
+tt0369610,Jurassic World,2015,,,,,['Jurassic Park'],True,False
+tt4881806,Jurassic World: Fallen Kingdom,2018,,,,,['Jurassic Park'],True,False
+tt8041270,Jurassic World Dominion,2022,,,,,['Jurassic Park'],True,False
+tt0120903,X-Men,2000,,,,,['Marvel'],True,False
+tt0290334,X2: X-Men United,2003,,,,,['Marvel'],True,False
+tt0376994,X-Men: The Last Stand,2006,,,,,['Marvel'],True,False
+tt0458525,X-Men Origins: Wolverine,2009,,,,,['Marvel'],False,False
+tt1270798,X-Men: First Class,2011,,,,,['Marvel'],True,False
+tt1430132,The Wolverine,2013,,,,,['Marvel'],False,False
+tt1877832,X-Men: Days of Future Past,2014,,,,,['Marvel'],True,False
+tt1431045,Deadpool,2016,,,,,['Marvel'],False,False
+tt3385516,X-Men: Apocalypse,2016,6.6,,,2026-01-12,['Marvel'],True,False
+tt3315342,Logan,2017,,,,,['Marvel'],False,False
+tt5463162,Deadpool 2,2018,,,,,['Marvel'],False,False
+tt6565702,X-Men: Dark Phoenix,2019,,,,,['Marvel'],True,False
+tt1340108,Killer Bean Forever,2008,8.0,,,,,False,False
+tt0104070,Death Becomes Her,1992,7.8,,2026-01-12,2026-01-12,,False,False
+tt14927880,Sublime,2022,5.8,Boa tentativa argentinos. Mas **Hoje Eu Quero Voltar Sozinho (2014)** é bem melhor.,2026-01-12,2026-01-12,,False,False
