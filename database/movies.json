@@ -2343,7 +2343,7 @@
     "Year": 2022,
     "Rating10": 10.0,
     "Review": "Não creio que um musical acabou de entrar no meu top 5 melhores filmes.\n\n**RRR (2022)** é tudo num filme só. É drama, é galhofa, é ação. Estou boquiaberto! Hollywood foi derrotada por Bollywood (ou Tollywood? não me pergunte.).\n\nUm filme tem mais história que uns 10 filmes da Marvel. Era reviravolta atrás de reviravolta. Foi tipo dar um orçamento de Vingadores pra um escritor de novela mexicana e aí ele deu tudo de si.\n\nE ainda bem que esse filme foi feito na Índia, pq qualquer outra indústria de cinema iria ser catastrófico. Apenas eles conseguem fazer aquelas cenas de ação. Pôs no chinelo qualquer filme de Super Herói.",
-    "FirstWatched": 2022,
+    "FirstWatched": 2024,
     "LastWatched": 2024,
     "SafeForParents": true,
     "ForKids": false
@@ -2712,6 +2712,8 @@
     "Tags": [
       "Marvel"
     ],
+    "Rating10": 5.9,
+    "LastWatched": "2026-01-14",
     "SafeForParents": true,
     "ForKids": false
   },
@@ -2752,6 +2754,34 @@
     "FirstWatched": "2026-01-13",
     "LastWatched": "2026-01-13",
     "SafeForParents": false,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt3890160",
+    "Title": "Baby Driver",
+    "Year": 2017,
+    "Review": "Como que eu não tinha visto isso antes? Um filme muito bom com um final diferente do esperado.",
+    "FirstWatched": "2021-03-14",
+    "LastWatched": "2021-03-14",
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt4513678",
+    "Title": "Ghostbusters: Afterlife",
+    "Year": 2021,
+    "FirstWatched": "2022-01-04",
+    "LastWatched": "2022-01-04",
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt6723592",
+    "Title": "Tenet",
+    "Year": 2020,
+    "FirstWatched": "2021-03-15",
+    "LastWatched": "2021-03-15",
+    "SafeForParents": true,
     "ForKids": false
   }
 ]
