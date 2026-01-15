@@ -2709,11 +2709,11 @@
     "imdbID": "tt6565702",
     "Title": "X-Men: Dark Phoenix",
     "Year": 2019,
+    "Rating10": 5.9,
+    "LastWatched": "2026-01-14",
     "Tags": [
       "Marvel"
     ],
-    "Rating10": 5.9,
-    "LastWatched": "2026-01-14",
     "SafeForParents": true,
     "ForKids": false
   },
@@ -2782,6 +2782,17 @@
     "FirstWatched": "2021-03-15",
     "LastWatched": "2021-03-15",
     "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt0111161",
+    "Title": "The Shawshank Redemption",
+    "Year": 1994,
+    "Rating10": 8.1,
+    "Review": "Filme impecável. Redondinho, muito bem feito. Não tem o que falar mal. Merecia o primeiro lugar no IMDB? Acho que não, mas, ao mesmo tempo, não sei responder qual poderia tomar o seu lugar.\n\nAo mesmo tempo, acho que a expectativa que criei por esse filme prejudicou um pouquinho a minha experiência. Afinal, é um filme que, em essência, não promete nada. É apenas uma história sobre dois caras na prisão, e é com esse pensamento que você deve assistir ao filme. Não se trata de uma grande aventura bombástica, é muito mais uma história para dentro, mas que muito provavelmente vai te emocionar.",
+    "FirstWatched": "2026-01-15",
+    "LastWatched": "2026-01-15",
+    "SafeForParents": false,
     "ForKids": false
   }
 ]
