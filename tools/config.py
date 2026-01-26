@@ -1,4 +1,4 @@
-from typing import Final, TypedDict, Union
+from typing import Final, Required, TypedDict
 
 movies_json_path: Final[str] = "database/movies.json"
 movies_csv_path: Final[str] = "database/movies.csv"
@@ -8,33 +8,24 @@ games_json_path: Final[str] = "database/games.json"
 games_csv_path: Final[str] = "database/games.csv"
 
 
-class EntryBase(TypedDict):
-    imdbID: str
-    Title: str
-    Year: int
+class EntryBase(TypedDict, total=False):
+    imdbID: Required[str]
+    Title: Required[str]
+    Year: Required[int]
+
+    Rating10: float
+    Review: str
+
+    SafeForParents: bool
+    ForKids: bool
+
+    Tags: list  # [str]
 
 
 class MovieEntry(EntryBase, total=False):
-    Rating10: float
-    Review: str
-    FirstWatched: Union[int, str]
-    LastWatched: Union[int, str]
-    Tags: list
-    SafeForParents: bool
-    ForKids: bool
+    Watches: list  # [Union[int, str]]
 
 
-class ShowEntry(EntryBase, total=False):
-    Rating10: float
-    Review: str
-    Tags: list
-    SafeForParents: bool
-    ForKids: bool
+ShowEntry = EntryBase
 
-
-class GameEntry(EntryBase, total=False):
-    Rating10: float
-    Review: str
-    Tags: list
-    SafeForParents: bool
-    ForKids: bool
+GameEntry = EntryBase

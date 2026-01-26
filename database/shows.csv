@@ -1,65 +1,65 @@
-imdbID,Title,Year,Rating10,Review,Tags,SafeForParents,ForKids
-tt0056751,Doctor Who,1963,,,['Whoniverse'],True,True
-tt0436992,Doctor Who,2005,10.0,,['Whoniverse'],True,True
-tt4834206,A Series of Unfortunate Events,2017,,,,True,True
-tt1843230,Once Upon a Time,2011,,,,True,True
-tt0108778,Friends,1994,,,,False,False
-tt0460649,How I Met Your Mother,2005,,,,False,False
-tt0279600,Smallville,2001,,,['DC'],True,True
-tt1305826,Adventure Time,2010,,,,True,True
-tt6048644,White Rabbit Project,2016,,,,True,True
-tt0903747,Breaking Bad,2008,,,,False,False
-tt0386676,The Office (US),2005,,,,True,False
-tt0417299,Avatar: The Last Airbender,2005,,,,True,True
-tt1695360,The Legend of Korra,2012,,,,True,True
-tt0944947,Game of Thrones,2011,,,,False,False
-tt0898266,The Big Bang Theory,2007,,,,True,False
-tt0411008,Lost,2004,,,,True,False
-tt7366338,Chernobyl,2019,,,,False,False
-tt1865718,Gravity Falls,2012,,,,True,True
-tt0197139,O Auto da Compadecida,1999,,,,True,True
-tt0877057,Death Note,2006,,,,False,False
-tt1830617,Grimm,2011,,,,True,False
-tt1355642,Fullmetal Alchemist: Brotherhood,2009,,,,False,False
-tt0421357,Fullmetal Alchemist,2003,,,,False,False
-tt2431438,Sense8,2015,,,,False,False
-tt9139220,Dracula,2020,,"Só tem 3 eps. O primeiro e o segundo episodio são perfeitos, o terceiro é bom tbm mas não tão bom quanto os primeiros.",,False,False
-tt1837492,13 Reasons Why,2017,,,,False,False
-tt0112159,Neon Genesis Evangelion,1995,,,,False,False
-tt0760437,Ben 10,2005,,,,True,True
-tt1033241,Ben 10: Alien Force,2008,,,,True,True
-tt1327701,Ben 10: Ultimate Alien,2010,,,,True,True
-tt2293002,Ben 10: Omniverse,2012,,,,True,True
-tt0294196,Sítio do Picapau Amarelo,2001,,,,True,True
-tt3718778,Over the Garden Wall,2014,,"Muito legal. Série curtinha, recomendo.",,True,True
-tt0138972,K9 and Company,1981,,,['Whoniverse'],False,False
-tt0862620,The Sarah Jane Adventures,2007,,,['Whoniverse'],True,True
-tt9140560,WandaVision,2021,,,['Marvel'],True,False
-tt0458290,Star Wars: The Clone Wars,2008,,,['Star Wars'],True,True
-tt5079788,Class,2016,,,['Whoniverse'],False,False
-tt9140342,It's a Sin,2021,,,,False,False
-tt2930604,Star Wars Rebels,2014,,,['Star Wars'],True,True
-tt0485301,Torchwood,2006,,,['Whoniverse'],False,False
-tt5753856,Dark,2017,,,,False,False
-tt4955642,The Good Place,2016,,,,True,False
-tt3358020,Parasyte: The Maxim,2014,,,,False,False
-tt1710308,Regular Show,2010,,,,True,True
-tt2249364,Broadchurch,2013,,,,True,False
-tt10857164,Ms. Marvel,2022,,,['Marvel'],True,True
-tt10160804,Hawkeye,2021,,,['Marvel'],True,True
-tt3398228,BoJack Horseman,2014,,,,False,False
-tt2496120,Space Battleship Yamato 2199,2012,,,,False,False
-tt7049682,Watchmen,2019,,,,False,False
-tt0976192,The Spectacular Spider-Man,2008,,,['Marvel'],True,True
-tt8466564,Obi-Wan Kenobi,2022,,,['Star Wars'],True,False
-tt3032476,Better Call Saul,2015,,,,False,False
-tt6354518,Saiki Kusuo no Psi Nan,2016,,,,False,False
-tt11163352,The Disastrous Life of Saiki K.: Reawakened,2019,,,,False,False
-tt10857160,She-Hulk: Attorney at Law,2022,,,['Marvel'],False,False
-tt13622956,Zootopia+,2022,,,,True,True
-tt5687612,Fleabag,2016,,,,False,False
-tt5071412,Ozark,2017,,,,False,False
-tt9140554,Loki,2021,,,['Marvel'],True,False
+imdbID,Title,Year,Rating10,Review,SafeForParents,ForKids,Tags
+tt0056751,Doctor Who,1963,,,True,True,['Whoniverse']
+tt0436992,Doctor Who,2005,10.0,,True,True,['Whoniverse']
+tt4834206,A Series of Unfortunate Events,2017,,,True,True,
+tt1843230,Once Upon a Time,2011,,,True,True,
+tt0108778,Friends,1994,,,False,False,
+tt0460649,How I Met Your Mother,2005,,,False,False,
+tt0279600,Smallville,2001,,,True,True,['DC']
+tt1305826,Adventure Time,2010,,,True,True,
+tt6048644,White Rabbit Project,2016,,,True,True,
+tt0903747,Breaking Bad,2008,,,False,False,
+tt0386676,The Office (US),2005,,,True,False,
+tt0417299,Avatar: The Last Airbender,2005,,,True,True,
+tt1695360,The Legend of Korra,2012,,,True,True,
+tt0944947,Game of Thrones,2011,,,False,False,
+tt0898266,The Big Bang Theory,2007,,,True,False,
+tt0411008,Lost,2004,,,True,False,
+tt7366338,Chernobyl,2019,,,False,False,
+tt1865718,Gravity Falls,2012,,,True,True,
+tt0197139,O Auto da Compadecida,1999,,,True,True,
+tt0877057,Death Note,2006,,,False,False,
+tt1830617,Grimm,2011,,,True,False,
+tt1355642,Fullmetal Alchemist: Brotherhood,2009,,,False,False,
+tt0421357,Fullmetal Alchemist,2003,,,False,False,
+tt2431438,Sense8,2015,,,False,False,
+tt9139220,Dracula,2020,,"Só tem 3 eps. O primeiro e o segundo episodio são perfeitos, o terceiro é bom tbm mas não tão bom quanto os primeiros.",False,False,
+tt1837492,13 Reasons Why,2017,,,False,False,
+tt0112159,Neon Genesis Evangelion,1995,,,False,False,
+tt0760437,Ben 10,2005,,,True,True,
+tt1033241,Ben 10: Alien Force,2008,,,True,True,
+tt1327701,Ben 10: Ultimate Alien,2010,,,True,True,
+tt2293002,Ben 10: Omniverse,2012,,,True,True,
+tt0294196,Sítio do Picapau Amarelo,2001,,,True,True,
+tt3718778,Over the Garden Wall,2014,,"Muito legal. Série curtinha, recomendo.",True,True,
+tt0138972,K9 and Company,1981,,,False,False,['Whoniverse']
+tt0862620,The Sarah Jane Adventures,2007,,,True,True,['Whoniverse']
+tt9140560,WandaVision,2021,,,True,False,['Marvel']
+tt0458290,Star Wars: The Clone Wars,2008,,,True,True,['Star Wars']
+tt5079788,Class,2016,,,False,False,['Whoniverse']
+tt9140342,It's a Sin,2021,,,False,False,
+tt2930604,Star Wars Rebels,2014,,,True,True,['Star Wars']
+tt0485301,Torchwood,2006,,,False,False,['Whoniverse']
+tt5753856,Dark,2017,,,False,False,
+tt4955642,The Good Place,2016,,,True,False,
+tt3358020,Parasyte: The Maxim,2014,,,False,False,
+tt1710308,Regular Show,2010,,,True,True,
+tt2249364,Broadchurch,2013,,,True,False,
+tt10857164,Ms. Marvel,2022,,,True,True,['Marvel']
+tt10160804,Hawkeye,2021,,,True,True,['Marvel']
+tt3398228,BoJack Horseman,2014,,,False,False,
+tt2496120,Space Battleship Yamato 2199,2012,,,False,False,
+tt7049682,Watchmen,2019,,,False,False,
+tt0976192,The Spectacular Spider-Man,2008,,,True,True,['Marvel']
+tt8466564,Obi-Wan Kenobi,2022,,,True,False,['Star Wars']
+tt3032476,Better Call Saul,2015,,,False,False,
+tt6354518,Saiki Kusuo no Psi Nan,2016,,,False,False,
+tt11163352,The Disastrous Life of Saiki K.: Reawakened,2019,,,False,False,
+tt10857160,She-Hulk: Attorney at Law,2022,,,False,False,['Marvel']
+tt13622956,Zootopia+,2022,,,True,True,
+tt5687612,Fleabag,2016,,,False,False,
+tt5071412,Ozark,2017,,,False,False,
+tt9140554,Loki,2021,,,True,False,['Marvel']
 tt0088509,Dragon Ball,1986,,"CHEGOU O REVIEW MAIS AGUARDADO E MAIS PEDIDO DE TODOS OS TEMPOS BORA FALAR DE DRAGON BALL AAAAAAAAAAAA (Saga por Saga)
 
 1. Saga Pilaf
@@ -114,7 +114,7 @@ Fillerzinho de 5 eps pra acabar a série. Tem o casamento do Goku com a Chichi.
 
 Mas galera, não sei se eu não prestei atenção, mas foram 153 episódios. O Goku teve algum desenvolvimento de personagem? Ele cresceu, ficou mais forte. Mas ele aprendeu algo? Pq ele continua inocente, sempre foi bonzinho desdo inicio. Na verdade, a maioria dos personagens não evolui. A única exceção é quando um personagem do mau fica do bem, tipo o Tenshinhan. Inclusive termina a série e ele continua sem saber que matou o avô. Achei isso bem ruim.
 
-Curtem a comentem para o Z!",,False,False
+Curtem a comentem para o Z!",False,False,
 tt0121220,Dragon Ball Z,1989,,"Continuando a review anterior: DRAGON BALL Z (Saga por Saga)
 
 1. Saga dos Saiyajins
@@ -164,29 +164,29 @@ Teve o Mrs Satan que no final podia aproveitar a oportunidade que estava falando
 
 A burrice dos personagens está no nível máximo.
 
-Por fim, essa saga termina Dragon Ball Z com um final bem mé.",,False,False
-tt1409055,Dragon Ball Z Kai,2009,,"Eu vi o Dragon Ball Z original, mas por problemas técnicos (somente na saga Boo) tive que assistir uns 5 episódios do Kai, por aí. Mas foi um grande retrocesso, a trilha sonora não é tão boa, mas o que mais me desapontou foi a qualidade da animação, que sem dúvidas é melhor que o Z, mas pela passagem do tempo, eu esperava bem mais. É apenas o desenho do Z com retoques. Achei que a animação seria completamente refeita. Eu esperava algo no nível do Super.",,False,False
-tt0406429,Blackpool,2004,,,,False,False
-tt6226232,Young Sheldon,2017,8.2,Nenhum outro filme ou série tinha me feito chorar tanto. Passei os últimos 2 episódios inteiros em lágrimas.,,True,False
-tt1231602,Green Porno,2008,,,,False,False
-tt2125294,Seduce Me,2010,,,,False,False
-tt2731456,Mammas,2013,,,,False,False
-tt15571732,Agatha All Along,2024,6.5,"Não é tão legal quanto WandaVision. Meio mé na verdade, mas me entreteve.",,True,False
-tt13097606,Turma da Mônica: A Série,2022,,,['Turma da Mônica'],True,True
-tt30496489,Turma da Mônica: Origens,2024,,"É uma série ok da Turma da Mônica. A Denise ficou meio estranha, ainda insistem na Milena, mas não tem grandes problemas nem grandes emoções. Claro, fica difícil não ser mais exigente depois de ver **Turma da Mônica - A Série (2022)** que aí, sim, é uma boa produção que me surpreendeu muito.",['Turma da Mônica'],True,True
+Por fim, essa saga termina Dragon Ball Z com um final bem mé.",False,False,
+tt1409055,Dragon Ball Z Kai,2009,,"Eu vi o Dragon Ball Z original, mas por problemas técnicos (somente na saga Boo) tive que assistir uns 5 episódios do Kai, por aí. Mas foi um grande retrocesso, a trilha sonora não é tão boa, mas o que mais me desapontou foi a qualidade da animação, que sem dúvidas é melhor que o Z, mas pela passagem do tempo, eu esperava bem mais. É apenas o desenho do Z com retoques. Achei que a animação seria completamente refeita. Eu esperava algo no nível do Super.",False,False,
+tt0406429,Blackpool,2004,,,False,False,
+tt6226232,Young Sheldon,2017,8.2,Nenhum outro filme ou série tinha me feito chorar tanto. Passei os últimos 2 episódios inteiros em lágrimas.,True,False,
+tt1231602,Green Porno,2008,,,False,False,
+tt2125294,Seduce Me,2010,,,False,False,
+tt2731456,Mammas,2013,,,False,False,
+tt15571732,Agatha All Along,2024,6.5,"Não é tão legal quanto WandaVision. Meio mé na verdade, mas me entreteve.",True,False,
+tt13097606,Turma da Mônica: A Série,2022,,,True,True,['Turma da Mônica']
+tt30496489,Turma da Mônica: Origens,2024,,"É uma série ok da Turma da Mônica. A Denise ficou meio estranha, ainda insistem na Milena, mas não tem grandes problemas nem grandes emoções. Claro, fica difícil não ser mais exigente depois de ver **Turma da Mônica - A Série (2022)** que aí, sim, é uma boa produção que me surpreendeu muito.",True,True,['Turma da Mônica']
 tt9174578,Around the World in 80 Days,2021,7.5,"Não tem jeito, o que o David Tennant faz eu vou tá lá assistindo
 
-E pô super recomendo. É uma mini série curtinha e vale muito a pena. É a clássica história do Júlio Verne onde um britânico viaja o mundo passando por lugares como reino Unido, colônia britânica 1, colônia britânica 2, colônia britânica 3 e ex colônia britânica.",,True,False
-tt4230076,The Defenders,2017,,,['Marvel'],False,False
+E pô super recomendo. É uma mini série curtinha e vale muito a pena. É a clássica história do Júlio Verne onde um britânico viaja o mundo passando por lugares como reino Unido, colônia britânica 1, colônia britânica 2, colônia britânica 3 e ex colônia britânica.",True,False,
+tt4230076,The Defenders,2017,,,False,False,['Marvel']
 tt31193703,Douglas Is Cancelled,2024,9.0,"Não tem jeito, o que o Moffat faz eu vou tá assistindo.
 
 Essa mini série conta história de um jornalista que contou uma piada machista e agora precisa fazer de tudo pra essa piada não vazar. E o pior: ele não lembra qual foi a piada.
 
 Mas deixa eu falar viu, quem realmente brilha nessa série é a Karen Gillan. QUE MULHER!
 
-E quando a Alex Kingston entra em cena então...",,True,False
-tt33088401,Dream Productions,2024,,,,True,True
-tt10168312,What If...?,2021,,,,True,False
+E quando a Alex Kingston entra em cena então...",True,False,
+tt33088401,Dream Productions,2024,,,True,True,
+tt10168312,What If...?,2021,,,True,False,
 tt3061046,Steven Universo,2013,8.0,"Um menino que chora por tudo tem aventuras com suas tias sapatonas. Mas gente acho que consigo contar nos dedos de uma mão quantos héteros tem nesse desenho.
 
 Agora de alguma forma o desenho é MUITO BOM. A primeira temporada tem mais fillers, mas eu acho justificável, porque ela introduz os elementos da série aos poucos, e faz com que a gente conheça cada personagem melhor. E isso é super importante até pq essa série inteira é sobre sentimentos.
@@ -201,17 +201,17 @@ Uma das minhas maiores (e talvez única) critica minha a Hora de Aventura é que
 
 Agora Steven Universo encerra corretamente. É muito mais redondinho. Mas tbm o universo aqui é ordens de grandeza menor, o que facilita as coisas.
 
-Outra diferença é como os conflitos são resolvidos. Em hora de aventura é um desenho feito por um menino, então tem lutinhas batalhas e etc. Já o Steven não consegue matar um besouro (tem essa cena), e todos os conflitos são resolvidos na base da conversa. Jeitos diferentes, e estou grato de existir os dois desenhos, cada um do seu jeito.",,False,True
-tt10574340,Steven Universe Future,2019,8.0,"É muito ruim. Dava pra ter feito algo muito melhor, mas aí encheu de filler, de coisa ruim. Aqui bastava fazer eps sobre os personagens menores, o que aconteceu com eles. Mas resolveram fazer uma história lá muito mal executada e o final tbm é bem ruim.",,False,True
-tt9253284,Andor,2022,,,['Star Wars'],True,False
-tt20723374,Star Wars: Tales of the Jedi,2022,,,['Star Wars'],True,True
-tt32019314,Star Wars: Tales of the Empire,2024,,,['Star Wars'],True,True
-tt36414431,Star Wars: Tales of the Underworld,2025,,,['Star Wars'],True,True
+Outra diferença é como os conflitos são resolvidos. Em hora de aventura é um desenho feito por um menino, então tem lutinhas batalhas e etc. Já o Steven não consegue matar um besouro (tem essa cena), e todos os conflitos são resolvidos na base da conversa. Jeitos diferentes, e estou grato de existir os dois desenhos, cada um do seu jeito.",False,True,
+tt10574340,Steven Universe Future,2019,8.0,"É muito ruim. Dava pra ter feito algo muito melhor, mas aí encheu de filler, de coisa ruim. Aqui bastava fazer eps sobre os personagens menores, o que aconteceu com eles. Mas resolveram fazer uma história lá muito mal executada e o final tbm é bem ruim.",False,True,
+tt9253284,Andor,2022,,,True,False,['Star Wars']
+tt20723374,Star Wars: Tales of the Jedi,2022,,,True,True,['Star Wars']
+tt32019314,Star Wars: Tales of the Empire,2024,,,True,True,['Star Wars']
+tt36414431,Star Wars: Tales of the Underworld,2025,,,True,True,['Star Wars']
 tt30645193,The War Between the Land and the Sea,2025,7.1,"Toda a construção da série ao longo dos episódios é muito boa e te envolve bastante na trama. Os episódios funcionam bem individualmente, e os cliffhangers ajudam a manter o interesse alto.
 
 Infelizmente, como tem parecido comum em produções recentes do Russell T Davies, o problema está no final, que acaba sendo morno. A solução é amarga e até faz sentido, mas faltou uma execução mais cuidadosa e melhor desenvolvimento dessa parte.
 
-A última cena, em especial, é bem fraca. O que mais pesa contra ela é o hype criado pelo próprio RTD. Ainda assim, se as implicações desse desfecho forem exploradas no futuro, há potencial para algo realmente interessante.",['Whoniverse'],False,False
+A última cena, em especial, é bem fraca. O que mais pesa contra ela é o hype criado pelo próprio RTD. Ainda assim, se as implicações desse desfecho forem exploradas no futuro, há potencial para algo realmente interessante.",False,False,['Whoniverse']
 tt4574334,Stranger Things,2016,8.0,"Fim.
 
 Há 10 anos conhecemos a série que fez a Netflix ser o que a Netflix é hoje. Eu lembro de conversar com minha professora de inglês sobre como seria a segunda temporada logo após assistir à primeira. Eu lembro de ficar acordado até tarde para a Marília Gabriela apresentar o Noticias Estranhas após o Teleton. Eu lembro de jogar o joguinho para Android que a Netflix lançou. E ano passado eu finalmente joguei RPG de mesa pela primeira vez (com o Vecna original de D&D sendo o vilão da campanha).
@@ -245,9 +245,9 @@ E aqui, precisamos falar sobre o Will ser gay. Não acho que cabia naquela séri
 
 Chegando no último episódio, temos um enredo bem previsível, sem grandes surpresas. Mas que não chegou a ser péssimo ou que estragou a série. Me incomodei bastante com as cenas finais, após a batalha, porque foi muito tempo usado para poder finalizar as histórias de todo mundo, aí só ficou chato mesmo. Teve muitos outros defeitos também, especialmente a falta de mortes. O último episódio, na verdade, toda essa temporada, precisava de muito mais impacto para funcionar melhor.
 
-Apesar do final, minha nota para Stranger Things é alta. A vida é o caminho, não? E esse aqui valeu a pena percorrer.",,True,False
+Apesar do final, minha nota para Stranger Things é alta. A vida é o caminho, não? E esse aqui valeu a pena percorrer.",True,False,
 tt11932902,Astronauta,2024,,"É uma animação original da HBO do Astronauta. Achei arriscado fazer uma animação para adultos de um personagem da Turma da Monica, mas acredito que foi certeiro. Os episódios são bem confusos na verdade, mas, ao mesmo tempo, são muito bons e com visuais impressionantes. Espero que tenha uma próxima temporada.
 
-E tomara que essas animações pra jovens e adultos façam sucesso e que realizem um sonho meu que é adaptar a saga Umbra da Turma da Mônica Jovem (e tudo de ruim pra quem fez aquele live action porcaria **Turma da Mônica Jovem: Reflexos do Medo (2024)**. Simplesmente uma das piores produções já feitas).",['Turma da Mônica'],True,False
-tt2307498,Acampamento de Férias,2009,,,,True,True
-tt0799922,Wizards of Waverly Place,2007,,,,True,True
+E tomara que essas animações pra jovens e adultos façam sucesso e que realizem um sonho meu que é adaptar a saga Umbra da Turma da Mônica Jovem (e tudo de ruim pra quem fez aquele live action porcaria **Turma da Mônica Jovem: Reflexos do Medo (2024)**. Simplesmente uma das piores produções já feitas).",True,False,['Turma da Mônica']
+tt2307498,Acampamento de Férias,2009,,,True,True,
+tt0799922,Wizards of Waverly Place,2007,,,True,True,

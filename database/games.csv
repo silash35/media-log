@@ -1,15 +1,15 @@
-imdbID,Title,Year,Rating10,Review,Tags,SafeForParents,ForKids
-tt0221606,Super Mario World,1990,,,,True,True
-tt0222407,Super Mario World 2: Yoshi's Island,1995,,,,True,True
-tt0204798,Aladdin,1993,,,,True,True
-tt0184666,The Legend of Zelda: Ocarina of Time,1998,,,,True,True
-tt5238848,Undertale,2015,10.0,,,False,False
-tt4375662,Life Is Strange,2015,,,,False,False
-tt6905446,Life Is Strange: Before the Storm,2017,,,,False,False
-tt8613872,The Awesome Adventures of Captain Spirit,2018,,,,False,False
-tt8364760,Life Is Strange 2,2018,,,,False,False
-tt14278238,Life Is Strange: True Colors,2021,,,,False,False
-tt15675682,Life is Strange: Wavelengths,2021,,,,False,False
+imdbID,Title,Year,Rating10,Review,SafeForParents,ForKids,Tags
+tt0221606,Super Mario World,1990,,,True,True,
+tt0222407,Super Mario World 2: Yoshi's Island,1995,,,True,True,
+tt0204798,Aladdin,1993,,,True,True,
+tt0184666,The Legend of Zelda: Ocarina of Time,1998,,,True,True,
+tt5238848,Undertale,2015,10.0,,False,False,
+tt4375662,Life Is Strange,2015,,,False,False,
+tt6905446,Life Is Strange: Before the Storm,2017,,,False,False,
+tt8613872,The Awesome Adventures of Captain Spirit,2018,,,False,False,
+tt8364760,Life Is Strange 2,2018,,,False,False,
+tt14278238,Life Is Strange: True Colors,2021,,,False,False,
+tt15675682,Life is Strange: Wavelengths,2021,,,False,False,
 tt32580150,Life is Strange: Double Exposure,2024,3.0,"My disappointment is immeasurable and my day is ruined.
 
 Tudo errado. A começar pelo jogo ser bastante pesado. Streamer com o super mega PC gamer reclamando disso, passou do aceitável.
@@ -30,23 +30,23 @@ Os primeiros capítulos tbm são muito lentos, a história demora pra ficar inte
 
 E no final eu fiquei tipo: A menina tá se achando o Nick Fury é? É a marvelização de Life is Strange? Achei paia, muito paia. Ainda mais terminando com cena pós crédito e que vai ter continuação.
 
-Simplesmente revoltante o que fizeram com essa franquia.",,False,False
-tt2140553,The Last of Us,2013,,,,False,False
-tt3468818,The Last of Us: Left Behind,2014,,,,False,False
-tt6298000,The Last of Us Part II,2020,,,,False,False
-tt4785654,Firewatch,2016,,,,False,False
-tt12497220,Stray,2022,,,,True,True
-tt3980364,Inside,2016,,Tendi foi nada,,True,False
-tt1647472,Doctor Who: The Adventure Games - City of the Daleks,2010,,,['Whoniverse'],True,True
-tt1683871,Doctor Who: The Adventure Games - Blood of the Cybermenc,2010,,,['Whoniverse'],True,True
-tt1720088,Doctor Who: The Adventure Games - TARDIS,2010,,,['Whoniverse'],True,True
-tt1912373,Doctor Who: The Adventure Games - Shadows of the Vashta Nerada,2010,,,['Whoniverse'],True,True
-tt7467056,Untitled Goose Game,2019,,,,True,True
+Simplesmente revoltante o que fizeram com essa franquia.",False,False,
+tt2140553,The Last of Us,2013,,,False,False,
+tt3468818,The Last of Us: Left Behind,2014,,,False,False,
+tt6298000,The Last of Us Part II,2020,,,False,False,
+tt4785654,Firewatch,2016,,,False,False,
+tt12497220,Stray,2022,,,True,True,
+tt3980364,Inside,2016,,Tendi foi nada,True,False,
+tt1647472,Doctor Who: The Adventure Games - City of the Daleks,2010,,,True,True,['Whoniverse']
+tt1683871,Doctor Who: The Adventure Games - Blood of the Cybermenc,2010,,,True,True,['Whoniverse']
+tt1720088,Doctor Who: The Adventure Games - TARDIS,2010,,,True,True,['Whoniverse']
+tt1912373,Doctor Who: The Adventure Games - Shadows of the Vashta Nerada,2010,,,True,True,['Whoniverse']
+tt7467056,Untitled Goose Game,2019,,,True,True,
 tt32591698,Clair Obscur: Expedition 33,2025,10.0,"**Game of the Year 2025**
 
 Preciso falar de qual jogo eu tô falando? Não existe outra opção, não tem como.
 
 Essa trilha sonora maravilhosa, essa gameplay com batalhas extremamente épicas num estilo RPG, mas que não é só RPG, esse estilo de arte que é meio pintura e ainda essa historia arrasadora que só de saber a premissa já te prende totalmente.
 
-Tamo em agosto ainda, mas não quero nem saber. Se **Clair Obscur: Expedição 33 (2025)** não ganhar então nada faz sentido, pq é um dos melhores jogos que já vi na vida.",,True,False
-tt0264790,The Legend of Zelda: Majora's Mask,2000,,,,False,True
+Tamo em agosto ainda, mas não quero nem saber. Se **Clair Obscur: Expedição 33 (2025)** não ganhar então nada faz sentido, pq é um dos melhores jogos que já vi na vida.",True,False,
+tt0264790,The Legend of Zelda: Majora's Mask,2000,,,False,True,

@@ -1,4 +1,3 @@
-import json
 from typing import Type, Union, get_type_hints
 
 from config import (
@@ -10,13 +9,11 @@ from config import (
     movies_json_path,
     shows_json_path,
 )
-from utils import warn
+from utils import read_json, warn
 
 
-def validate(json_file_path: str, EntryType: Type[EntryBase]) -> None:
-    # Load JSON data
-    with open(json_file_path, "r", encoding="utf-8") as f:
-        entries = json.load(f)
+def validate(json_path: str, EntryType: Type[EntryBase]) -> None:
+    entries = read_json(json_path)
 
     hints = get_type_hints(EntryType)
     seen_ids = set()

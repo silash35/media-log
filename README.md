@@ -47,11 +47,17 @@ Cada entrada do arquivo CSV (ou o json) representa um filme, série ou jogo. Os 
 | `Year`           | Ano de lançamento                                                                 |
 | `Rating10`       | Nota dada ao filme usando a escala de 0 a 10                                      |
 | `Review`         | Análise do filme                                                                  |
-| `FirstWatched`   | Data em que o filme foi assistido pela primeira vez (`YYYY-MM-DD` ou `YYYY`)      |
-| `LastWatched`    | Data mais recente em que o filme foi assistido(`YYYY-MM-DD` ou `YYYY`)            |
+| `FirstWatched`\* | Data em que o filme foi assistido pela primeira vez (`YYYY-MM-DD` ou `YYYY`)      |
+| `LastWatched`\*  | Data mais recente em que o filme foi assistido(`YYYY-MM-DD` ou `YYYY`)            |
 | `Tags`           | Lista de tags livres para ajudar na organização                                   |
 | `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
 | `ForKids`        | `True`, `False`. Se é uma obra feita e apropriada para crianças                   |
+
+\* No arquivo JSON, esses campos foram substituídos por `Watches`, que é uma lista contendo todas as vezes em que o filme foi assistido.
+Em `Watches`:
+
+- `"."` indica que o filme foi assistido **uma única vez**, mas a data é desconhecida.
+- `"..."` indica que o filme foi assistido **mais de uma vez**, mas as datas são desconhecidas.
 
 ### Séries
 

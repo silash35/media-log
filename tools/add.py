@@ -1,4 +1,4 @@
-import json
+from datetime import date
 from typing import Type
 
 from config import (
@@ -14,14 +14,12 @@ from config import (
     shows_json_path,
 )
 from sync import json_to_csv
-from utils import order
+from utils import order, read_json, write_json
 from validate import validate
 
 
 def add_entry(new_entry: EntryBase, json_path: str, EntryType: Type[EntryBase]):
-    # Load existing data
-    with open(json_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    data = read_json(json_path)
 
     # Add the new entry
     data.append(new_entry)
@@ -39,9 +37,7 @@ def add_entry(new_entry: EntryBase, json_path: str, EntryType: Type[EntryBase]):
     data = ordered_data
 
     # Save back to JSON
-    with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-
+    write_json(json_path, data)
     print(f'Entry "{new_entry["Title"]}" added successfully!')
 
 
@@ -55,11 +51,10 @@ if __name__ == "__main__":
             "Year": 2026,
             "Rating10": 7.0,
             "Review": """Teste""",
-            "FirstWatched": "2026-01-15",
-            "LastWatched": "2026-01-15",
-            "Tags": ["Vi no Cinema"],
             "SafeForParents": False,
             "ForKids": False,
+            "Tags": ["Vi no Cinema"],
+            "Watches": [date.today().isoformat()],  # YYYY-MM-DD
         }
     )
 
