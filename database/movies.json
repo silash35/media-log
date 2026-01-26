@@ -3069,5 +3069,29 @@
     "LastWatched": "2026-01-25",
     "SafeForParents": true,
     "ForKids": true
+  },
+  {
+    "imdbID": "tt0108052",
+    "Title": "Schindler's List",
+    "Year": 1993,
+    "Rating10": 8.0,
+    "FirstWatched": "2026-01-26",
+    "LastWatched": "2026-01-26",
+    "SafeForParents": true,
+    "ForKids": false
+  },
+  {
+    "imdbID": "tt1369845",
+    "Title": "Wizards of Waverly Place: The Movie",
+    "Year": 2009,
+    "SafeForParents": true,
+    "ForKids": true
+  },
+  {
+    "imdbID": "tt2448374",
+    "Title": "The Wizards Return: Alex vs. Alex",
+    "Year": 2013,
+    "SafeForParents": true,
+    "ForKids": true
   }
 ]
