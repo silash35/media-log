@@ -1311,7 +1311,7 @@
       "Vi no Cinema"
     ],
     "Watches": [
-      2024
+      "2024-09-28"
     ]
   },
   {
@@ -1466,6 +1466,9 @@
     "Review": "Ah, não é ruim não...",
     "SafeForParents": true,
     "ForKids": false,
+    "Tags": [
+      "Marvel"
+    ],
     "Watches": [
       2024
     ]
@@ -3243,7 +3246,10 @@
     "Title": "Wizards of Waverly Place: The Movie",
     "Year": 2009,
     "SafeForParents": true,
-    "ForKids": true
+    "ForKids": true,
+    "Watches": [
+      "..."
+    ]
   },
   {
     "imdbID": "tt2448374",
@@ -3252,7 +3258,7 @@
     "SafeForParents": true,
     "ForKids": true,
     "Watches": [
-      "..."
+      "."
     ]
   },
   {
@@ -3277,6 +3283,99 @@
     "ForKids": true,
     "Watches": [
       "2026-01-26"
+    ]
+  },
+  {
+    "imdbID": "tt2762506",
+    "Title": "Bacurau",
+    "Year": 2019,
+    "Watches": [
+      "."
+    ]
+  },
+  {
+    "imdbID": "tt2027178",
+    "Title": "O Homem do Futuro",
+    "Year": 2011,
+    "Watches": [
+      "."
+    ]
+  },
+  {
+    "imdbID": "tt2325989",
+    "Title": "Teen Beach Movie",
+    "Year": 2013,
+    "Watches": [
+      "."
+    ]
+  },
+  {
+    "imdbID": "tt3764966",
+    "Title": "Teen Beach 2",
+    "Year": 2015,
+    "Watches": [
+      "."
+    ]
+  },
+  {
+    "imdbID": "tt1114677",
+    "Title": "Hannah Montana: The Movie",
+    "Year": 2009,
+    "Watches": [
+      "."
+    ]
+  },
+  {
+    "imdbID": "tt0940709",
+    "Title": "CJ7",
+    "Year": 2008,
+    "Watches": [
+      "..."
+    ]
+  },
+  {
+    "imdbID": "tt11057302",
+    "Title": "Madame Web",
+    "Year": 2024,
+    "Tags": [
+      "Marvel",
+      "Vi no Cinema"
+    ],
+    "Watches": [
+      "2024-03-01"
+    ]
+  },
+  {
+    "imdbID": "tt1270797",
+    "Title": "Venom",
+    "Year": 2018,
+    "Tags": [
+      "Marvel"
+    ],
+    "Watches": [
+      "."
+    ]
+  },
+  {
+    "imdbID": "tt7097896",
+    "Title": "Venom: Let There Be Carnage",
+    "Year": 2021,
+    "Tags": [
+      "Marvel"
+    ],
+    "Watches": [
+      "."
+    ]
+  },
+  {
+    "imdbID": "tt5108870",
+    "Title": "Morbius",
+    "Year": 2022,
+    "Tags": [
+      "Marvel"
+    ],
+    "Watches": [
+      "."
     ]
   }
 ]

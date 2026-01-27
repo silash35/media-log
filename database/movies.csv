@@ -284,7 +284,7 @@ A história em si ficou razoável. Esperava mais, mas tbm não é perda total.",
 tt0449059,Little Miss Sunshine,2006,8.2,"Pensei que seria mais um daqueles filmes de viajem de sessão da tarde. Mas esse aqui tem um tempero diferente. Só vai, é um filme realmente muito bom.",True,False,,2024,2024
 tt28150132,Omni Loop,2024,7.0,"Filme gringo com diretor Brasileiro. Resolvi dar uma chance e não me arrependi. É um filme bastante criativo com um final meio decepcionante, mas que entendi do porquê. E acredito que o filme valha a pena.",True,False,,2024,2024
 tt2049403,Beetlejuice Beetlejuice,2024,7.0,Se você gostou do primeiro filme vai gostar desse aqui tbm. Extremamente Tim Burton com sempre.,True,False,,2024,2024
-tt8864596,Transformers One,2024,7.9,"Finalmente um filme de Transformers sem humanos. E é um filme feito para os fãs da franquia, inclusive acho que merece ganhar continuação.",True,True,"['Transformers', 'Vi no Cinema']",2024,2024
+tt8864596,Transformers One,2024,7.9,"Finalmente um filme de Transformers sem humanos. E é um filme feito para os fãs da franquia, inclusive acho que merece ganhar continuação.",True,True,"['Transformers', 'Vi no Cinema']",2024-09-28,2024-09-28
 tt6341832,Oxygen,2021,7.2,"Tem uma folha lá na UFBA que quando vc joga ela do alto ela cai girando e é muito legal toda vez que eu vejo jogo ela do quinto andar e olho ela cair. Aí certa vez estava jogando e o coordenador do meu curso viu e falou: uau que legal tem um filme com essa folha assista
 
 Aí fui ver com um pé atrás pq a Netflix não tem um bom histórico com ficção cientifica. E pô o filme me surpreendeu. É bem bom, não posso falar quase nada pq se não é spoiler mas gostei aprovado",True,False,,2025,2025
@@ -325,7 +325,7 @@ Uma pena que foi um fracasso nas bilheterias. Por muito muito muito pouco a gent
 tt18161082,Turn Me On,2024,6.2,"Uma pílula remove completamente todos os sentimentos. E todos tomam essa pilula regularmente, inclusive bebês. Até que nossa personagem para de tomar e de repente sente tédio, felicidade, tesão, tristeza, ciumes…
 
 O final tem uma grande revelação que foi jogada de uma maneira muito anticlimática. O filme perdeu pontos por isso, mas foi legal acompanhar a jornada das pessoas experimentando sentimentos pela primeira vez, lidando com eles, etc.",False,False,,2025,2025
-tt16366836,Venom: The Last Dance,2024,6.2,"Ah, não é ruim não...",True,False,,2024,2024
+tt16366836,Venom: The Last Dance,2024,6.2,"Ah, não é ruim não...",True,False,['Marvel'],2024,2024
 tt10954718,Dog Man,2025,6.1,"Um policial e seu cachorro sofrem um terrível acidente e os médicos resolvem grudar a cabeça do cachorro no corpo do policial para salvar os dois.
 
 Isso seria um gore pesadíssimo extremamente perturbador, se não fosse apenas um filme de animação infantil.
@@ -666,8 +666,8 @@ Exceto que aqui é um filme da Disney e ele termina com ele avisando que passou 
 
 Fim da review. Chega.",True,True,,2026-01-25,2026-01-25
 tt0108052,Schindler's List,1993,8.0,,True,False,,2026-01-26,2026-01-26
-tt1369845,Wizards of Waverly Place: The Movie,2009,,,True,True,,,
-tt2448374,The Wizards Return: Alex vs. Alex,2013,,,True,True,,...,...
+tt1369845,Wizards of Waverly Place: The Movie,2009,,,True,True,,...,...
+tt2448374,The Wizards Return: Alex vs. Alex,2013,,,True,True,,.,.
 tt10627720,Ne Zha,2019,9.0,"Que filme criativo. O tempo todo eu não sabia o que ia acontecer porque é realmente uma história muito fora do padrão, com muitos elementos e muitos personagens, todos bem escritos e com suas motivações bem colocadas. Aqui temos também um destaque especial para as cenas de ação que são espetaculares. Acho que as melhores que eu já vi em uma animação. É incrível o que se pode fazer quando não está ocupado fazendo o fiapo do tecido da roupa do Woody e pode usar o orçamento para fazer cenas realmente impressionantes.
 
 O humor desse filme eu gostei bastante, ele é bastante usado para quebrar a tensão (nem nos filmes da Marvel). Aqui é um grande épico e eles provavelmente não queriam que um clima mais pesado acabasse deixando o filme ruim para as crianças. Agora reconheço que algumas piadas não vão ser para todo mundo, especialmente quem procura um humor mais maduro e requintado.",True,True,,2026-01-26,2026-01-26
@@ -680,3 +680,13 @@ O filme de animação chinês que eu nunca nem tinha ouvido falar e do nada ele 
 E o que tem nesse filme? É o primeiro filme só que elevado ao quadrado. Aqui tudo está muito maior, as cenas de ação tem uma proporção gigantesca com milhares de coisas acontecendo. Estarei aguardando ansiosamente a continuação e por mim, eu vejo ela no cinema porque o filme merece.
 
 Agora porque bulhufas esse filme não foi indicado ao Oscar e a porcaria do **Elio (2025)** foi? Muito injusto.",True,True,,2026-01-26,2026-01-26
+tt2762506,Bacurau,2019,,,,,,.,.
+tt2027178,O Homem do Futuro,2011,,,,,,.,.
+tt2325989,Teen Beach Movie,2013,,,,,,.,.
+tt3764966,Teen Beach 2,2015,,,,,,.,.
+tt1114677,Hannah Montana: The Movie,2009,,,,,,.,.
+tt0940709,CJ7,2008,,,,,,...,...
+tt11057302,Madame Web,2024,,,,,"['Marvel', 'Vi no Cinema']",2024-03-01,2024-03-01
+tt1270797,Venom,2018,,,,,['Marvel'],.,.
+tt7097896,Venom: Let There Be Carnage,2021,,,,,['Marvel'],.,.
+tt5108870,Morbius,2022,,,,,['Marvel'],.,.
