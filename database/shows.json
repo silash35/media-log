@@ -3,22 +3,22 @@
     "imdbID": "tt0056751",
     "Title": "Doctor Who",
     "Year": 1963,
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "Whoniverse"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt0436992",
     "Title": "Doctor Who",
     "Year": 2005,
     "Rating10": 10.0,
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "Whoniverse"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt4834206",
@@ -52,11 +52,11 @@
     "imdbID": "tt0279600",
     "Title": "Smallville",
     "Year": 2001,
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "DC"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt1305826",
@@ -246,51 +246,51 @@
     "imdbID": "tt0138972",
     "Title": "K9 and Company",
     "Year": 1981,
+    "SafeForParents": false,
+    "ForKids": false,
     "Tags": [
       "Whoniverse"
-    ],
-    "SafeForParents": false,
-    "ForKids": false
+    ]
   },
   {
     "imdbID": "tt0862620",
     "Title": "The Sarah Jane Adventures",
     "Year": 2007,
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "Whoniverse"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt9140560",
     "Title": "WandaVision",
     "Year": 2021,
+    "SafeForParents": true,
+    "ForKids": false,
     "Tags": [
       "Marvel"
-    ],
-    "SafeForParents": true,
-    "ForKids": false
+    ]
   },
   {
     "imdbID": "tt0458290",
     "Title": "Star Wars: The Clone Wars",
     "Year": 2008,
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "Star Wars"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt5079788",
     "Title": "Class",
     "Year": 2016,
+    "SafeForParents": false,
+    "ForKids": false,
     "Tags": [
       "Whoniverse"
-    ],
-    "SafeForParents": false,
-    "ForKids": false
+    ]
   },
   {
     "imdbID": "tt9140342",
@@ -303,21 +303,21 @@
     "imdbID": "tt2930604",
     "Title": "Star Wars Rebels",
     "Year": 2014,
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "Star Wars"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt0485301",
     "Title": "Torchwood",
     "Year": 2006,
+    "SafeForParents": false,
+    "ForKids": false,
     "Tags": [
       "Whoniverse"
-    ],
-    "SafeForParents": false,
-    "ForKids": false
+    ]
   },
   {
     "imdbID": "tt5753856",
@@ -358,21 +358,21 @@
     "imdbID": "tt10857164",
     "Title": "Ms. Marvel",
     "Year": 2022,
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "Marvel"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt10160804",
     "Title": "Hawkeye",
     "Year": 2021,
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "Marvel"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt3398228",
@@ -399,21 +399,21 @@
     "imdbID": "tt0976192",
     "Title": "The Spectacular Spider-Man",
     "Year": 2008,
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "Marvel"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt8466564",
     "Title": "Obi-Wan Kenobi",
     "Year": 2022,
+    "SafeForParents": true,
+    "ForKids": false,
     "Tags": [
       "Star Wars"
-    ],
-    "SafeForParents": true,
-    "ForKids": false
+    ]
   },
   {
     "imdbID": "tt3032476",
@@ -440,11 +440,11 @@
     "imdbID": "tt10857160",
     "Title": "She-Hulk: Attorney at Law",
     "Year": 2022,
+    "SafeForParents": false,
+    "ForKids": false,
     "Tags": [
       "Marvel"
-    ],
-    "SafeForParents": false,
-    "ForKids": false
+    ]
   },
   {
     "imdbID": "tt13622956",
@@ -471,11 +471,11 @@
     "imdbID": "tt9140554",
     "Title": "Loki",
     "Year": 2021,
+    "SafeForParents": true,
+    "ForKids": false,
     "Tags": [
       "Marvel"
-    ],
-    "SafeForParents": true,
-    "ForKids": false
+    ]
   },
   {
     "imdbID": "tt0088509",
@@ -551,22 +551,22 @@
     "imdbID": "tt13097606",
     "Title": "Turma da Mônica: A Série",
     "Year": 2022,
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "Turma da Mônica"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt30496489",
     "Title": "Turma da Mônica: Origens",
     "Year": 2024,
     "Review": "É uma série ok da Turma da Mônica. A Denise ficou meio estranha, ainda insistem na Milena, mas não tem grandes problemas nem grandes emoções. Claro, fica difícil não ser mais exigente depois de ver **Turma da Mônica - A Série (2022)** que aí, sim, é uma boa produção que me surpreendeu muito.",
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "Turma da Mônica"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt9174578",
@@ -581,11 +581,11 @@
     "imdbID": "tt4230076",
     "Title": "The Defenders",
     "Year": 2017,
+    "SafeForParents": false,
+    "ForKids": false,
     "Tags": [
       "Marvel"
-    ],
-    "SafeForParents": false,
-    "ForKids": false
+    ]
   },
   {
     "imdbID": "tt31193703",
@@ -632,41 +632,41 @@
     "imdbID": "tt9253284",
     "Title": "Andor",
     "Year": 2022,
+    "SafeForParents": true,
+    "ForKids": false,
     "Tags": [
       "Star Wars"
-    ],
-    "SafeForParents": true,
-    "ForKids": false
+    ]
   },
   {
     "imdbID": "tt20723374",
     "Title": "Star Wars: Tales of the Jedi",
     "Year": 2022,
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "Star Wars"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt32019314",
     "Title": "Star Wars: Tales of the Empire",
     "Year": 2024,
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "Star Wars"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt36414431",
     "Title": "Star Wars: Tales of the Underworld",
     "Year": 2025,
+    "SafeForParents": true,
+    "ForKids": true,
     "Tags": [
       "Star Wars"
-    ],
-    "SafeForParents": true,
-    "ForKids": true
+    ]
   },
   {
     "imdbID": "tt30645193",
@@ -674,11 +674,11 @@
     "Year": 2025,
     "Rating10": 7.1,
     "Review": "Toda a construção da série ao longo dos episódios é muito boa e te envolve bastante na trama. Os episódios funcionam bem individualmente, e os cliffhangers ajudam a manter o interesse alto.\n\nInfelizmente, como tem parecido comum em produções recentes do Russell T Davies, o problema está no final, que acaba sendo morno. A solução é amarga e até faz sentido, mas faltou uma execução mais cuidadosa e melhor desenvolvimento dessa parte.\n\nA última cena, em especial, é bem fraca. O que mais pesa contra ela é o hype criado pelo próprio RTD. Ainda assim, se as implicações desse desfecho forem exploradas no futuro, há potencial para algo realmente interessante.",
+    "SafeForParents": false,
+    "ForKids": false,
     "Tags": [
       "Whoniverse"
-    ],
-    "SafeForParents": false,
-    "ForKids": false
+    ]
   },
   {
     "imdbID": "tt4574334",
@@ -694,11 +694,11 @@
     "Title": "Astronauta",
     "Year": 2024,
     "Review": "É uma animação original da HBO do Astronauta. Achei arriscado fazer uma animação para adultos de um personagem da Turma da Monica, mas acredito que foi certeiro. Os episódios são bem confusos na verdade, mas, ao mesmo tempo, são muito bons e com visuais impressionantes. Espero que tenha uma próxima temporada.\n\nE tomara que essas animações pra jovens e adultos façam sucesso e que realizem um sonho meu que é adaptar a saga Umbra da Turma da Mônica Jovem (e tudo de ruim pra quem fez aquele live action porcaria **Turma da Mônica Jovem: Reflexos do Medo (2024)**. Simplesmente uma das piores produções já feitas).",
+    "SafeForParents": true,
+    "ForKids": false,
     "Tags": [
       "Turma da Mônica"
-    ],
-    "SafeForParents": true,
-    "ForKids": false
+    ]
   },
   {
     "imdbID": "tt2307498",
@@ -713,5 +713,17 @@
     "Year": 2007,
     "SafeForParents": true,
     "ForKids": true
+  },
+  {
+    "imdbID": "tt1751634",
+    "Title": "The Sandman",
+    "Year": 2022,
+    "Rating10": 9.0,
+    "Review": "Sandman (2022)\n\nEu assisti a primeira temporada, mas antes de lançarem a segunda o Neil Gaiman sofreu umas acusações bem pesadas e o futuro da série, assim como de outras, ficou incerto.\n\nA segunda e última temporada lançou e fiquei com medo dela não finalizar a história e Sandman ser mais uma série cancelada da Netflix. Mas não, a série foi finalizada.\n\nNão li os quadrinhos para saber se foi uma boa adaptação, mas pelo que pesquisei o final foi mantido. Só tiveram que correr pra conseguir adaptar vários arcos em uma temporada só. Mas eu, que só vi a série, não achei corrida não, foi num ritmo bom com tudo avançando como deveria avançar.\n\nBem, Sandman é uma série que se leva MUITO a sério. A gente tem um gótico imortal que sai por aí com um corvo no ombro e o tom da série é a coisa mais séria que eu já vi.\n\nE isso é muito bom. Aqui piadas são muito raras, e isso mantém o peso das cenas e dos tópicos. É uma das séries mais diferentes que já vi, extremamente criativa com um universo inteiro que sempre tem mais coisa pra explorar. Super recomendo.\n\nSobre os personagens, todos muito interessantes e com muita personalidade.\n\nÉ sempre legal ver a Johanna Constantine (eterna Clara Oswald) em cena e ver como ela lida com as situações.\n\nA Delírio é uma fofa, uma preciosidade que precisa ser protegida de todos os males do mundo.\n\nA morte é de uma tranquilidade, de uma paz.\n\nA desejo achei a cara da Lady Gaga Kkkkkk\n\nSobre o final da série... Olha, EU pessoalmente não gostei tanto. Difícil comentar sem spoilers, mas não foi um final tecnicamente ruim. É questão de você ver a série e tirar suas próprias conclusões. Até porque a jornada é muito boa, com certeza vale a pena ver a série.",
+    "SafeForParents": false,
+    "ForKids": false,
+      "Tags": [
+      "DC"
+    ]
   }
 ]
