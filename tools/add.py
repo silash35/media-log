@@ -5,11 +5,14 @@ from config import (
     EntryBase,
     GameEntry,
     MovieEntry,
+    ShortEntry,
     ShowEntry,
     games_csv_path,
     games_json_path,
     movies_csv_path,
     movies_json_path,
+    shorts_csv_path,
+    shorts_json_path,
     shows_csv_path,
     shows_json_path,
 )
@@ -42,7 +45,7 @@ def add_entry(new_entry: EntryBase, json_path: str, EntryType: Type[EntryBase]):
 
 
 if __name__ == "__main__":
-    EntryType = MovieEntry  # MovieEntry, ShowEntry, GameEntry
+    EntryType = MovieEntry  # MovieEntry, ShowEntry, GameEntry, ShortEntry
 
     new_entry: EntryType = EntryType(
         {
@@ -67,6 +70,9 @@ if __name__ == "__main__":
     elif EntryType == GameEntry:
         json_path = games_json_path
         csv_path = games_csv_path
+    elif EntryType == ShortEntry:
+        json_path = shorts_json_path
+        csv_path = shorts_csv_path
     else:
         raise ValueError("Unsupported EntryType")
 
