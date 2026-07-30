@@ -1,4 +1,4 @@
-from typing import Type, Union, get_type_hints
+from typing import get_type_hints
 
 from config import (
     EntryBase,
@@ -9,10 +9,10 @@ from config import (
     movies_json_path,
     shows_json_path,
 )
-from utils import read_json, warn
+from utils import check_type, read_json, warn
 
 
-def validate(json_path: str, EntryType: Type[EntryBase]) -> None:
+def validate(json_path: str, EntryType: type[EntryBase]) -> None:
     entries = read_json(json_path)
 
     hints = get_type_hints(EntryType)
@@ -31,16 +31,10 @@ def validate(json_path: str, EntryType: Type[EntryBase]) -> None:
             for field, typ in hints.items():
                 if field in entry:
                     val = entry[field]
-                    # Handle Optional (Union[..., NoneType])
-                    if getattr(typ, "__origin__", None) is Union:
-                        valid_types = [t for t in typ.__args__ if t is not type(None)]
-                        if not any(isinstance(val, t) for t in valid_types):
-                            warn(
-                                f"Type mismatch in '{entry.get('Title', 'No title')}': Field '{field}' should be one of {valid_types}, got {type(val)}"
-                            )
-                    elif not isinstance(val, typ):
+                    if not check_type(val, typ):
                         warn(
-                            f"Type mismatch in '{entry.get('Title', 'No title')}': Field '{field}' should be {typ}, got {type(val)}"
+                            f"Type mismatch in '{entry.get('Title', 'No title')}': "
+                            f"Field '{field}' should be {typ}, got {type(val)}"
                         )
 
             # Check for duplicate imdbID
@@ -51,8 +45,8 @@ def validate(json_path: str, EntryType: Type[EntryBase]) -> None:
                     )
                 seen_ids.add(entry["imdbID"])
 
-        except Exception as e:
-            warn(f"Error processing entry: {str(e)}")
+        except Exception as e:  # noqa: BLE001
+            warn(f"Error processing entry: {e!s}")
             continue
 
     print(

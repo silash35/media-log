@@ -61,16 +61,16 @@ Em `Watches`:
 
 ### Séries
 
-| Campo            | Descrição                                                                         |
-| ---------------- | --------------------------------------------------------------------------------- |
-| `imdbID`         | Código único da série no IMDb (ex: `tt0436992`)                                   |
-| `Title`          | Título da série                                                                   |
-| `Year`           | Ano de lançamento                                                                 |
-| `Rating10`       | Nota dada a série usando a escala de 0 a 10                                       |
-| `Review`         | Análise da série                                                                  |
-| `Tags`           | Lista de tags livres para ajudar na organização                                   |
-| `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras) |
-| `ForKids`        | `True`, `False`. Se é uma obra feita e apropriada para crianças                   |
+| Campo            | Descrição                                                                                                |
+| ---------------- | -------------------------------------------------------------------------------------------------------- |
+| `imdbID`         | Código único da série no IMDb (ex: `tt0436992`)                                                          |
+| `Title`          | Título da série                                                                                          |
+| `Year`           | Ano de lançamento                                                                                        |
+| `Rating10`       | Nota dada à série usando a escala de 0 a 10. Também pode ser uma lista com uma nota para cada temporada. |
+| `Review`         | Análise da série                                                                                         |
+| `Tags`           | Lista de tags livres para ajudar na organização                                                          |
+| `SafeForParents` | `True` ou `False`. Se é seguro para assistir com pais (Sem cenas constrangedoras)                        |
+| `ForKids`        | `True`, `False`. Se é uma obra feita e apropriada para crianças                                          |
 
 ### Jogos
 

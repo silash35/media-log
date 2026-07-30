@@ -1,6 +1,3 @@
-from datetime import date
-from typing import Type
-
 from config import (
     EntryBase,
     GameEntry,
@@ -17,11 +14,11 @@ from config import (
     shows_json_path,
 )
 from sync import json_to_csv
-from utils import order, read_json, write_json
+from utils import order, read_json, today, write_json
 from validate import validate
 
 
-def add_entry(new_entry: EntryBase, json_path: str, EntryType: Type[EntryBase]):
+def add_entry(new_entry: EntryBase, json_path: str, EntryType: type[EntryBase]):
     data = read_json(json_path)
 
     # Add the new entry
@@ -52,12 +49,12 @@ if __name__ == "__main__":
             "imdbID": "tt0000000",
             "Title": "Legally",
             "Year": 2026,
-            "Rating10": 7.0,
+            "Rating10": [7.0, 8.0],
             "Review": """Teste""",
             "SafeForParents": False,
             "ForKids": False,
             "Tags": ["Vi no Cinema"],
-            "Watches": [date.today().isoformat()],  # YYYY-MM-DD
+            "Watches": [today()],  # YYYY-MM-DD
         }
     )
 

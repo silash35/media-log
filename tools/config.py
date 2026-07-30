@@ -15,7 +15,7 @@ class EntryBase(TypedDict, total=False):
     Title: Required[str]
     Year: Required[int]
 
-    Rating10: float
+    Rating10: float | list[float]
     Review: str
 
     SafeForParents: bool

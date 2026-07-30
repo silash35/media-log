@@ -1,7 +1,13 @@
 import csv
 import json
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 from config import EntryBase
+
+
+def today():
+    return datetime.now(ZoneInfo("America/Sao_Paulo")).date().isoformat()
 
 
 def warn(message: str):
@@ -35,3 +41,36 @@ def write_csv(csv_path: str, data: list[EntryBase], fieldnames: list[str]):
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(data)
+
+
+from types import UnionType
+from typing import Any, Union, get_args, get_origin
+
+
+def check_type(value: Any, typ: Any) -> bool:
+    origin = get_origin(typ)
+
+    # int | str | None, etc.
+    if origin is UnionType or origin is Union:
+        return any(check_type(value, t) for t in get_args(typ))
+
+    # list[T]
+    if origin is list:
+        if not isinstance(value, list):
+            return False
+
+        (item_type,) = get_args(typ)
+        return all(check_type(item, item_type) for item in value)
+
+    # dict[K, V] (opcional, se precisar)
+    if origin is dict:
+        if not isinstance(value, dict):
+            return False
+
+        key_type, value_type = get_args(typ)
+        return all(
+            check_type(k, key_type) and check_type(v, value_type)
+            for k, v in value.items()
+        )
+
+    return isinstance(value, typ)
