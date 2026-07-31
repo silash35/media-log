@@ -49,7 +49,7 @@ if __name__ == "__main__":
             "imdbID": "tt0000000",
             "Title": "Legally",
             "Year": 2026,
-            "Rating10": [7.0, 8.0],
+            "Rating10": 7.0,
             "Review": """Teste""",
             "SafeForParents": False,
             "ForKids": False,
