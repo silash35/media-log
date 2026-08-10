@@ -1030,6 +1030,9 @@
     "Review": "Ação e critica social. Filmaço. O início eu achei um pouco lento, infelizmente tinha visto um spoiler sobre o que o filme realmente é, aí prejudicou um pouco a experiência, mas não tanto assim porque ainda gostei bastante.\n\nA cena musical, se você viu o filme sabe qual é, é tão boa que vale a pena eu destacar aqui como um dos pontos altos do filme. O final do filme também é muito bom, mas o pós-créditos achei meio desnecessário, não precisava.\n\nUma coisa engraçada é que eu passei o filme todo pensando se os irmãos são interpretados pelo mesmo ator. São atores diferentes? É o mesmo duplicado? Fiquei o filme inteiro tentando identificar até pesquisar o elenco.",
     "SafeForParents": false,
     "ForKids": false,
+    "Tags": [
+      "Oscar 2026"
+    ],
     "Watches": [
       "2025-06-22"
     ]
@@ -1849,6 +1852,9 @@
     "Review": "Véi que filme bom. Pegaram uma ideia doida, fizeram e deu certo.",
     "SafeForParents": true,
     "ForKids": true,
+    "Tags": [
+      "Oscar 2026"
+    ],
     "Watches": [
       2025
     ]
@@ -2891,6 +2897,9 @@
     "Rating10": 6.2,
     "SafeForParents": false,
     "ForKids": false,
+    "Tags": [
+      "Oscar 2026"
+    ],
     "Watches": [
       "2026-01-13"
     ]
@@ -3160,13 +3169,13 @@
   {
     "imdbID": "tt27847051",
     "Title": "O Agente Secreto",
-    "Year": 2026,
+    "Year": 2025,
     "Rating10": 7.4,
     "Review": "Saiu a indicação ao Oscar de O Agente Secreto (2025) enquanto eu estava assistindo ao filme. Será que ganha melhor filme?\n\nAinda não vi todos os outros, mas gostei bastante dele. Que personagens interessantes, a gente sai do filme querendo ver mais. Saber mais sobre cada um deles (até o gato).\n\nMas bem, já adianto que não é um 007. Apesar do nome, o filme não é sobre isso. Mas vale a pena se você gosta de filmes nacionais.\n\nToda a reconstrução histórica da época da ditadura tá muito bem feita. É realmente uma volta no tempo e imagino que tudo tenha custado muito caro. Tem uns planos bem abertos mostrando a rua que fiquei impressionado. As roupas, os prédios, os carros, todos da época.\n\nOutra coisa é que, apesar de ser muito legal você assistir um filme e ver caras conhecidas, atores famosos e grandes estrelas, aqui foi legal de ver o oposto: pessoas totalmente desconhecidas, atores que eu nunca tinha visto nenhum trabalho antes, mas que encaixaram direitinho nos seus papeis. E o mais legal, pessoas completamente “gente como a gente”. Todos os personagens parecem que são interpretados por gente que poderia facilmente ser da minha rua. Até a nossa querida ministra da magia, a Maria Fernanda Cândido, está irreconhecível nesse filme.",
     "SafeForParents": false,
     "ForKids": false,
     "Tags": [
-      "Oscar 2025"
+      "Oscar 2026"
     ],
     "Watches": [
       "2026-01-22"
@@ -3564,6 +3573,9 @@
     "Review": "Eles tão de olho em nóis da Silva.\n\nReleitura de Save the Green Planet! (2003), Bugonia (2025) fracassou nas bilheterias e saiu do Oscar sem nenhuma estatueta. Mas, pelo menos pra mim, fez um pouquinho de sucesso.\n\nA história é legal, me manteve entretido e cativado durante todo o filme. A trilha sonora com Chappell Roan também foi uma boa surpresa. Não é um daqueles filmes que explica tudo mastigadinho, mas, ao mesmo tempo, mesmo que você não preste muita atenção, não termina a sessão com a sensação de que não entendeu nada. Ficam só algumas dúvidas pontuais. Acho que esse é um bom equilíbrio, porque abre espaço para discutir o filme depois e trocar interpretações.\n\nComo não assisti ao original coreano, fica difícil dizer quais ideias vieram de lá e quais foram criadas para esta versão. Mas a impressão que tive é que essa releitura atualiza a premissa para o mundo atual, conectado, tornando as críticas sociais bem menos sutis no processo. E isso não é necessariamente um problema. Agora confesso que cansa um pouco.\n\nO que me incomodou foi a sensação de que o filme quer muito ser cult e isso acaba ficando forçado às vezes. Mas apesar disso, não é um filme chato não.",
     "SafeForParents": false,
     "ForKids": false,
+    "Tags": [
+      "Oscar 2026"
+    ],
     "Watches": [
       "2026-07-17"
     ]
@@ -3665,6 +3677,33 @@
     "ForKids": false,
     "Watches": [
       "2026-08-01"
+    ]
+  },
+  {
+    "imdbID": "tt0477348",
+    "Title": "No Country for Old Men",
+    "Year": 2007,
+    "Rating10": 4.0,
+    "Review": "Esse filme não me pegou num dia bom. Zero paciência para ritmo devagar, takes longos e, principalmente, para final em aberto.",
+    "SafeForParents": true,
+    "ForKids": false,
+    "Watches": [
+      "2026-08-09"
+    ]
+  },
+  {
+    "imdbID": "tt30144839",
+    "Title": "One Battle After Another",
+    "Year": 2025,
+    "Rating10": 7.5,
+    "Review": "*Uma Batalha Após a Outra (2025)* foi o grande vencedor do Oscar. E o filme não é ruim. Na verdade, ele é bem diferente, entretém e, de alguma forma, consegue fazer a gente se importar com os personagens, mesmo eu me esforçando bastante para não me importar.\n\nAgora, é mais um daqueles casos a agenda política do Oscar fica bem evidente. Esse filme só ganhou justamente por forçar bastante essa agenda (não que os outros também não fizessem). E essa forçação de barra acaba atrapalhando bastante o filme.",
+    "SafeForParents": false,
+    "ForKids": false,
+    "Tags": [
+      "Oscar 2026"
+    ],
+    "Watches": [
+      "2026-08-10"
     ]
   }
 ]
