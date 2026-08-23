@@ -1,5 +1,4 @@
-from config import (
-    EntryBase,
+from lib.config import (
     GameEntry,
     MovieEntry,
     ShortEntry,
@@ -13,42 +12,23 @@ from config import (
     shows_csv_path,
     shows_json_path,
 )
+from lib.imdb import get_title_and_year
+from lib.utils import add_entry, today
 from sync import json_to_csv
-from utils import order, read_json, today, write_json
 from validate import validate
 
-
-def add_entry(new_entry: EntryBase, json_path: str, EntryType: type[EntryBase]):
-    data = read_json(json_path)
-
-    # Add the new entry
-    data.append(new_entry)
-
-    # Order the entries
-    ordered_data = []
-    for line in data:
-        ordered_line = order(line, EntryType.__annotations__.keys())
-
-        if "Tags" in ordered_line and isinstance(ordered_line["Tags"], list):
-            ordered_line["Tags"] = sorted(ordered_line["Tags"], key=str.lower)
-
-        ordered_data.append(ordered_line)
-
-    data = ordered_data
-
-    # Save back to JSON
-    write_json(json_path, data)
-    print(f'Entry "{new_entry["Title"]}" added successfully!')
-
-
 if __name__ == "__main__":
+    imdb_id = "tt32890033"
+
     EntryType = MovieEntry  # MovieEntry, ShowEntry, GameEntry, ShortEntry
+
+    title, year = get_title_and_year(imdb_id)
 
     new_entry: EntryType = EntryType(
         {
-            "imdbID": "tt0000000",
-            "Title": "Legally",
-            "Year": 2026,
+            "imdbID": imdb_id,
+            "Title": title,
+            "Year": year,
             "Rating10": 7.0,
             "Review": """Teste""",
             "SafeForParents": False,

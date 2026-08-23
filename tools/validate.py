@@ -1,6 +1,6 @@
 from typing import get_type_hints
 
-from config import (
+from lib.config import (
     EntryBase,
     GameEntry,
     MovieEntry,
@@ -9,7 +9,7 @@ from config import (
     movies_json_path,
     shows_json_path,
 )
-from utils import check_type, read_json, warn
+from lib.utils import check_type, read_json, warn
 
 
 def validate(json_path: str, EntryType: type[EntryBase]) -> None:

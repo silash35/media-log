@@ -1,9 +1,11 @@
 import csv
 import json
 from datetime import datetime
+from types import UnionType
+from typing import Any, Union, get_args, get_origin
 from zoneinfo import ZoneInfo
 
-from config import EntryBase
+from .config import EntryBase
 
 
 def today():
@@ -43,10 +45,6 @@ def write_csv(csv_path: str, data: list[EntryBase], fieldnames: list[str]):
         writer.writerows(data)
 
 
-from types import UnionType
-from typing import Any, Union, get_args, get_origin
-
-
 def check_type(value: Any, typ: Any) -> bool:
     origin = get_origin(typ)
 
@@ -74,3 +72,26 @@ def check_type(value: Any, typ: Any) -> bool:
         )
 
     return isinstance(value, typ)
+
+
+def add_entry(new_entry: EntryBase, json_path: str, EntryType: type[EntryBase]):
+    data = read_json(json_path)
+
+    # Add the new entry
+    data.append(new_entry)
+
+    # Order the entries
+    ordered_data = []
+    for line in data:
+        ordered_line = order(line, EntryType.__annotations__.keys())
+
+        if "Tags" in ordered_line and isinstance(ordered_line["Tags"], list):
+            ordered_line["Tags"] = sorted(ordered_line["Tags"], key=str.lower)
+
+        ordered_data.append(ordered_line)
+
+    data = ordered_data
+
+    # Save back to JSON
+    write_json(json_path, data)
+    print(f'Entry "{new_entry["Title"]}" added successfully!')

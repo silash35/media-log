@@ -3963,19 +3963,23 @@
     ]
   },
   {
-    "imdbID": "tt6723592",
-    "Title": "Tenet",
-    "Year": 2020,
-    "Watches": [
-      "."
-    ]
-  },
-  {
     "imdbID": "tt15398776",
     "Title": "Oppenheimer",
     "Year": 2023,
     "Watches": [
       "."
+    ]
+  },
+  {
+    "imdbID": "tt32890033",
+    "Title": "Minions & Monsters",
+    "Year": 2026,
+    "Rating10": 6.2,
+    "Review": "Uma verdadeira celebração da história do cinema e um tributo às grandes obras que passaram por esses mais de 100 anos de sétima arte.\n\nÉ claro, estou falando de Minions & Monsters (2026).\n\nUm filme muito divertido, daqueles para desligar o cérebro e curtir. As piadas são bem engraçadas, mas o roteiro não é lá essas coisas. Só que acaba funcionando justamente por ser caótico e imprevisível. Você nunca sabe muito bem qual vai ser a próxima maluquice.",
+    "SafeForParents": true,
+    "ForKids": true,
+    "Watches": [
+      "2026-08-23"
     ]
   }
 ]

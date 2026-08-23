@@ -1,6 +1,6 @@
-from typing import Type, get_type_hints
+from typing import get_type_hints
 
-from config import (
+from lib.config import (
     EntryBase,
     GameEntry,
     MovieEntry,
@@ -12,10 +12,10 @@ from config import (
     shows_csv_path,
     shows_json_path,
 )
-from utils import read_json, write_csv
+from lib.utils import read_json, write_csv
 
 
-def json_to_csv(json_file: str, csv_file: str, EntryType: Type[EntryBase]):
+def json_to_csv(json_file: str, csv_file: str, EntryType: type[EntryBase]):
     data = read_json(json_file)
 
     #  Use type hints from the TypedDict class as column headers
